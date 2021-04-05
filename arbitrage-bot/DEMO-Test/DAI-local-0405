@@ -1,0 +1,4195 @@
+🌟 Bot started! 🌟
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12177429 , Mon Apr 05 2021 13:24:38 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 192.32495373684554
+Uniswap V1 TOKEN Reserves         => 392170.2121700618
+Uniswap ETH Reserves              => 28103.498402290705
+Uniswap TOKEN Reserves            => 55081479.084739335
+Sushiswap ETH Reserves            => 85791.4939702133
+Sushiswap TOKEN Reserves          => 174064084.13899156
+
+
+Uniswap V1 TOKEN/ETH              => 2039.1020746411334
+Uniswap V2 TOEKN/ETH              => 1959.9509746533786
+Sushiswap TOKEN/ETH               => 2028.9200721860188
+
+
+Need to start flashswap from Uniswap V2, borrow ETH
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan ETHs  => 2.0 ETH
+Require to return flashloan source DEX tokens           => 3931.976861595164896705
+To get the tokens, need to send Uniswap V1 WETH X       => 1.953678636615249021
+Profit = (FlashLoan ETHs) - X                           =>  0.04632136338475101
+⏰ Time: Mon Apr 05 2021 13:24:38 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  231813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0463626
+Profit < GasCost, NO Profit, return. =>  -0.000041236615248983755
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan ETHs  => 3.0 ETH
+Require to return flashloan source DEX tokens           => 5898.175180673302253479
+To get the tokens, need to send Uniswap V1 WETH X       => 2.945539667964090118
+Profit = (FlashLoan ETHs) - X                           =>  0.05446033203591005
+⏰ Time: Mon Apr 05 2021 13:24:41 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  231813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0463626
+Profit - GasCost                  =>  0.008097732035910056
+
+🤖 Find aribitrage oppoturnity => 3 times 
+👉 If FlashLoan ETHs  => 4.0 ETH
+Require to return flashloan source DEX tokens           => 7864.513445190388645053
+To get the tokens, need to send Uniswap V1 WETH X       => 3.947621567771380221
+Profit = (FlashLoan ETHs) - X                           =>  0.0523784322286196
+⏰ Time: Mon Apr 05 2021 13:24:43 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  231813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0463626
+Profit - GasCost                  =>  0.006015832228619601
+
+😋 FlashLoan ETHs     => 3.0 ETH
+Require to return flashloan source DEX tokens           => 5898.175180673302253479
+To get the tokens, need to send Uniswap V1 WETH X       => 2.945539667964090118
+Profit = (FlashLoan ETHs) - X                           =>  0.05446033203591005
+⏰ Time: Mon Apr 05 2021 13:24:45 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  231813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0463626
+Profit - GasCost                  =>  0.008097732035910056
+💰 Before Flashswap, the WETH       => 0 💰
+ 👿 👿 👿 ARBITRAGE Transactionを実行して行きます。
+🎉🎉🎉 ARBITRAGE EXECUTED! PENDING TX TO BE MINED 🎉🎉🎉
+🎉🎉🎉 Tx Hash:  0xdce46e948c5550d0f53c6207c93349b2e9d3b551eed0004a820b40cbc5506f92
+
+🎆🎆🎆 SUCCESS　🎉　 TX MINED 🎆🎆🎆
+
+💰 After Flashswap, the WETH       => 0.05446033203590988 💰
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12177430 , Mon Apr 05 2021 13:24:50 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 195.27049340480963
+Uniswap V1 TOKEN Reserves         => 386272.03698938846
+Uniswap ETH Reserves              => 28100.498402290705
+Uniswap TOKEN Reserves            => 55087377.25992001
+Sushiswap ETH Reserves            => 85791.4939702133
+Sushiswap TOKEN Reserves          => 174064084.13899156
+
+
+Uniswap V1 TOKEN/ETH              => 1978.1382750368691
+Uniswap V2 TOEKN/ETH              => 1960.3701141268505
+Sushiswap TOKEN/ETH               => 2028.9200721860188
+
+
+Need to start flashswap from Sushiswap, borrow TOKEN
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan Tokens  => 1100.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 0.55284056163500155
+Require to return flashloan to source DEX ETH X      => 0.543795153559001889
+Profit =  Y - X  =>  0.009045408075999628
+⏰ Time: Mon Apr 05 2021 13:24:50 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  203199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0406398
+Profit < GasCost, will return. =>  -0.03159439192400037
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan Tokens  => 1200.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 0.602943610387321421
+Require to return flashloan to source DEX ETH X      => 0.593231417424049275
+Profit =  Y - X  =>  0.009712192963272193
+⏰ Time: Mon Apr 05 2021 13:24:54 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  203199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0406398
+Profit < GasCost, will return. =>  -0.030927607036727804
+
+🤖 Find aribitrage oppoturnity => 3 times 
+👉 If FlashLoan Tokens  => 1300.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 0.653020881613142807
+Require to return flashloan to source DEX ETH X      => 0.642667738091892399
+Profit =  Y - X  =>  0.010353143521250385
+⏰ Time: Mon Apr 05 2021 13:24:56 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  203199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0406398
+Profit < GasCost, will return. =>  -0.03028665647874961
+
+🤖 Find aribitrage oppoturnity => 4 times 
+👉 If FlashLoan Tokens  => 1400.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 0.703072395200775853
+Require to return flashloan to source DEX ETH X      => 0.692104115562629161
+Profit =  Y - X  =>  0.010968279638146616
+⏰ Time: Mon Apr 05 2021 13:24:57 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  203199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0406398
+Profit < GasCost, will return. =>  -0.02967152036185338
+
+🤖 Find aribitrage oppoturnity => 5 times 
+👉 If FlashLoan Tokens  => 1500.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 0.753098171018076549
+Require to return flashloan to source DEX ETH X      => 0.741540549836357462
+Profit =  Y - X  =>  0.011557621181719102
+⏰ Time: Mon Apr 05 2021 13:24:59 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  203199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0406398
+Profit < GasCost, will return. =>  -0.029082178818280895
+
+🤖 Find aribitrage oppoturnity => 6 times 
+👉 If FlashLoan Tokens  => 1600.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 0.803098228912473015
+Require to return flashloan to source DEX ETH X      => 0.790977040913175204
+Profit =  Y - X  =>  0.012121187999297844
+⏰ Time: Mon Apr 05 2021 13:25:00 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  203187
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0406374
+Profit < GasCost, will return. =>  -0.028516212000702153
+
+🤖 Find aribitrage oppoturnity => 7 times 
+👉 If FlashLoan Tokens  => 1700.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 0.85307258871099175
+Require to return flashloan to source DEX ETH X      => 0.840413588793180287
+Profit =  Y - X  =>  0.012658999917811498
+⏰ Time: Mon Apr 05 2021 13:25:02 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  203199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0406398
+Profit < GasCost, will return. =>  -0.0279808000821885
+
+🤖 Find aribitrage oppoturnity => 8 times 
+👉 If FlashLoan Tokens  => 1800.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 0.903021270220283842
+Require to return flashloan to source DEX ETH X      => 0.889850193476470614
+Profit =  Y - X  =>  0.013171076743813237
+⏰ Time: Mon Apr 05 2021 13:25:03 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  203199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0406398
+Profit < GasCost, will return. =>  -0.02746872325618676
+
+🤖 Find aribitrage oppoturnity => 9 times 
+👉 If FlashLoan Tokens  => 1900.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 0.952944293226651129
+Require to return flashloan to source DEX ETH X      => 0.939286854963144085
+Profit =  Y - X  =>  0.01365743826350696
+⏰ Time: Mon Apr 05 2021 13:25:05 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  203199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0406398
+Profit < GasCost, will return. =>  -0.026982361736493037
+
+🤖 Find aribitrage oppoturnity => 10 times 
+👉 If FlashLoan Tokens  => 2000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.002841677496072331
+Require to return flashloan to source DEX ETH X      => 0.988723573253298603
+Profit =  Y - X  =>  0.0141181042427736
+⏰ Time: Mon Apr 05 2021 13:25:06 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  203199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0406398
+Profit < GasCost, will return. =>  -0.026521695757226398
+
+🤖 Find aribitrage oppoturnity => 11 times 
+👉 If FlashLoan Tokens  => 2100.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.052713442774229136
+Require to return flashloan to source DEX ETH X      => 1.038160348347032069
+Profit =  Y - X  =>  0.014553094427196989
+⏰ Time: Mon Apr 05 2021 13:25:08 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  203199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0406398
+Profit < GasCost, will return. =>  -0.026086705572803008
+
+🤖 Find aribitrage oppoturnity => 12 times 
+👉 If FlashLoan Tokens  => 2200.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.102559608786532242
+Require to return flashloan to source DEX ETH X      => 1.087597180244442387
+Profit =  Y - X  =>  0.014962428542089734
+⏰ Time: Mon Apr 05 2021 13:25:09 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  203199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0406398
+Profit < GasCost, will return. =>  -0.025677371457910263
+
+🤖 Find aribitrage oppoturnity => 13 times 
+👉 If FlashLoan Tokens  => 2300.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.152380195238147369
+Require to return flashloan to source DEX ETH X      => 1.137034068945627459
+Profit =  Y - X  =>  0.015346126292519857
+⏰ Time: Mon Apr 05 2021 13:25:11 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  203199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0406398
+Profit < GasCost, will return. =>  -0.02529367370748014
+
+🤖 Find aribitrage oppoturnity => 14 times 
+👉 If FlashLoan Tokens  => 2400.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.20217522181402122
+Require to return flashloan to source DEX ETH X      => 1.186471014450685187
+Profit =  Y - X  =>  0.015704207363335998
+⏰ Time: Mon Apr 05 2021 13:25:12 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  203199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0406398
+Profit < GasCost, will return. =>  -0.024935592636664
+
+🤖 Find aribitrage oppoturnity => 15 times 
+👉 If FlashLoan Tokens  => 2500.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.251944708178907409
+Require to return flashloan to source DEX ETH X      => 1.235908016759713475
+Profit =  Y - X  =>  0.01603669141919406
+⏰ Time: Mon Apr 05 2021 13:25:14 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  203199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0406398
+Profit < GasCost, will return. =>  -0.024603108580805937
+
+🤖 Find aribitrage oppoturnity => 16 times 
+👉 If FlashLoan Tokens  => 2600.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.301688673977392351
+Require to return flashloan to source DEX ETH X      => 1.285345075872810226
+Profit =  Y - X  =>  0.01634359810458208
+⏰ Time: Mon Apr 05 2021 13:25:15 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  203199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0406398
+Profit < GasCost, will return. =>  -0.024296201895417917
+
+🤖 Find aribitrage oppoturnity => 17 times 
+👉 If FlashLoan Tokens  => 2700.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.351407138833921102
+Require to return flashloan to source DEX ETH X      => 1.334782191790073344
+Profit =  Y - X  =>  0.01662494704384776
+⏰ Time: Mon Apr 05 2021 13:25:17 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  203199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0406398
+Profit < GasCost, will return. =>  -0.024014852956152237
+
+🤖 Find aribitrage oppoturnity => 18 times 
+👉 If FlashLoan Tokens  => 2800.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.40110012235282317
+Require to return flashloan to source DEX ETH X      => 1.384219364511600731
+Profit =  Y - X  =>  0.01688075784122245
+⏰ Time: Mon Apr 05 2021 13:25:18 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  203199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0406398
+Profit < GasCost, will return. =>  -0.023759042158777548
+
+🤖 Find aribitrage oppoturnity => 19 times 
+👉 If FlashLoan Tokens  => 2900.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.450767644118338281
+Require to return flashloan to source DEX ETH X      => 1.433656594037490293
+Profit =  Y - X  =>  0.01711105008084801
+⏰ Time: Mon Apr 05 2021 13:25:20 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  203199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0406398
+Profit < GasCost, will return. =>  -0.023528749919151985
+
+🤖 Find aribitrage oppoturnity => 20 times 
+👉 If FlashLoan Tokens  => 3000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.500409723694642106
+Require to return flashloan to source DEX ETH X      => 1.483093880367839934
+Profit =  Y - X  =>  0.01731584332680214
+⏰ Time: Mon Apr 05 2021 13:25:21 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  203199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0406398
+Profit < GasCost, will return. =>  -0.02332395667319786
+
+🤖 Find aribitrage oppoturnity => 21 times 
+👉 If FlashLoan Tokens  => 3100.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.550026380625871951
+Require to return flashloan to source DEX ETH X      => 1.532531223502747557
+Profit =  Y - X  =>  0.01749515712312455
+⏰ Time: Mon Apr 05 2021 13:25:23 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  203199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0406398
+Profit < GasCost, will return. =>  -0.023144642876875447
+
+🤖 Find aribitrage oppoturnity => 22 times 
+👉 If FlashLoan Tokens  => 3200.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.599617634436152401
+Require to return flashloan to source DEX ETH X      => 1.581968623442311068
+Profit =  Y - X  =>  0.017649010993841197
+⏰ Time: Mon Apr 05 2021 13:25:24 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  203187
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0406374
+Profit < GasCost, will return. =>  -0.0229883890061588
+
+🤖 Find aribitrage oppoturnity => 23 times 
+👉 If FlashLoan Tokens  => 3300.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.649183504629620935
+Require to return flashloan to source DEX ETH X      => 1.631406080186628371
+Profit =  Y - X  =>  0.017777424442992684
+⏰ Time: Mon Apr 05 2021 13:25:26 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  203199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0406398
+Profit < GasCost, will return. =>  -0.022862375557007313
+
+🤖 Find aribitrage oppoturnity => 24 times 
+👉 If FlashLoan Tokens  => 3400.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.698724010690453491
+Require to return flashloan to source DEX ETH X      => 1.680843593735797371
+Profit =  Y - X  =>  0.017880416954656253
+⏰ Time: Mon Apr 05 2021 13:25:27 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  203199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0406398
+Profit < GasCost, will return. =>  -0.022759383045343744
+
+🤖 Find aribitrage oppoturnity => 25 times 
+👉 If FlashLoan Tokens  => 3500.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.748239172082889999
+Require to return flashloan to source DEX ETH X      => 1.730281164089915975
+Profit =  Y - X  =>  0.01795800799297398
+⏰ Time: Mon Apr 05 2021 13:25:29 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  203199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0406398
+Profit < GasCost, will return. =>  -0.022681792007026018
+
+🤖 Find aribitrage oppoturnity => 26 times 
+👉 If FlashLoan Tokens  => 3600.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.797729008251259871
+Require to return flashloan to source DEX ETH X      => 1.779718791249082086
+Profit =  Y - X  =>  0.018010217002177642
+⏰ Time: Mon Apr 05 2021 13:25:30 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  203199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0406398
+Profit < GasCost, will return. =>  -0.022629582997822355
+
+🤖 Find aribitrage oppoturnity => 27 times 
+👉 If FlashLoan Tokens  => 3700.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.847193538620007457
+Require to return flashloan to source DEX ETH X      => 1.829156475213393611
+Profit =  Y - X  =>  0.018037063406613818
+⏰ Time: Mon Apr 05 2021 13:25:32 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  203199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0406398
+Profit < GasCost, will return. =>  -0.02260273659338618
+
+🤖 Find aribitrage oppoturnity => 28 times 
+👉 If FlashLoan Tokens  => 3800.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.896632782593717451
+Require to return flashloan to source DEX ETH X      => 1.878594215982948457
+Profit =  Y - X  =>  0.01803856661076897
+⏰ Time: Mon Apr 05 2021 13:25:34 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  203199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0406398
+Profit < GasCost, will return. =>  -0.022601233389231028
+
+🤖 Find aribitrage oppoturnity => 29 times 
+👉 If FlashLoan Tokens  => 3900.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.946046759557140271
+Require to return flashloan to source DEX ETH X      => 1.928032013557844529
+Profit =  Y - X  =>  0.018014745999295645
+⏰ Time: Mon Apr 05 2021 13:25:35 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  203199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0406398
+Profit < GasCost, will return. =>  -0.022625054000704352
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+🌟 Bot started! 🌟
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12177430 , Mon Apr 05 2021 13:26:08 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 195.27049340480963
+Uniswap V1 TOKEN Reserves         => 386272.03698938846
+Uniswap ETH Reserves              => 28100.498402290705
+Uniswap TOKEN Reserves            => 55087377.25992001
+Sushiswap ETH Reserves            => 85791.4939702133
+Sushiswap TOKEN Reserves          => 174064084.13899156
+
+
+Uniswap V1 TOKEN/ETH              => 1978.1382750368691
+Uniswap V2 TOEKN/ETH              => 1960.3701141268505
+Sushiswap TOKEN/ETH               => 2028.9200721860188
+
+
+Need to start flashswap from Sushiswap, borrow TOKEN
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan Tokens  => 2000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.002841677496072331
+Require to return flashloan to source DEX ETH X      => 0.988723573253298603
+Profit =  Y - X  =>  0.0141181042427736
+⏰ Time: Mon Apr 05 2021 13:26:08 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  203199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0406398
+Profit < GasCost, will return. =>  -0.026521695757226398
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan Tokens  => 3000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.500409723694642106
+Require to return flashloan to source DEX ETH X      => 1.483093880367839934
+Profit =  Y - X  =>  0.01731584332680214
+⏰ Time: Mon Apr 05 2021 13:26:10 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  203199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0406398
+Profit < GasCost, will return. =>  -0.02332395667319786
+
+🤖 Find aribitrage oppoturnity => 3 times 
+👉 If FlashLoan Tokens  => 4000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.995435488875217396
+Require to return flashloan to source DEX ETH X      => 1.977469867938179733
+Profit =  Y - X  =>  0.017965620937037796
+⏰ Time: Mon Apr 05 2021 13:26:11 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  203199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0406398
+Profit < GasCost, will return. =>  -0.0226741790629622
+
+🤖 Find aribitrage oppoturnity => 4 times 
+👉 If FlashLoan Tokens  => 5000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 2.487938407736234122
+Require to return flashloan to source DEX ETH X      => 2.471851536062223647
+Profit =  Y - X  =>  0.016086871674010794
+⏰ Time: Mon Apr 05 2021 13:26:13 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  203211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0406422
+Profit < GasCost, will return. =>  -0.02455532832598921
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+🌟 Bot started! 🌟
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12177562 , Mon Apr 05 2021 13:37:21 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 192.58495373684553
+Uniswap V1 TOKEN Reserves         => 391642.34759829467
+Uniswap ETH Reserves              => 28081.132709783964
+Uniswap TOKEN Reserves            => 55081540.06625746
+Sushiswap ETH Reserves            => 86900.21459423502
+Sushiswap TOKEN Reserves          => 176545929.12602583
+
+
+Uniswap V1 TOKEN/ETH              => 2033.60823366008
+Uniswap V2 TOEKN/ETH              => 1961.5141823344638
+Sushiswap TOKEN/ETH               => 2031.5937072235715
+
+
+Need to start flashswap from Uniswap V2, borrow ETH
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan ETHs  => 2.0 ETH
+Require to return flashloan source DEX tokens           => 3935.11313066610056425
+To get the tokens, need to send Uniswap V1 WETH X       => 1.960561693202748407
+Profit = (FlashLoan ETHs) - X                           =>  0.03943830679725169
+⏰ Time: Mon Apr 05 2021 13:37:24 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  231813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0463626
+Profit < GasCost, NO Profit, return. =>  -0.006924293202748309
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan ETHs  => 3.0 ETH
+Require to return flashloan source DEX tokens           => 5902.879919013516126308
+To get the tokens, need to send Uniswap V1 WETH X       => 2.955949886550305146
+Profit = (FlashLoan ETHs) - X                           =>  0.044050113449694894
+⏰ Time: Mon Apr 05 2021 13:37:26 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  231813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0463626
+Profit < GasCost, NO Profit, return. =>  -0.0023124865503051026
+
+🤖 Find aribitrage oppoturnity => 3 times 
+👉 If FlashLoan ETHs  => 4.0 ETH
+Require to return flashloan source DEX tokens           => 7870.786876003412885388
+To get the tokens, need to send Uniswap V1 WETH X       => 3.961617666799395884
+Profit = (FlashLoan ETHs) - X                           =>  0.03838233320060391
+⏰ Time: Mon Apr 05 2021 13:37:28 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  231813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0463626
+Profit < GasCost, NO Profit, return. =>  -0.007980266799396084
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+🌟 Bot started! 🌟
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12177562 , Mon Apr 05 2021 13:38:18 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 192.58495373684553
+Uniswap V1 TOKEN Reserves         => 391642.34759829467
+Uniswap ETH Reserves              => 28081.132709783964
+Uniswap TOKEN Reserves            => 55081540.06625746
+Sushiswap ETH Reserves            => 86900.21459423502
+Sushiswap TOKEN Reserves          => 176545929.12602583
+
+
+Uniswap V1 TOKEN/ETH              => 2033.60823366008
+Uniswap V2 TOEKN/ETH              => 1961.5141823344638
+Sushiswap TOKEN/ETH               => 2031.5937072235715
+
+
+Need to start flashswap from Uniswap V2, borrow ETH
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan ETHs  => 2.0 ETH
+Require to return flashloan source DEX tokens           => 3935.11313066610056425
+To get the tokens, need to send Uniswap V1 WETH X       => 1.960561693202748407
+Profit = (FlashLoan ETHs) - X                           =>  0.03943830679725169
+⏰ Time: Mon Apr 05 2021 13:38:18 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  231813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0463626
+Profit < GasCost, NO Profit, return. =>  -0.006924293202748309
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan ETHs  => 3.0 ETH
+Require to return flashloan source DEX tokens           => 5902.879919013516126308
+To get the tokens, need to send Uniswap V1 WETH X       => 2.955949886550305146
+Profit = (FlashLoan ETHs) - X                           =>  0.044050113449694894
+⏰ Time: Mon Apr 05 2021 13:38:19 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  231813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0463626
+Profit < GasCost, NO Profit, return. =>  -0.0023124865503051026
+
+🤖 Find aribitrage oppoturnity => 3 times 
+👉 If FlashLoan ETHs  => 4.0 ETH
+Require to return flashloan source DEX tokens           => 7870.786876003412885388
+To get the tokens, need to send Uniswap V1 WETH X       => 3.961617666799395884
+Profit = (FlashLoan ETHs) - X                           =>  0.03838233320060391
+⏰ Time: Mon Apr 05 2021 13:38:21 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  231813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0463626
+Profit < GasCost, NO Profit, return. =>  -0.007980266799396084
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+🌟 Bot started! 🌟
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12177562 , Mon Apr 05 2021 13:39:33 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 192.58495373684553
+Uniswap V1 TOKEN Reserves         => 391642.34759829467
+Uniswap ETH Reserves              => 28081.132709783964
+Uniswap TOKEN Reserves            => 55081540.06625746
+Sushiswap ETH Reserves            => 86900.21459423502
+Sushiswap TOKEN Reserves          => 176545929.12602583
+
+
+Uniswap V1 TOKEN/ETH              => 2033.60823366008
+Uniswap V2 TOEKN/ETH              => 1961.5141823344638
+Sushiswap TOKEN/ETH               => 2031.5937072235715
+
+
+Need to start flashswap from Uniswap V2, borrow ETH
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan ETHs  => 2.0 ETH
+Require to return flashloan source DEX tokens           => 3935.11313066610056425
+To get the tokens, need to send Uniswap V1 WETH X       => 1.960561693202748407
+Profit = (FlashLoan ETHs) - X                           =>  0.03943830679725169
+⏰ Time: Mon Apr 05 2021 13:39:33 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  231813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0463626
+Profit < GasCost, NO Profit, return. =>  -0.006924293202748309
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan ETHs  => 3.0 ETH
+Require to return flashloan source DEX tokens           => 5902.879919013516126308
+To get the tokens, need to send Uniswap V1 WETH X       => 2.955949886550305146
+Profit = (FlashLoan ETHs) - X                           =>  0.044050113449694894
+⏰ Time: Mon Apr 05 2021 13:39:35 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  231813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0463626
+Profit < GasCost, NO Profit, return. =>  -0.0023124865503051026
+
+🤖 Find aribitrage oppoturnity => 3 times 
+👉 If FlashLoan ETHs  => 4.0 ETH
+Require to return flashloan source DEX tokens           => 7870.786876003412885388
+To get the tokens, need to send Uniswap V1 WETH X       => 3.961617666799395884
+Profit = (FlashLoan ETHs) - X                           =>  0.03838233320060391
+⏰ Time: Mon Apr 05 2021 13:39:37 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  231813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0463626
+Profit < GasCost, NO Profit, return. =>  -0.007980266799396084
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+🌟 Bot started! 🌟
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12177563 , Mon Apr 05 2021 13:40:03 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 192.58495373684553
+Uniswap V1 TOKEN Reserves         => 391642.34759829467
+Uniswap ETH Reserves              => 28281.132709783964
+Uniswap TOKEN Reserves            => 54693171.883736916
+Sushiswap ETH Reserves            => 86900.21459423502
+Sushiswap TOKEN Reserves          => 176545929.12602583
+
+
+Uniswap V1 TOKEN/ETH              => 2033.60823366008
+Uniswap V2 TOEKN/ETH              => 1933.9102307177254
+Sushiswap TOKEN/ETH               => 2031.5937072235715
+
+
+Need to start flashswap from Uniswap V2, borrow ETH
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan ETHs  => 2.0 ETH
+Require to return flashloan source DEX tokens           => 3879.733206960382440498
+To get the tokens, need to send Uniswap V1 WETH X       => 1.932694106958537498
+Profit = (FlashLoan ETHs) - X                           =>  0.0673058930414625
+⏰ Time: Mon Apr 05 2021 13:40:04 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  231813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0463626
+Profit - GasCost                  =>  0.02094329304146251
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan ETHs  => 3.0 ETH
+Require to return flashloan source DEX tokens           => 5819.805609029545804848
+To get the tokens, need to send Uniswap V1 WETH X       => 2.913721750870062009
+Profit = (FlashLoan ETHs) - X                           =>  0.08627824912993809
+⏰ Time: Mon Apr 05 2021 13:40:05 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  231813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0463626
+Profit - GasCost                  =>  0.03991564912993809
+
+🤖 Find aribitrage oppoturnity => 3 times 
+👉 If FlashLoan ETHs  => 4.0 ETH
+Require to return flashloan source DEX tokens           => 7760.015229565799214223
+To get the tokens, need to send Uniswap V1 WETH X       => 3.904735708693066891
+Profit = (FlashLoan ETHs) - X                           =>  0.09526429130693304
+⏰ Time: Mon Apr 05 2021 13:40:07 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  231813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0463626
+Profit - GasCost                  =>  0.04890169130693304
+
+🤖 Find aribitrage oppoturnity => 4 times 
+👉 If FlashLoan ETHs  => 5.0 ETH
+Require to return flashloan source DEX tokens           => 9700.362083127548002736
+To get the tokens, need to send Uniswap V1 WETH X       => 4.905889243145526899
+Profit = (FlashLoan ETHs) - X                           =>  0.09411075685447301
+⏰ Time: Mon Apr 05 2021 13:40:08 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  231813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0463626
+Profit - GasCost                  =>  0.04774815685447301
+
+😋 FlashLoan ETHs     => 4.0 ETH
+Require to return flashloan source DEX tokens           => 7760.015229565799214223
+To get the tokens, need to send Uniswap V1 WETH X       => 3.904735708693066891
+Profit = (FlashLoan ETHs) - X                           =>  0.09526429130693304
+⏰ Time: Mon Apr 05 2021 13:40:10 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  231813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0463626
+Profit - GasCost                  =>  0.04890169130693304
+💰 Before Flashswap, the WETH       => 0 💰
+ 👿 👿 👿 ARBITRAGE Transactionを実行して行きます。
+🎉🎉🎉 ARBITRAGE EXECUTED! PENDING TX TO BE MINED 🎉🎉🎉
+🎉🎉🎉 Tx Hash:  0x8521e5e55b20f3d279c42dd3f000a9338de58783d9952dd7dc5f52a154ba1e7e
+
+🎆🎆🎆 SUCCESS　🎉　 TX MINED 🎆🎆🎆
+
+💰 After Flashswap, the WETH       => 0.0952642913069331 💰
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12177564 , Mon Apr 05 2021 13:40:11 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 196.4896894455386
+Uniswap V1 TOKEN Reserves         => 383882.3323687289
+Uniswap ETH Reserves              => 28277.132709783964
+Uniswap TOKEN Reserves            => 54700931.89896648
+Sushiswap ETH Reserves            => 86900.21459423502
+Sushiswap TOKEN Reserves          => 176545929.12602583
+
+
+Uniswap V1 TOKEN/ETH              => 1953.7021685564332
+Uniswap V2 TOEKN/ETH              => 1934.4582232002542
+Sushiswap TOKEN/ETH               => 2031.5937072235715
+
+
+Need to start flashswap from Sushiswap, borrow TOKEN
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan Tokens  => 2000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.015352349674595405
+Require to return flashloan to source DEX ETH X      => 0.987422225446162074
+Profit =  Y - X  =>  0.027930124228433217
+⏰ Time: Mon Apr 05 2021 13:40:12 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  203199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0406398
+Profit < GasCost, will return. =>  -0.01270967577156678
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan Tokens  => 3000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.519103572048405358
+Require to return flashloan to source DEX ETH X      => 1.481141727818975908
+Profit =  Y - X  =>  0.03796184422942939
+⏰ Time: Mon Apr 05 2021 13:40:16 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  203199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0406398
+Profit < GasCost, will return. =>  -0.00267795577057061
+
+🤖 Find aribitrage oppoturnity => 3 times 
+👉 If FlashLoan Tokens  => 4000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 2.020265063129081841
+Require to return flashloan to source DEX ETH X      => 1.974866823418337304
+Profit =  Y - X  =>  0.045398239710744415
+⏰ Time: Mon Apr 05 2021 13:40:17 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  203199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0406398
+Profit - GasCost              =>  0.004758439710744418
+
+🤖 Find aribitrage oppoturnity => 4 times 
+👉 If FlashLoan Tokens  => 5000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 2.518856742014098481
+Require to return flashloan to source DEX ETH X      => 2.468597512339293228
+Profit =  Y - X  =>  0.05025922967480545
+⏰ Time: Mon Apr 05 2021 13:40:19 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  203211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0406422
+Profit - GasCost              =>  0.009617029674805447
+
+🤖 Find aribitrage oppoturnity => 5 times 
+👉 If FlashLoan Tokens  => 6000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.014898324044508712
+Require to return flashloan to source DEX ETH X      => 2.9623337946768928
+Profit =  Y - X  =>  0.0525645293676158
+⏰ Time: Mon Apr 05 2021 13:40:20 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  203211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0406422
+Profit - GasCost              =>  0.011922329367615794
+
+🤖 Find aribitrage oppoturnity => 6 times 
+👉 If FlashLoan Tokens  => 7000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.508409323403631473
+Require to return flashloan to source DEX ETH X      => 3.456075670526187293
+Profit =  Y - X  =>  0.05233365287744407
+⏰ Time: Mon Apr 05 2021 13:40:22 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  203211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0406422
+Profit - GasCost              =>  0.011691452877444067
+
+😋 FlashLoan Tokens     => 6000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.014898324044508712
+Require to return flashloan to source DEX ETH X      => 2.9623337946768928
+Profit =  Y - X  =>  0.0525645293676158
+⏰ Time: Mon Apr 05 2021 13:40:23 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  203211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0406422
+Profit - GasCost              =>  0.011922329367615794
+💰 Before Flashswap, the WETH       => 0.0952642913069331 💰
+ 👿 👿 👿 ARBITRAGE Transactionを実行して行きます。
+🎉🎉🎉 ARBITRAGE EXECUTED! PENDING TX TO BE MINED 🎉🎉🎉
+🎉🎉🎉 Tx Hash:  0x251ae658b2329d3fbbcf37d4f7140ed67b9e364674df5ffbf7ff5a32fe033a2b
+🎆🎆🎆 SUCCESS　🎉　 TX MINED 🎆🎆🎆
+
+💰 After Flashswap, the WETH       => 0.14782882067454903 💰
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12177565 , Mon Apr 05 2021 13:40:27 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 193.4747911214941
+Uniswap V1 TOKEN Reserves         => 389882.3323687289
+Uniswap ETH Reserves              => 28277.132709783964
+Uniswap TOKEN Reserves            => 54700931.89896648
+Sushiswap ETH Reserves            => 86903.1769280297
+Sushiswap TOKEN Reserves          => 176539929.12602583
+
+
+Uniswap V1 TOKEN/ETH              => 2015.15830619969
+Uniswap V2 TOEKN/ETH              => 1934.4582232002542
+Sushiswap TOKEN/ETH               => 2031.4554124094943
+
+
+Need to start flashswap from Uniswap V2, borrow ETH
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan ETHs  => 2.0 ETH
+Require to return flashloan source DEX tokens           => 3880.832606344215213729
+To get the tokens, need to send Uniswap V1 WETH X       => 1.951035387454367801
+Profit = (FlashLoan ETHs) - X                           =>  0.048964612545632225
+⏰ Time: Mon Apr 05 2021 13:40:28 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.011602012545632222
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan ETHs  => 3.0 ETH
+Require to return flashloan source DEX tokens           => 5821.454795545410529484
+To get the tokens, need to send Uniswap V1 WETH X       => 2.941444698106138816
+Profit = (FlashLoan ETHs) - X                           =>  0.058555301893861156
+⏰ Time: Mon Apr 05 2021 13:40:29 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.021192701893861153
+
+🤖 Find aribitrage oppoturnity => 3 times 
+👉 If FlashLoan ETHs  => 4.0 ETH
+Require to return flashloan source DEX tokens           => 7762.214261518099202942
+To get the tokens, need to send Uniswap V1 WETH X       => 3.941984854142116855
+Profit = (FlashLoan ETHs) - X                           =>  0.058015145857883255
+⏰ Time: Mon Apr 05 2021 13:40:31 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.020652545857883252
+
+😋 FlashLoan ETHs     => 3.0 ETH
+Require to return flashloan source DEX tokens           => 5821.454795545410529484
+To get the tokens, need to send Uniswap V1 WETH X       => 2.941444698106138816
+Profit = (FlashLoan ETHs) - X                           =>  0.058555301893861156
+⏰ Time: Mon Apr 05 2021 13:40:32 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.021192701893861153
+💰 Before Flashswap, the WETH       => 0.14782882067454903 💰
+ 👿 👿 👿 ARBITRAGE Transactionを実行して行きます。
+🎉🎉🎉 ARBITRAGE EXECUTED! PENDING TX TO BE MINED 🎉🎉🎉
+🎉🎉🎉 Tx Hash:  0xd4a397b98f89499aeb205acb3c4240d0d51788c3df62baa93ad9694465207e91
+
+🎆🎆🎆 SUCCESS　🎉　 TX MINED 🎆🎆🎆
+
+💰 After Flashswap, the WETH       => 0.2063841225684102 💰
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12177566 , Mon Apr 05 2021 13:40:35 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 196.41623581960025
+Uniswap V1 TOKEN Reserves         => 384060.87757318345
+Uniswap ETH Reserves              => 28274.132709783964
+Uniswap TOKEN Reserves            => 54706753.35376202
+Sushiswap ETH Reserves            => 86903.1769280297
+Sushiswap TOKEN Reserves          => 176539929.12602583
+
+
+Uniswap V1 TOKEN/ETH              => 1955.341807517005
+Uniswap V2 TOEKN/ETH              => 1934.869370363793
+Sushiswap TOKEN/ETH               => 2031.4554124094943
+
+
+Need to start flashswap from Sushiswap, borrow TOKEN
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan Tokens  => 2000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.014503369796274669
+Require to return flashloan to source DEX ETH X      => 0.987489446289218316
+Profit =  Y - X  =>  0.027013923507056337
+⏰ Time: Mon Apr 05 2021 13:40:36 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit < GasCost, will return. =>  -0.010625876492943664
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan Tokens  => 3000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.517835193101069236
+Require to return flashloan to source DEX ETH X      => 1.481242559939863615
+Profit =  Y - X  =>  0.036592633161205645
+⏰ Time: Mon Apr 05 2021 13:40:37 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit < GasCost, will return. =>  -0.0010471668387943556
+
+🤖 Find aribitrage oppoturnity => 3 times 
+👉 If FlashLoan Tokens  => 4000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 2.01858063176806652
+Require to return flashloan to source DEX ETH X      => 1.975001267387942616
+Profit =  Y - X  =>  0.043579364380123664
+⏰ Time: Mon Apr 05 2021 13:40:38 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit - GasCost              =>  0.005939564380123663
+
+🤖 Find aribitrage oppoturnity => 4 times 
+👉 If FlashLoan Tokens  => 5000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 2.516759570024031516
+Require to return flashloan to source DEX ETH X      => 2.468765568728515217
+Profit =  Y - X  =>  0.04799400129551623
+⏰ Time: Mon Apr 05 2021 13:40:40 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.01035180129551623
+
+🤖 Find aribitrage oppoturnity => 5 times 
+👉 If FlashLoan Tokens  => 6000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.012391688789116283
+Require to return flashloan to source DEX ETH X      => 2.962535464056643468
+Profit =  Y - X  =>  0.0498562247324732
+⏰ Time: Mon Apr 05 2021 13:40:41 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.012214024732473197
+
+🤖 Find aribitrage oppoturnity => 6 times 
+👉 If FlashLoan Tokens  => 7000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.505496468268624941
+Require to return flashloan to source DEX ETH X      => 3.456310953467391575
+Profit =  Y - X  =>  0.049185514801233676
+⏰ Time: Mon Apr 05 2021 13:40:43 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.011543314801233676
+
+😋 FlashLoan Tokens     => 6000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.012391688789116283
+Require to return flashloan to source DEX ETH X      => 2.962535464056643468
+Profit =  Y - X  =>  0.0498562247324732
+⏰ Time: Mon Apr 05 2021 13:40:44 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.012214024732473197
+💰 Before Flashswap, the WETH       => 0.2063841225684102 💰
+ 👿 👿 👿 ARBITRAGE Transactionを実行して行きます。
+🎉🎉🎉 ARBITRAGE EXECUTED! PENDING TX TO BE MINED 🎉🎉🎉
+🎉🎉🎉 Tx Hash:  0x29fc8b87fee0a9770101f40be01296bf8050937dd3b8c1dd9537d699f3e48e58
+🎆🎆🎆 SUCCESS　🎉　 TX MINED 🎆🎆🎆
+
+💰 After Flashswap, the WETH       => 0.256240347300883 💰
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12177567 , Mon Apr 05 2021 13:40:47 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 193.40384413081114
+Uniswap V1 TOKEN Reserves         => 390060.87757318345
+Uniswap ETH Reserves              => 28274.132709783964
+Uniswap TOKEN Reserves            => 54706753.35376202
+Sushiswap ETH Reserves            => 86906.13946349376
+Sushiswap TOKEN Reserves          => 176533929.12602583
+
+
+Uniswap V1 TOKEN/ETH              => 2016.8207065696215
+Uniswap V2 TOEKN/ETH              => 1934.869370363793
+Sushiswap TOKEN/ETH               => 2031.3171223096565
+
+
+Need to start flashswap from Uniswap V2, borrow ETH
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan ETHs  => 2.0 ETH
+Require to return flashloan source DEX tokens           => 3881.65746244827266137
+To get the tokens, need to send Uniswap V1 WETH X       => 1.949836746583741403
+Profit = (FlashLoan ETHs) - X                           =>  0.0501632534162586
+⏰ Time: Mon Apr 05 2021 13:40:48 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.0128006534162586
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan ETHs  => 3.0 ETH
+Require to return flashloan source DEX tokens           => 5822.692145314086843376
+To get the tokens, need to send Uniswap V1 WETH X       => 2.939633919114397171
+Profit = (FlashLoan ETHs) - X                           =>  0.0603660808856028
+⏰ Time: Mon Apr 05 2021 13:40:49 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.0230034808856028
+
+🤖 Find aribitrage oppoturnity => 3 times 
+👉 If FlashLoan ETHs  => 4.0 ETH
+Require to return flashloan source DEX tokens           => 7763.864148701370954286
+To get the tokens, need to send Uniswap V1 WETH X       => 3.939553166808699568
+Profit = (FlashLoan ETHs) - X                           =>  0.06044683319130062
+⏰ Time: Mon Apr 05 2021 13:40:51 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.023084233191300617
+
+🤖 Find aribitrage oppoturnity => 4 times 
+👉 If FlashLoan ETHs  => 5.0 ETH
+Require to return flashloan source DEX tokens           => 9705.17348718296557747
+To get the tokens, need to send Uniswap V1 WETH X       => 4.949750556457511057
+Profit = (FlashLoan ETHs) - X                           =>  0.05024944354248895
+⏰ Time: Mon Apr 05 2021 13:40:52 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.012886843542488945
+
+😋 FlashLoan ETHs     => 4.0 ETH
+Require to return flashloan source DEX tokens           => 7763.864148701370954286
+To get the tokens, need to send Uniswap V1 WETH X       => 3.939553166808699568
+Profit = (FlashLoan ETHs) - X                           =>  0.06044683319130062
+⏰ Time: Mon Apr 05 2021 13:40:54 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.023084233191300617
+💰 Before Flashswap, the WETH       => 0.256240347300883 💰
+ 👿 👿 👿 ARBITRAGE Transactionを実行して行きます。
+🎉🎉🎉 ARBITRAGE EXECUTED! PENDING TX TO BE MINED 🎉🎉🎉
+🎉🎉🎉 Tx Hash:  0xb11a1c3cd72eb2b0dd86bb6df1f0a25116e937f8b1e854c7ff7d140e10ca4f21
+
+🎆🎆🎆 SUCCESS　🎉　 TX MINED 🎆🎆🎆
+
+💰 After Flashswap, the WETH       => 0.3166871804921835 💰
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12177568 , Mon Apr 05 2021 13:40:55 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 197.34339729761982
+Uniswap V1 TOKEN Reserves         => 382297.0134244821
+Uniswap ETH Reserves              => 28270.132709783964
+Uniswap TOKEN Reserves            => 54714517.21791073
+Sushiswap ETH Reserves            => 86906.13946349376
+Sushiswap TOKEN Reserves          => 176533929.12602583
+
+
+Uniswap V1 TOKEN/ETH              => 1937.2171486838643
+Uniswap V2 TOEKN/ETH              => 1935.417770393935
+Sushiswap TOKEN/ETH               => 2031.3171223096565
+
+
+Need to start flashswap from Sushiswap, borrow TOKEN
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan Tokens  => 2000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.023970690089483605
+Require to return flashloan to source DEX ETH X      => 0.987556673993370674
+Profit =  Y - X  =>  0.036414016096112944
+⏰ Time: Mon Apr 05 2021 13:40:56 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit < GasCost, will return. =>  -0.0012257839038870566
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan Tokens  => 3000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.531981480739402605
+Require to return flashloan to source DEX ETH X      => 1.481343402352512006
+Profit =  Y - X  =>  0.050638078386890495
+⏰ Time: Mon Apr 05 2021 13:40:57 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit - GasCost              =>  0.012998278386890494
+
+🤖 Find aribitrage oppoturnity => 3 times 
+👉 If FlashLoan Tokens  => 4000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 2.037369923948048238
+Require to return flashloan to source DEX ETH X      => 1.975135725080050854
+Profit =  Y - X  =>  0.062234198867997526
+⏰ Time: Mon Apr 05 2021 13:40:58 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit - GasCost              =>  0.024594398867997525
+
+🤖 Find aribitrage oppoturnity => 4 times 
+👉 If FlashLoan Tokens  => 5000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 2.54015627224697366
+Require to return flashloan to source DEX ETH X      => 2.468933642271060049
+Profit =  Y - X  =>  0.07122262997591333
+⏰ Time: Mon Apr 05 2021 13:41:00 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.03358042997591333
+
+🤖 Find aribitrage oppoturnity => 5 times 
+👉 If FlashLoan Tokens  => 6000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.040360570154697476
+Require to return flashloan to source DEX ETH X      => 2.962737154020614577
+Profit =  Y - X  =>  0.07762341613408275
+⏰ Time: Mon Apr 05 2021 13:41:01 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.039981216134082745
+
+🤖 Find aribitrage oppoturnity => 6 times 
+👉 If FlashLoan Tokens  => 7000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.538002656840481994
+Require to return flashloan to source DEX ETH X      => 3.456546260423791579
+Profit =  Y - X  =>  0.08145639641669034
+⏰ Time: Mon Apr 05 2021 13:41:03 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.043814196416690335
+
+🤖 Find aribitrage oppoturnity => 7 times 
+👉 If FlashLoan Tokens  => 8000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 4.033102168747281788
+Require to return flashloan to source DEX ETH X      => 3.95036096157567035
+Profit =  Y - X  =>  0.08274120717161093
+⏰ Time: Mon Apr 05 2021 13:41:04 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit - GasCost              =>  0.04510140717161093
+
+🤖 Find aribitrage oppoturnity => 8 times 
+👉 If FlashLoan Tokens  => 9000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 4.525678542174590869
+Require to return flashloan to source DEX ETH X      => 4.444181257571332339
+Profit =  Y - X  =>  0.081497284603258
+⏰ Time: Mon Apr 05 2021 13:41:06 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.043855084603258
+
+😋 FlashLoan Tokens     => 8000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 4.033102168747281788
+Require to return flashloan to source DEX ETH X      => 3.95036096157567035
+Profit =  Y - X  =>  0.08274120717161093
+⏰ Time: Mon Apr 05 2021 13:41:07 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit - GasCost              =>  0.04510140717161093
+💰 Before Flashswap, the WETH       => 0.3166871804921835 💰
+ 👿 👿 👿 ARBITRAGE Transactionを実行して行きます。
+🎉🎉🎉 ARBITRAGE EXECUTED! PENDING TX TO BE MINED 🎉🎉🎉
+🎉🎉🎉 Tx Hash:  0xde9a393bb7165b82f3db670b28d4f3018e94d64e8c8f3849e01dc948242d8ec8
+🎆🎆🎆 SUCCESS　🎉　 TX MINED 🎆🎆🎆
+
+💰 After Flashswap, the WETH       => 0.3994283876637949 💰
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12177569 , Mon Apr 05 2021 13:41:12 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 193.31029512887255
+Uniswap V1 TOKEN Reserves         => 390297.0134244821
+Uniswap ETH Reserves              => 28270.132709783964
+Uniswap TOKEN Reserves            => 54714517.21791073
+Sushiswap ETH Reserves            => 86910.08982445532
+Sushiswap TOKEN Reserves          => 176525929.12602583
+
+
+Uniswap V1 TOKEN/ETH              => 2019.0182481708284
+Uniswap V2 TOEKN/ETH              => 1935.417770393935
+Sushiswap TOKEN/ETH               => 2031.1327428447073
+
+
+Need to start flashswap from Uniswap V2, borrow ETH
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan ETHs  => 2.0 ETH
+Require to return flashloan source DEX tokens           => 3882.757679495555322067
+To get the tokens, need to send Uniswap V1 WETH X       => 1.948260263080672323
+Profit = (FlashLoan ETHs) - X                           =>  0.05173973691932776
+⏰ Time: Mon Apr 05 2021 13:41:12 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.014377136919327758
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan ETHs  => 3.0 ETH
+Require to return flashloan source DEX tokens           => 5824.342558411827333182
+To get the tokens, need to send Uniswap V1 WETH X       => 2.937252356924092414
+Profit = (FlashLoan ETHs) - X                           =>  0.06274764307590752
+⏰ Time: Mon Apr 05 2021 13:41:13 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.02538504307590752
+
+🤖 Find aribitrage oppoturnity => 3 times 
+👉 If FlashLoan ETHs  => 4.0 ETH
+Require to return flashloan source DEX tokens           => 7766.064816211786833454
+To get the tokens, need to send Uniswap V1 WETH X       => 3.936355005872235041
+Profit = (FlashLoan ETHs) - X                           =>  0.06364499412776503
+⏰ Time: Mon Apr 05 2021 13:41:15 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.02628239412776503
+
+🤖 Find aribitrage oppoturnity => 4 times 
+👉 If FlashLoan ETHs  => 5.0 ETH
+Require to return flashloan source DEX tokens           => 9707.924467476531152025
+To get the tokens, need to send Uniswap V1 WETH X       => 4.945724048170249361
+Profit = (FlashLoan ETHs) - X                           =>  0.054275951829750646
+⏰ Time: Mon Apr 05 2021 13:41:16 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.016913351829750643
+
+😋 FlashLoan ETHs     => 4.0 ETH
+Require to return flashloan source DEX tokens           => 7766.064816211786833454
+To get the tokens, need to send Uniswap V1 WETH X       => 3.936355005872235041
+Profit = (FlashLoan ETHs) - X                           =>  0.06364499412776503
+⏰ Time: Mon Apr 05 2021 13:41:18 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.02628239412776503
+💰 Before Flashswap, the WETH       => 0.3994283876637949 💰
+ 👿 👿 👿 ARBITRAGE Transactionを実行して行きます。
+🎉🎉🎉 ARBITRAGE EXECUTED! PENDING TX TO BE MINED 🎉🎉🎉
+🎉🎉🎉 Tx Hash:  0xa5ec6fb84c187d2f74db2e9211547850009b533b98832e8db6a58ff0840cabbf
+
+🎆🎆🎆 SUCCESS　🎉　 TX MINED 🎆🎆🎆
+
+💰 After Flashswap, the WETH       => 0.4630733817915598 💰
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12177570 , Mon Apr 05 2021 13:41:20 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 197.24665013474478
+Uniswap V1 TOKEN Reserves         => 382530.9486082703
+Uniswap ETH Reserves              => 28266.132709783964
+Uniswap TOKEN Reserves            => 54722283.282726936
+Sushiswap ETH Reserves            => 86910.08982445532
+Sushiswap TOKEN Reserves          => 176525929.12602583
+
+
+Uniswap V1 TOKEN/ETH              => 1939.3533342490357
+Uniswap V2 TOEKN/ETH              => 1935.9664034898383
+Sushiswap TOKEN/ETH               => 2031.1327428447073
+
+
+Need to start flashswap from Sushiswap, borrow TOKEN
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan Tokens  => 2000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.02284603844875683
+Require to return flashloan to source DEX ETH X      => 0.987646321605904999
+Profit =  Y - X  =>  0.035199716842851725
+⏰ Time: Mon Apr 05 2021 13:41:20 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit < GasCost, will return. =>  -0.002440083157148276
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan Tokens  => 3000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.530301277742518603
+Require to return flashloan to source DEX ETH X      => 1.481477874913387893
+Profit =  Y - X  =>  0.04882340282913078
+⏰ Time: Mon Apr 05 2021 13:41:21 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit - GasCost              =>  0.011183602829130779
+
+🤖 Find aribitrage oppoturnity => 3 times 
+👉 If FlashLoan Tokens  => 4000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 2.035138622749867866
+Require to return flashloan to source DEX ETH X      => 1.975315023350674234
+Profit =  Y - X  =>  0.059823599399193794
+⏰ Time: Mon Apr 05 2021 13:41:23 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit - GasCost              =>  0.022183799399193793
+
+🤖 Find aribitrage oppoturnity => 4 times 
+👉 If FlashLoan Tokens  => 5000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 2.537378279405137855
+Require to return flashloan to source DEX ETH X      => 2.469157767012854103
+Profit =  Y - X  =>  0.06822051239228388
+⏰ Time: Mon Apr 05 2021 13:41:24 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.030578312392283882
+
+🤖 Find aribitrage oppoturnity => 5 times 
+👉 If FlashLoan Tokens  => 6000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.037040246233188299
+Require to return flashloan to source DEX ETH X      => 2.963006105995019736
+Profit =  Y - X  =>  0.07403414023816834
+⏰ Time: Mon Apr 05 2021 13:41:26 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.036391940238168344
+
+🤖 Find aribitrage oppoturnity => 6 times 
+👉 If FlashLoan Tokens  => 7000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.534144317003859381
+Require to return flashloan to source DEX ETH X      => 3.456860040392265522
+Profit =  Y - X  =>  0.0772842766115942
+⏰ Time: Mon Apr 05 2021 13:41:27 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.039642076611594204
+
+🤖 Find aribitrage oppoturnity => 7 times 
+👉 If FlashLoan Tokens  => 8000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 4.028710083345763313
+Require to return flashloan to source DEX ETH X      => 3.950719570299688006
+Profit =  Y - X  =>  0.07799051304607563
+⏰ Time: Mon Apr 05 2021 13:41:28 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit - GasCost              =>  0.040350713046075626
+
+🤖 Find aribitrage oppoturnity => 8 times 
+👉 If FlashLoan Tokens  => 9000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 4.520756937320138383
+Require to return flashloan to source DEX ETH X      => 4.44458469581238589
+Profit =  Y - X  =>  0.07617224150775215
+⏰ Time: Mon Apr 05 2021 13:41:30 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.03853004150775215
+
+😋 FlashLoan Tokens     => 8000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 4.028710083345763313
+Require to return flashloan to source DEX ETH X      => 3.950719570299688006
+Profit =  Y - X  =>  0.07799051304607563
+⏰ Time: Mon Apr 05 2021 13:41:31 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit - GasCost              =>  0.040350713046075626
+💰 Before Flashswap, the WETH       => 0.4630733817915598 💰
+ 👿 👿 👿 ARBITRAGE Transactionを実行して行きます。
+🎉🎉🎉 ARBITRAGE EXECUTED! PENDING TX TO BE MINED 🎉🎉🎉
+🎉🎉🎉 Tx Hash:  0x9b146505a08e42bbeefeb342183fa018a0086547fa0421a459cc7b838b815136
+🎆🎆🎆 SUCCESS　🎉　 TX MINED 🎆🎆🎆
+
+💰 After Flashswap, the WETH       => 0.5410638948376352 💰
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12177571 , Mon Apr 05 2021 13:41:36 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 193.217940051399
+Uniswap V1 TOKEN Reserves         => 390530.9486082703
+Uniswap ETH Reserves              => 28266.132709783964
+Uniswap TOKEN Reserves            => 54722283.282726936
+Sushiswap ETH Reserves            => 86914.04054402563
+Sushiswap TOKEN Reserves          => 176517929.12602583
+
+
+Uniswap V1 TOKEN/ETH              => 2021.1940387335821
+Uniswap V2 TOEKN/ETH              => 1935.9664034898383
+Sushiswap TOKEN/ETH               => 2030.9483717606254
+
+
+Need to start flashswap from Uniswap V2, borrow ETH
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan ETHs  => 2.0 ETH
+Require to return flashloan source DEX tokens           => 3883.858364143074334235
+To get the tokens, need to send Uniswap V1 WETH X       => 1.946708507844223015
+Profit = (FlashLoan ETHs) - X                           =>  0.053291492155777
+⏰ Time: Mon Apr 05 2021 13:41:36 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.015928892155776996
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan ETHs  => 3.0 ETH
+Require to return flashloan source DEX tokens           => 5825.99367295951398255
+To get the tokens, need to send Uniswap V1 WETH X       => 2.934908175497141552
+Profit = (FlashLoan ETHs) - X                           =>  0.06509182450285866
+⏰ Time: Mon Apr 05 2021 13:41:37 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.02772922450285866
+
+🤖 Find aribitrage oppoturnity => 3 times 
+👉 If FlashLoan ETHs  => 4.0 ETH
+Require to return flashloan source DEX tokens           => 7768.266419054927563281
+To get the tokens, need to send Uniswap V1 WETH X       => 3.93320707577709463
+Profit = (FlashLoan ETHs) - X                           =>  0.06679292422290528
+⏰ Time: Mon Apr 05 2021 13:41:39 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.02943032422290528
+
+🤖 Find aribitrage oppoturnity => 4 times 
+👉 If FlashLoan ETHs  => 5.0 ETH
+Require to return flashloan source DEX tokens           => 9710.676617018674998971
+To get the tokens, need to send Uniswap V1 WETH X       => 4.941760822518688683
+Profit = (FlashLoan ETHs) - X                           =>  0.05823917748131091
+⏰ Time: Mon Apr 05 2021 13:41:40 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.020876577481310908
+
+😋 FlashLoan ETHs     => 4.0 ETH
+Require to return flashloan source DEX tokens           => 7768.266419054927563281
+To get the tokens, need to send Uniswap V1 WETH X       => 3.93320707577709463
+Profit = (FlashLoan ETHs) - X                           =>  0.06679292422290528
+⏰ Time: Mon Apr 05 2021 13:41:42 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.02943032422290528
+💰 Before Flashswap, the WETH       => 0.5410638948376352 💰
+ 👿 👿 👿 ARBITRAGE Transactionを実行して行きます。
+🎉🎉🎉 ARBITRAGE EXECUTED! PENDING TX TO BE MINED 🎉🎉🎉
+🎉🎉🎉 Tx Hash:  0x9549f68b1e925b1e96c3d645cd1663090613fcd69f7f069a17851306cce1fced
+
+🎆🎆🎆 SUCCESS　🎉　 TX MINED 🎆🎆🎆
+
+💰 After Flashswap, the WETH       => 0.6078568190605406 💰
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12177572 , Mon Apr 05 2021 13:41:44 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 197.1511471271761
+Uniswap V1 TOKEN Reserves         => 382762.6821892154
+Uniswap ETH Reserves              => 28262.132709783964
+Uniswap TOKEN Reserves            => 54730051.549146
+Sushiswap ETH Reserves            => 86914.04054402563
+Sushiswap TOKEN Reserves          => 176517929.12602583
+
+
+Uniswap V1 TOKEN/ETH              => 1941.4681972015462
+Uniswap V2 TOEKN/ETH              => 1936.5152697835574
+Sushiswap TOKEN/ETH               => 2030.9483717606254
+
+
+Need to start flashswap from Sushiswap, borrow TOKEN
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan Tokens  => 2000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.021735048589126737
+Require to return flashloan to source DEX ETH X      => 0.987735981419816195
+Profit =  Y - X  =>  0.03399906716931056
+⏰ Time: Mon Apr 05 2021 13:41:44 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit < GasCost, will return. =>  -0.0036407328306894415
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan Tokens  => 3000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.528641483629808298
+Require to return flashloan to source DEX ETH X      => 1.481612365776536296
+Profit =  Y - X  =>  0.04702911785327202
+⏰ Time: Mon Apr 05 2021 13:41:45 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit - GasCost              =>  0.009389317853272017
+
+🤖 Find aribitrage oppoturnity => 3 times 
+👉 If FlashLoan Tokens  => 4000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 2.032934422488014852
+Require to return flashloan to source DEX ETH X      => 1.97549434602460392
+Profit =  Y - X  =>  0.05744007646341087
+⏰ Time: Mon Apr 05 2021 13:41:47 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit - GasCost              =>  0.01980027646341087
+
+🤖 Find aribitrage oppoturnity => 4 times 
+👉 If FlashLoan Tokens  => 5000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 2.534634025096199505
+Require to return flashloan to source DEX ETH X      => 2.469381922259126398
+Profit =  Y - X  =>  0.06525210283707317
+⏰ Time: Mon Apr 05 2021 13:41:48 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.027609902837073166
+
+🤖 Find aribitrage oppoturnity => 5 times 
+👉 If FlashLoan Tokens  => 6000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.033760244572897881
+Require to return flashloan to source DEX ETH X      => 2.963275094575213222
+Profit =  Y - X  =>  0.07048514999768463
+⏰ Time: Mon Apr 05 2021 13:41:49 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.032842949997684626
+
+🤖 Find aribitrage oppoturnity => 6 times 
+👉 If FlashLoan Tokens  => 7000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.530332829867986323
+Require to return flashloan to source DEX ETH X      => 3.457173863067976034
+Profit =  Y - X  =>  0.0731589668000101
+⏰ Time: Mon Apr 05 2021 13:41:51 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.035516766800010105
+
+🤖 Find aribitrage oppoturnity => 7 times 
+👉 If FlashLoan Tokens  => 8000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 4.024371328367442592
+Require to return flashloan to source DEX ETH X      => 3.951078227832528634
+Profit =  Y - X  =>  0.07329310053491422
+⏰ Time: Mon Apr 05 2021 13:41:52 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit - GasCost              =>  0.03565330053491422
+
+🤖 Find aribitrage oppoturnity => 8 times 
+👉 If FlashLoan Tokens  => 9000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 4.515895088458330585
+Require to return flashloan to source DEX ETH X      => 4.444988188963986978
+Profit =  Y - X  =>  0.07090689949434381
+⏰ Time: Mon Apr 05 2021 13:41:54 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.03326469949434381
+
+😋 FlashLoan Tokens     => 8000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 4.024371328367442592
+Require to return flashloan to source DEX ETH X      => 3.951078227832528634
+Profit =  Y - X  =>  0.07329310053491422
+⏰ Time: Mon Apr 05 2021 13:41:55 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit - GasCost              =>  0.03565330053491422
+💰 Before Flashswap, the WETH       => 0.6078568190605406 💰
+ 👿 👿 👿 ARBITRAGE Transactionを実行して行きます。
+🎉🎉🎉 ARBITRAGE EXECUTED! PENDING TX TO BE MINED 🎉🎉🎉
+🎉🎉🎉 Tx Hash:  0x08be6a7546a76b757e9f7c69d6117a8ce1c73a7f668144b05bad347651436318
+🎆🎆🎆 SUCCESS　🎉　 TX MINED 🎆🎆🎆
+
+💰 After Flashswap, the WETH       => 0.6811499195954545 💰
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12177573 , Mon Apr 05 2021 13:42:00 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 193.12677579880867
+Uniswap V1 TOKEN Reserves         => 390762.6821892154
+Uniswap ETH Reserves              => 28262.132709783964
+Uniswap TOKEN Reserves            => 54730051.549146
+Sushiswap ETH Reserves            => 86917.99162225347
+Sushiswap TOKEN Reserves          => 176509929.12602583
+
+
+Uniswap V1 TOKEN/ETH              => 2023.3480343310628
+Uniswap V2 TOEKN/ETH              => 1936.5152697835574
+Sushiswap TOKEN/ETH               => 2030.76400905741
+
+
+Need to start flashswap from Uniswap V2, borrow ETH
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan ETHs  => 2.0 ETH
+Require to return flashloan source DEX tokens           => 3884.959516655778813501
+To get the tokens, need to send Uniswap V1 WETH X       => 1.945181393244423079
+Profit = (FlashLoan ETHs) - X                           =>  0.054818606755576926
+⏰ Time: Mon Apr 05 2021 13:42:00 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.017456006755576924
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan ETHs  => 3.0 ETH
+Require to return flashloan source DEX tokens           => 5827.645489354605587131
+To get the tokens, need to send Uniswap V1 WETH X       => 2.932601242110334629
+Profit = (FlashLoan ETHs) - X                           =>  0.06739875788966554
+⏰ Time: Mon Apr 05 2021 13:42:01 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.030036157889665537
+
+🤖 Find aribitrage oppoturnity => 3 times 
+👉 If FlashLoan ETHs  => 4.0 ETH
+Require to return flashloan source DEX tokens           => 7770.468957760785040875
+To get the tokens, need to send Uniswap V1 WETH X       => 3.930109197826375243
+Profit = (FlashLoan ETHs) - X                           =>  0.06989080217362487
+⏰ Time: Mon Apr 05 2021 13:42:03 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.032528202173624864
+
+🤖 Find aribitrage oppoturnity => 4 times 
+👉 If FlashLoan ETHs  => 5.0 ETH
+Require to return flashloan source DEX tokens           => 9713.429936471945543277
+To get the tokens, need to send Uniswap V1 WETH X       => 4.937860653929761426
+Profit = (FlashLoan ETHs) - X                           =>  0.06213934607023841
+⏰ Time: Mon Apr 05 2021 13:42:04 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.024776746070238408
+
+😋 FlashLoan ETHs     => 4.0 ETH
+Require to return flashloan source DEX tokens           => 7770.468957760785040875
+To get the tokens, need to send Uniswap V1 WETH X       => 3.930109197826375243
+Profit = (FlashLoan ETHs) - X                           =>  0.06989080217362487
+⏰ Time: Mon Apr 05 2021 13:42:06 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.032528202173624864
+💰 Before Flashswap, the WETH       => 0.6811499195954545 💰
+ 👿 👿 👿 ARBITRAGE Transactionを実行して行きます。
+🎉🎉🎉 ARBITRAGE EXECUTED! PENDING TX TO BE MINED 🎉🎉🎉
+🎉🎉🎉 Tx Hash:  0x55f89a7dcdf81ddb5b10c1ff7097dbf94c2969ddc4041577bb01f670e1c5a6ad
+
+🎆🎆🎆 SUCCESS　🎉　 TX MINED 🎆🎆🎆
+
+💰 After Flashswap, the WETH       => 0.7510407217690792 💰
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12177574 , Mon Apr 05 2021 13:42:08 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 197.05688499663503
+Uniswap V1 TOKEN Reserves         => 382992.2132314546
+Uniswap ETH Reserves              => 28258.132709783964
+Uniswap TOKEN Reserves            => 54737822.018103756
+Sushiswap ETH Reserves            => 86917.99162225347
+Sushiswap TOKEN Reserves          => 176509929.12602583
+
+
+Uniswap V1 TOKEN/ETH              => 1943.5616940661303
+Uniswap V2 TOEKN/ETH              => 1937.0643694072394
+Sushiswap TOKEN/ETH               => 2030.76400905741
+
+
+Need to start flashswap from Sushiswap, borrow TOKEN
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan Tokens  => 2000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.020637662281841259
+Require to return flashloan to source DEX ETH X      => 0.987825653437318015
+Profit =  Y - X  =>  0.03281200884452318
+⏰ Time: Mon Apr 05 2021 13:42:08 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit < GasCost, will return. =>  -0.004827791155476824
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan Tokens  => 3000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.527002011539563485
+Require to return flashloan to source DEX ETH X      => 1.481746874945277889
+Profit =  Y - X  =>  0.045255136594285705
+⏰ Time: Mon Apr 05 2021 13:42:09 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit - GasCost              =>  0.007615336594285704
+
+🤖 Find aribitrage oppoturnity => 3 times 
+👉 If FlashLoan Tokens  => 4000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 2.030757207983015081
+Require to return flashloan to source DEX ETH X      => 1.975673693106267534
+Profit =  Y - X  =>  0.055083514876747675
+⏰ Time: Mon Apr 05 2021 13:42:11 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit - GasCost              =>  0.017443714876747674
+
+🤖 Find aribitrage oppoturnity => 4 times 
+👉 If FlashLoan Tokens  => 5000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 2.531923366133877577
+Require to return flashloan to source DEX ETH X      => 2.469606108015411543
+Profit =  Y - X  =>  0.06231725811846589
+⏰ Time: Mon Apr 05 2021 13:42:12 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.02467505811846589
+
+🤖 Find aribitrage oppoturnity => 5 times 
+👉 If FlashLoan Tokens  => 6000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.030520394287533336
+Require to return flashloan to source DEX ETH X      => 2.96354411976783666
+Profit =  Y - X  =>  0.06697627451969668
+⏰ Time: Mon Apr 05 2021 13:42:13 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.029334074519696676
+
+🤖 Find aribitrage oppoturnity => 6 times 
+👉 If FlashLoan Tokens  => 7000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.526567997149255268
+Require to return flashloan to source DEX ETH X      => 3.457487728458671788
+Profit =  Y - X  =>  0.06908026869058359
+⏰ Time: Mon Apr 05 2021 13:42:15 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.03143806869058359
+
+🤖 Find aribitrage oppoturnity => 7 times 
+👉 If FlashLoan Tokens  => 8000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 4.020085678430061588
+Require to return flashloan to source DEX ETH X      => 3.951436934183047984
+Profit =  Y - X  =>  0.0686487442470134
+⏰ Time: Mon Apr 05 2021 13:42:16 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit - GasCost              =>  0.031008944247013392
+
+😋 FlashLoan Tokens     => 7000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.526567997149255268
+Require to return flashloan to source DEX ETH X      => 3.457487728458671788
+Profit =  Y - X  =>  0.06908026869058359
+⏰ Time: Mon Apr 05 2021 13:42:18 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.03143806869058359
+💰 Before Flashswap, the WETH       => 0.7510407217690792 💰
+ 👿 👿 👿 ARBITRAGE Transactionを実行して行きます。
+🎉🎉🎉 ARBITRAGE EXECUTED! PENDING TX TO BE MINED 🎉🎉🎉
+🎉🎉🎉 Tx Hash:  0xd6d94607f7e8a107718228be5fb5b7d1a084530e81c6381de8c4b5f8d1ffc68e
+🎆🎆🎆 SUCCESS　🎉　 TX MINED 🎆🎆🎆
+
+💰 After Flashswap, the WETH       => 0.8201209904596627 💰
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12177575 , Mon Apr 05 2021 13:42:20 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 193.5303169994858
+Uniswap V1 TOKEN Reserves         => 389992.2132314546
+Uniswap ETH Reserves              => 28258.132709783964
+Uniswap TOKEN Reserves            => 54737822.018103756
+Sushiswap ETH Reserves            => 86921.44910998193
+Sushiswap TOKEN Reserves          => 176502929.12602583
+
+
+Uniswap V1 TOKEN/ETH              => 2015.1479069426152
+Uniswap V2 TOEKN/ETH              => 1937.0643694072394
+Sushiswap TOKEN/ETH               => 2030.6026985663368
+
+
+Need to start flashswap from Uniswap V2, borrow ETH
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan ETHs  => 2.0 ETH
+Require to return flashloan source DEX tokens           => 3886.061137298805528883
+To get the tokens, need to send Uniswap V1 WETH X       => 1.95369496347992226
+Profit = (FlashLoan ETHs) - X                           =>  0.04630503652007767
+⏰ Time: Mon Apr 05 2021 13:42:20 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.008942436520077666
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan ETHs  => 3.0 ETH
+Require to return flashloan source DEX tokens           => 5829.298007994842452515
+To get the tokens, need to send Uniswap V1 WETH X       => 2.945470445142395256
+Profit = (FlashLoan ETHs) - X                           =>  0.0545295548576048
+⏰ Time: Mon Apr 05 2021 13:42:21 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.017166954857604798
+
+🤖 Find aribitrage oppoturnity => 3 times 
+👉 If FlashLoan ETHs  => 4.0 ETH
+Require to return flashloan source DEX tokens           => 7772.672432859726549739
+To get the tokens, need to send Uniswap V1 WETH X       => 3.947401744448923409
+Profit = (FlashLoan ETHs) - X                           =>  0.052598255551076445
+⏰ Time: Mon Apr 05 2021 13:42:23 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.015235655551076442
+
+😋 FlashLoan ETHs     => 3.0 ETH
+Require to return flashloan source DEX tokens           => 5829.298007994842452515
+To get the tokens, need to send Uniswap V1 WETH X       => 2.945470445142395256
+Profit = (FlashLoan ETHs) - X                           =>  0.0545295548576048
+⏰ Time: Mon Apr 05 2021 13:42:24 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.017166954857604798
+💰 Before Flashswap, the WETH       => 0.8201209904596627 💰
+ 👿 👿 👿 ARBITRAGE Transactionを実行して行きます。
+🎉🎉🎉 ARBITRAGE EXECUTED! PENDING TX TO BE MINED 🎉🎉🎉
+🎉🎉🎉 Tx Hash:  0x7ce752358f6eca448b3b8e63b11e0cd62aa07252d08715e8babcae6b0dd8741d
+
+🎆🎆🎆 SUCCESS　🎉　 TX MINED 🎆🎆🎆
+
+💰 After Flashswap, the WETH       => 0.8746505453172675 💰
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12177576 , Mon Apr 05 2021 13:42:28 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 196.4757874446282
+Uniswap V1 TOKEN Reserves         => 384162.9152234598
+Uniswap ETH Reserves              => 28255.132709783964
+Uniswap TOKEN Reserves            => 54743651.31611175
+Sushiswap ETH Reserves            => 86921.44910998193
+Sushiswap TOKEN Reserves          => 176502929.12602583
+
+
+Uniswap V1 TOKEN/ETH              => 1955.268484834176
+Uniswap V2 TOEKN/ETH              => 1937.476347338321
+Sushiswap TOKEN/ETH               => 2030.6026985663368
+
+
+Need to start flashswap from Sushiswap, borrow TOKEN
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan Tokens  => 2000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.014542805579123498
+Require to return flashloan to source DEX ETH X      => 0.987904126465465674
+Profit =  Y - X  =>  0.026638679113657804
+⏰ Time: Mon Apr 05 2021 13:42:28 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit < GasCost, will return. =>  -0.011001120886342197
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan Tokens  => 3000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.517895227554897417
+Require to return flashloan to source DEX ETH X      => 1.481864585487347185
+Profit =  Y - X  =>  0.036030642067550245
+⏰ Time: Mon Apr 05 2021 13:42:29 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit < GasCost, will return. =>  -0.0016091579324497562
+
+🤖 Find aribitrage oppoturnity => 3 times 
+👉 If FlashLoan Tokens  => 4000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 2.018661838986229186
+Require to return flashloan to source DEX ETH X      => 1.975830641828843811
+Profit =  Y - X  =>  0.04283119715738537
+⏰ Time: Mon Apr 05 2021 13:42:31 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit - GasCost              =>  0.005191397157385369
+
+🤖 Find aribitrage oppoturnity => 4 times 
+👉 If FlashLoan Tokens  => 5000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 2.516862514473587846
+Require to return flashloan to source DEX ETH X      => 2.469802295585095245
+Profit =  Y - X  =>  0.047060218888492766
+⏰ Time: Mon Apr 05 2021 13:42:32 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.009418018888492766
+
+🤖 Find aribitrage oppoturnity => 5 times 
+👉 If FlashLoan Tokens  => 6000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.012516925462400355
+Require to return flashloan to source DEX ETH X      => 2.963779546851243335
+Profit =  Y - X  =>  0.04873737861115712
+⏰ Time: Mon Apr 05 2021 13:42:33 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.011095178611157122
+
+🤖 Find aribitrage oppoturnity => 6 times 
+👉 If FlashLoan Tokens  => 7000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.505644542832208735
+Require to return flashloan to source DEX ETH X      => 3.457762395722432088
+Profit =  Y - X  =>  0.047882147109776785
+⏰ Time: Mon Apr 05 2021 13:42:35 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.010239947109776784
+
+😋 FlashLoan Tokens     => 6000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.012516925462400355
+Require to return flashloan to source DEX ETH X      => 2.963779546851243335
+Profit =  Y - X  =>  0.04873737861115712
+⏰ Time: Mon Apr 05 2021 13:42:36 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.011095178611157122
+💰 Before Flashswap, the WETH       => 0.8746505453172675 💰
+ 👿 👿 👿 ARBITRAGE Transactionを実行して行きます。
+🎉🎉🎉 ARBITRAGE EXECUTED! PENDING TX TO BE MINED 🎉🎉🎉
+🎉🎉🎉 Tx Hash:  0x5094ee367f3734365eaa1d7ffbd2c9f2b29e62d8a5f80950fe4521cea3b2f320
+🎆🎆🎆 SUCCESS　🎉　 TX MINED 🎆🎆🎆
+
+💰 After Flashswap, the WETH       => 0.9233879239284245 💰
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12177577 , Mon Apr 05 2021 13:42:40 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 193.46327051916577
+Uniswap V1 TOKEN Reserves         => 390162.9152234598
+Uniswap ETH Reserves              => 28255.132709783964
+Uniswap TOKEN Reserves            => 54743651.31611175
+Sushiswap ETH Reserves            => 86924.41288952877
+Sushiswap TOKEN Reserves          => 176496929.12602583
+
+
+Uniswap V1 TOKEN/ETH              => 2016.7286233528632
+Uniswap V2 TOEKN/ETH              => 1937.476347338321
+Sushiswap TOKEN/ETH               => 2030.4644375376308
+
+
+Need to start flashswap from Uniswap V2, borrow ETH
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan ETHs  => 2.0 ETH
+Require to return flashloan source DEX tokens           => 3886.887660173238523136
+To get the tokens, need to send Uniswap V1 WETH X       => 1.952574436799697007
+Profit = (FlashLoan ETHs) - X                           =>  0.04742556320030289
+⏰ Time: Mon Apr 05 2021 13:42:40 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.010062963200302887
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan ETHs  => 3.0 ETH
+Require to return flashloan source DEX tokens           => 5830.537858095877497371
+To get the tokens, need to send Uniswap V1 WETH X       => 2.943777721615269847
+Profit = (FlashLoan ETHs) - X                           =>  0.05622227838473037
+⏰ Time: Mon Apr 05 2021 13:42:41 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.01885967838473037
+
+🤖 Find aribitrage oppoturnity => 3 times 
+👉 If FlashLoan ETHs  => 4.0 ETH
+Require to return flashloan source DEX tokens           => 7774.325654055231616256
+To get the tokens, need to send Uniswap V1 WETH X       => 3.945128659211115698
+Profit = (FlashLoan ETHs) - X                           =>  0.054871340788884115
+⏰ Time: Mon Apr 05 2021 13:42:43 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.017508740788884113
+
+😋 FlashLoan ETHs     => 3.0 ETH
+Require to return flashloan source DEX tokens           => 5830.537858095877497371
+To get the tokens, need to send Uniswap V1 WETH X       => 2.943777721615269847
+Profit = (FlashLoan ETHs) - X                           =>  0.05622227838473037
+⏰ Time: Mon Apr 05 2021 13:42:44 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.01885967838473037
+💰 Before Flashswap, the WETH       => 0.9233879239284245 💰
+ 👿 👿 👿 ARBITRAGE Transactionを実行して行きます。
+🎉🎉🎉 ARBITRAGE EXECUTED! PENDING TX TO BE MINED 🎉🎉🎉
+🎉🎉🎉 Tx Hash:  0xe343b9f426fae971f03bcc85b2bbe5dd09bd310eb77f912d516bbd44e507f7aa
+
+🎆🎆🎆 SUCCESS　🎉　 TX MINED 🎆🎆🎆
+
+💰 After Flashswap, the WETH       => 0.9796102023131547 💰
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12177578 , Mon Apr 05 2021 13:42:48 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 196.40704824078105
+Uniswap V1 TOKEN Reserves         => 384332.3773653639
+Uniswap ETH Reserves              => 28252.132709783964
+Uniswap TOKEN Reserves            => 54749481.85396984
+Sushiswap ETH Reserves            => 86924.41288952877
+Sushiswap TOKEN Reserves          => 176496929.12602583
+
+
+Uniswap V1 TOKEN/ETH              => 1956.8156072189413
+Uniswap V2 TOEKN/ETH              => 1937.8884566477211
+Sushiswap TOKEN/ETH               => 2030.4644375376308
+
+
+Need to start flashswap from Sushiswap, borrow TOKEN
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan Tokens  => 2000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.013742982974554595
+Require to return flashloan to source DEX ETH X      => 0.987971396500345011
+Profit =  Y - X  =>  0.025771586474209518
+⏰ Time: Mon Apr 05 2021 13:42:48 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit < GasCost, will return. =>  -0.011868213525790483
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan Tokens  => 3000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.51670029649160226
+Require to return flashloan to source DEX ETH X      => 1.481965491396804949
+Profit =  Y - X  =>  0.034734805094797316
+⏰ Time: Mon Apr 05 2021 13:42:49 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit < GasCost, will return. =>  -0.0029049949052026847
+
+🤖 Find aribitrage oppoturnity => 3 times 
+👉 If FlashLoan Tokens  => 4000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 2.017074956762489255
+Require to return flashloan to source DEX ETH X      => 1.975965184184323103
+Profit =  Y - X  =>  0.04110977257816617
+⏰ Time: Mon Apr 05 2021 13:42:51 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit - GasCost              =>  0.0034699725781661694
+
+🤖 Find aribitrage oppoturnity => 4 times 
+👉 If FlashLoan Tokens  => 5000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 2.514886805480159118
+Require to return flashloan to source DEX ETH X      => 2.469970474958052115
+Profit =  Y - X  =>  0.044916330522107195
+⏰ Time: Mon Apr 05 2021 13:42:52 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.0072741305221071945
+
+🤖 Find aribitrage oppoturnity => 5 times 
+👉 If FlashLoan Tokens  => 6000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.010155481606946297
+Require to return flashloan to source DEX ETH X      => 2.96398136381314678
+Profit =  Y - X  =>  0.04617411779379976
+⏰ Time: Mon Apr 05 2021 13:42:53 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.008531917793799762
+
+🤖 Find aribitrage oppoturnity => 6 times 
+👉 If FlashLoan Tokens  => 7000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.502900423957205092
+Require to return flashloan to source DEX ETH X      => 3.457997850844764055
+Profit =  Y - X  =>  0.04490257311244106
+⏰ Time: Mon Apr 05 2021 13:42:55 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.007260373112441057
+
+😋 FlashLoan Tokens     => 6000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.010155481606946297
+Require to return flashloan to source DEX ETH X      => 2.96398136381314678
+Profit =  Y - X  =>  0.04617411779379976
+⏰ Time: Mon Apr 05 2021 13:42:56 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.008531917793799762
+💰 Before Flashswap, the WETH       => 0.9796102023131547 💰
+ 👿 👿 👿 ARBITRAGE Transactionを実行して行きます。
+🎉🎉🎉 ARBITRAGE EXECUTED! PENDING TX TO BE MINED 🎉🎉🎉
+🎉🎉🎉 Tx Hash:  0xcf62ba5ac02a68642b0bd5f8a400fef74f5d056e99c75478e6449041273b4a6d
+🎆🎆🎆 SUCCESS　🎉　 TX MINED 🎆🎆🎆
+
+💰 After Flashswap, the WETH       => 1.025784320106954 💰
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12177579 , Mon Apr 05 2021 13:43:00 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 193.3968927591741
+Uniswap V1 TOKEN Reserves         => 390332.3773653639
+Uniswap ETH Reserves              => 28252.132709783964
+Uniswap TOKEN Reserves            => 54749481.85396984
+Sushiswap ETH Reserves            => 86927.37687089259
+Sushiswap TOKEN Reserves          => 176490929.12602583
+
+
+Uniswap V1 TOKEN/ETH              => 2018.2970460203933
+Uniswap V2 TOEKN/ETH              => 1937.8884566477211
+Sushiswap TOKEN/ETH               => 2030.3261812231603
+
+
+Need to start flashswap from Uniswap V2, borrow ETH
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan ETHs  => 2.0 ETH
+Require to return flashloan source DEX tokens           => 3887.714446632236242302
+To get the tokens, need to send Uniswap V1 WETH X       => 1.951467749892644294
+Profit = (FlashLoan ETHs) - X                           =>  0.048532250107355734
+⏰ Time: Mon Apr 05 2021 13:43:00 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.011169650107355732
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan ETHs  => 3.0 ETH
+Require to return flashloan source DEX tokens           => 5831.778103601729095723
+To get the tokens, need to send Uniswap V1 WETH X       => 2.942105919045199645
+Profit = (FlashLoan ETHs) - X                           =>  0.05789408095480031
+⏰ Time: Mon Apr 05 2021 13:43:01 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.020531480954800306
+
+🤖 Find aribitrage oppoturnity => 3 times 
+👉 If FlashLoan ETHs  => 4.0 ETH
+Require to return flashloan source DEX tokens           => 7775.979402494455774152
+To get the tokens, need to send Uniswap V1 WETH X       => 3.942883686630698015
+Profit = (FlashLoan ETHs) - X                           =>  0.057116313369301785
+⏰ Time: Mon Apr 05 2021 13:43:03 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.019753713369301783
+
+😋 FlashLoan ETHs     => 3.0 ETH
+Require to return flashloan source DEX tokens           => 5831.778103601729095723
+To get the tokens, need to send Uniswap V1 WETH X       => 2.942105919045199645
+Profit = (FlashLoan ETHs) - X                           =>  0.05789408095480031
+⏰ Time: Mon Apr 05 2021 13:43:04 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.020531480954800306
+💰 Before Flashswap, the WETH       => 1.025784320106954 💰
+ 👿 👿 👿 ARBITRAGE Transactionを実行して行きます。
+🎉🎉🎉 ARBITRAGE EXECUTED! PENDING TX TO BE MINED 🎉🎉🎉
+🎉🎉🎉 Tx Hash:  0x9fd62dcc6e2365cb2fc67c83b8412d709236d3d6b52c0836204710a3505c50e5
+
+🎆🎆🎆 SUCCESS　🎉　 TX MINED 🎆🎆🎆
+
+💰 After Flashswap, the WETH       => 1.0836784010617546 💰
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12177580 , Mon Apr 05 2021 13:43:08 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 196.3389986782193
+Uniswap V1 TOKEN Reserves         => 384500.59926176217
+Uniswap ETH Reserves              => 28249.132709783964
+Uniswap TOKEN Reserves            => 54755313.63207345
+Sushiswap ETH Reserves            => 86927.37687089259
+Sushiswap TOKEN Reserves          => 176490929.12602583
+
+
+Uniswap V1 TOKEN/ETH              => 1958.350617301057
+Uniswap V2 TOEKN/ETH              => 1938.3006973912932
+Sushiswap TOKEN/ETH               => 2030.3261812231603
+
+
+Need to start flashswap from Sushiswap, borrow TOKEN
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan Tokens  => 2000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.01295067023489547
+Require to return flashloan to source DEX ETH X      => 0.988038673403014264
+Profit =  Y - X  =>  0.024911996831881167
+⏰ Time: Mon Apr 05 2021 13:43:08 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit < GasCost, will return. =>  -0.012727803168118834
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan Tokens  => 3000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.515516584528195357
+Require to return flashloan to source DEX ETH X      => 1.482066407608064237
+Profit =  Y - X  =>  0.03345017692013097
+⏰ Time: Mon Apr 05 2021 13:43:09 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit < GasCost, will return. =>  -0.0041896230798690315
+
+🤖 Find aribitrage oppoturnity => 3 times 
+👉 If FlashLoan Tokens  => 4000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 2.015502972845687604
+Require to return flashloan to source DEX ETH X      => 1.976099740275693298
+Profit =  Y - X  =>  0.03940323256999445
+⏰ Time: Mon Apr 05 2021 13:43:10 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit - GasCost              =>  0.0017634325699944498
+
+🤖 Find aribitrage oppoturnity => 4 times 
+👉 If FlashLoan Tokens  => 5000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 2.512929644295098568
+Require to return flashloan to source DEX ETH X      => 2.470138671501067037
+Profit =  Y - X  =>  0.04279097279403121
+⏰ Time: Mon Apr 05 2021 13:43:12 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.005148772794031212
+
+🤖 Find aribitrage oppoturnity => 5 times 
+👉 If FlashLoan Tokens  => 6000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.007816205673675822
+Require to return flashloan to source DEX ETH X      => 2.964183201379353202
+Profit =  Y - X  =>  0.04363300429432293
+⏰ Time: Mon Apr 05 2021 13:43:13 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.0059908042943229295
+
+🤖 Find aribitrage oppoturnity => 6 times 
+👉 If FlashLoan Tokens  => 7000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.50018206404435749
+Require to return flashloan to source DEX ETH X      => 3.458233330005721698
+Profit =  Y - X  =>  0.04194873403863575
+⏰ Time: Mon Apr 05 2021 13:43:15 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.004306534038635748
+
+😋 FlashLoan Tokens     => 6000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.007816205673675822
+Require to return flashloan to source DEX ETH X      => 2.964183201379353202
+Profit =  Y - X  =>  0.04363300429432293
+⏰ Time: Mon Apr 05 2021 13:43:16 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.0059908042943229295
+💰 Before Flashswap, the WETH       => 1.0836784010617546 💰
+ 👿 👿 👿 ARBITRAGE Transactionを実行して行きます。
+🎉🎉🎉 ARBITRAGE EXECUTED! PENDING TX TO BE MINED 🎉🎉🎉
+🎉🎉🎉 Tx Hash:  0x7800d1b6747bf4f1f577fbfb5eb73c09b21c9c7d85810ce29caf5aef5ee5aa09
+🎆🎆🎆 SUCCESS　🎉　 TX MINED 🎆🎆🎆
+
+💰 After Flashswap, the WETH       => 1.127311405356077 💰
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12177581 , Mon Apr 05 2021 13:43:20 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 193.33118247254563
+Uniswap V1 TOKEN Reserves         => 390500.59926176217
+Uniswap ETH Reserves              => 28249.132709783964
+Uniswap TOKEN Reserves            => 54755313.63207345
+Sushiswap ETH Reserves            => 86930.34105409397
+Sushiswap TOKEN Reserves          => 176484929.12602583
+
+
+Uniswap V1 TOKEN/ETH              => 2019.8531569899023
+Uniswap V2 TOEKN/ETH              => 1938.3006973912932
+Sushiswap TOKEN/ETH               => 2030.1879296229254
+
+
+Need to start flashswap from Uniswap V2, borrow ETH
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan ETHs  => 2.0 ETH
+Require to return flashloan source DEX tokens           => 3888.541496787861397871
+To get the tokens, need to send Uniswap V1 WETH X       => 1.950374867637779662
+Profit = (FlashLoan ETHs) - X                           =>  0.049625132362220326
+⏰ Time: Mon Apr 05 2021 13:43:20 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.012262532362220323
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan ETHs  => 3.0 ETH
+Require to return flashloan source DEX tokens           => 5833.018744680506177698
+To get the tokens, need to send Uniswap V1 WETH X       => 2.940454984239563942
+Profit = (FlashLoan ETHs) - X                           =>  0.059545015760436026
+⏰ Time: Mon Apr 05 2021 13:43:21 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.022182415760436024
+
+🤖 Find aribitrage oppoturnity => 3 times 
+👉 If FlashLoan ETHs  => 4.0 ETH
+Require to return flashloan source DEX tokens           => 7777.633678401564083594
+To get the tokens, need to send Uniswap V1 WETH X       => 3.940666755091355442
+Profit = (FlashLoan ETHs) - X                           =>  0.059333244908644556
+⏰ Time: Mon Apr 05 2021 13:43:23 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.021970644908644553
+
+😋 FlashLoan ETHs     => 3.0 ETH
+Require to return flashloan source DEX tokens           => 5833.018744680506177698
+To get the tokens, need to send Uniswap V1 WETH X       => 2.940454984239563942
+Profit = (FlashLoan ETHs) - X                           =>  0.059545015760436026
+⏰ Time: Mon Apr 05 2021 13:43:24 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.022182415760436024
+💰 Before Flashswap, the WETH       => 1.127311405356077 💰
+ 👿 👿 👿 ARBITRAGE Transactionを実行して行きます。
+🎉🎉🎉 ARBITRAGE EXECUTED! PENDING TX TO BE MINED 🎉🎉🎉
+🎉🎉🎉 Tx Hash:  0x2fb782abb3fe549037d460631ca7635acaf84b22bf277c86cfb2308b73a33f4d
+
+🎆🎆🎆 SUCCESS　🎉　 TX MINED 🎆🎆🎆
+
+💰 After Flashswap, the WETH       => 1.1868564211165131 💰
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12177582 , Mon Apr 05 2021 13:43:28 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 196.2716374567852
+Uniswap V1 TOKEN Reserves         => 384667.58051708166
+Uniswap ETH Reserves              => 28246.132709783964
+Uniswap TOKEN Reserves            => 54761146.650818124
+Sushiswap ETH Reserves            => 86930.34105409397
+Sushiswap TOKEN Reserves          => 176484929.12602583
+
+
+Uniswap V1 TOKEN/ETH              => 1959.8734972686882
+Uniswap V2 TOEKN/ETH              => 1938.7130696249199
+Sushiswap TOKEN/ETH               => 2030.1879296229254
+
+
+Need to start flashswap from Sushiswap, borrow TOKEN
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan Tokens  => 2000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.012165844264789142
+Require to return flashloan to source DEX ETH X      => 0.988105957174408101
+Profit =  Y - X  =>  0.024059887090381094
+⏰ Time: Mon Apr 05 2021 13:43:28 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit < GasCost, will return. =>  -0.013579912909618908
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan Tokens  => 3000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.514344057211902845
+Require to return flashloan to source DEX ETH X      => 1.482167334122527071
+Profit =  Y - X  =>  0.032176723089375914
+⏰ Time: Mon Apr 05 2021 13:43:29 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit < GasCost, will return. =>  -0.005463076910624087
+
+🤖 Find aribitrage oppoturnity => 3 times 
+👉 If FlashLoan Tokens  => 4000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 2.01394584155020995
+Require to return flashloan to source DEX ETH X      => 1.976234310104823782
+Profit =  Y - X  =>  0.03771153144538619
+⏰ Time: Mon Apr 05 2021 13:43:31 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit - GasCost              =>  0.0000717314453861917
+
+🤖 Find aribitrage oppoturnity => 4 times 
+👉 If FlashLoan Tokens  => 5000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 2.510990974122863184
+Require to return flashloan to source DEX ETH X      => 2.470306885216476779
+Profit =  Y - X  =>  0.04068408890638642
+⏰ Time: Mon Apr 05 2021 13:43:32 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.003041888906386417
+
+🤖 Find aribitrage oppoturnity => 5 times 
+👉 If FlashLoan Tokens  => 6000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.005499029878390453
+Require to return flashloan to source DEX ETH X      => 2.96438505955266676
+Profit =  Y - X  =>  0.0411139703257235
+⏰ Time: Mon Apr 05 2021 13:43:33 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.0034717703257235027
+
+🤖 Find aribitrage oppoturnity => 6 times 
+👉 If FlashLoan Tokens  => 7000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.497489384440472693
+Require to return flashloan to source DEX ETH X      => 3.458468833208576585
+Profit =  Y - X  =>  0.03902055123189596
+⏰ Time: Mon Apr 05 2021 13:43:35 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.0013783512318959606
+
+😋 FlashLoan Tokens     => 6000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.005499029878390453
+Require to return flashloan to source DEX ETH X      => 2.96438505955266676
+Profit =  Y - X  =>  0.0411139703257235
+⏰ Time: Mon Apr 05 2021 13:43:36 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.0034717703257235027
+💰 Before Flashswap, the WETH       => 1.1868564211165131 💰
+ 👿 👿 👿 ARBITRAGE Transactionを実行して行きます。
+🎉🎉🎉 ARBITRAGE EXECUTED! PENDING TX TO BE MINED 🎉🎉🎉
+🎉🎉🎉 Tx Hash:  0x82f10d3315a23ed8fe44989df06c2946ad0361e8d90c2212ee40ccae780fe63d
+🎆🎆🎆 SUCCESS　🎉　 TX MINED 🎆🎆🎆
+
+💰 After Flashswap, the WETH       => 1.2279703914422369 💰
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12177583 , Mon Apr 05 2021 13:43:40 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 193.2661384269068
+Uniswap V1 TOKEN Reserves         => 390667.58051708166
+Uniswap ETH Reserves              => 28246.132709783964
+Uniswap TOKEN Reserves            => 54761146.650818124
+Sushiswap ETH Reserves            => 86933.30543915353
+Sushiswap TOKEN Reserves          => 176478929.12602583
+
+
+Uniswap V1 TOKEN/ETH              => 2021.3969384234997
+Uniswap V2 TOEKN/ETH              => 1938.7130696249199
+Sushiswap TOKEN/ETH               => 2030.0496827369252
+
+
+Need to start flashswap from Uniswap V2, borrow ETH
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan ETHs  => 2.0 ETH
+Require to return flashloan source DEX tokens           => 3889.368810752236252887
+To get the tokens, need to send Uniswap V1 WETH X       => 1.949295755376313723
+Profit = (FlashLoan ETHs) - X                           =>  0.05070424462368628
+⏰ Time: Mon Apr 05 2021 13:43:40 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.013341644623686276
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan ETHs  => 3.0 ETH
+Require to return flashloan source DEX tokens           => 5834.259781500407010234
+To get the tokens, need to send Uniswap V1 WETH X       => 2.938824864706320099
+Profit = (FlashLoan ETHs) - X                           =>  0.061175135293679794
+⏰ Time: Mon Apr 05 2021 13:43:41 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.02381253529367979
+
+🤖 Find aribitrage oppoturnity => 3 times 
+👉 If FlashLoan ETHs  => 4.0 ETH
+Require to return flashloan source DEX tokens           => 7779.288482000840733135
+To get the tokens, need to send Uniswap V1 WETH X       => 3.938477793920761873
+Profit = (FlashLoan ETHs) - X                           =>  0.061522206079238195
+⏰ Time: Mon Apr 05 2021 13:43:43 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.024159606079238193
+
+🤖 Find aribitrage oppoturnity => 4 times 
+👉 If FlashLoan ETHs  => 5.0 ETH
+Require to return flashloan source DEX tokens           => 9724.454926884298200024
+To get the tokens, need to send Uniswap V1 WETH X       => 4.94841070626578309
+Profit = (FlashLoan ETHs) - X                           =>  0.05158929373421728
+⏰ Time: Mon Apr 05 2021 13:43:44 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.014226693734217276
+
+😋 FlashLoan ETHs     => 4.0 ETH
+Require to return flashloan source DEX tokens           => 7779.288482000840733135
+To get the tokens, need to send Uniswap V1 WETH X       => 3.938477793920761873
+Profit = (FlashLoan ETHs) - X                           =>  0.061522206079238195
+⏰ Time: Mon Apr 05 2021 13:43:46 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.024159606079238193
+💰 Before Flashswap, the WETH       => 1.2279703914422369 💰
+ 👿 👿 👿 ARBITRAGE Transactionを実行して行きます。
+🎉🎉🎉 ARBITRAGE EXECUTED! PENDING TX TO BE MINED 🎉🎉🎉
+🎉🎉🎉 Tx Hash:  0x82e84f7bcd7317d510706fbf1f8d3d4889447908faeb08ee4bda5ef1b297105d
+
+🎆🎆🎆 SUCCESS　🎉　 TX MINED 🎆🎆🎆
+
+💰 After Flashswap, the WETH       => 1.289492597521475 💰
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12177584 , Mon Apr 05 2021 13:43:48 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 197.20461622082757
+Uniswap V1 TOKEN Reserves         => 382888.2920350808
+Uniswap ETH Reserves              => 28242.132709783964
+Uniswap TOKEN Reserves            => 54768925.93930013
+Sushiswap ETH Reserves            => 86933.30543915353
+Sushiswap TOKEN Reserves          => 176478929.12602583
+
+
+Uniswap V1 TOKEN/ETH              => 1941.578748878407
+Uniswap V2 TOEKN/ETH              => 1939.2631038918123
+Sushiswap TOKEN/ETH               => 2030.0496827369252
+
+
+Need to start flashswap from Sushiswap, borrow TOKEN
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan Tokens  => 2000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.021678608971931786
+Require to return flashloan to source DEX ETH X      => 0.988173247815461348
+Profit =  Y - X  =>  0.033505361156470514
+⏰ Time: Mon Apr 05 2021 13:43:48 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit < GasCost, will return. =>  -0.0041344388435294865
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan Tokens  => 3000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.52855833233692211
+Require to return flashloan to source DEX ETH X      => 1.482268270941595709
+Profit =  Y - X  =>  0.04629006139532632
+⏰ Time: Mon Apr 05 2021 13:43:49 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit - GasCost              =>  0.00865026139532632
+
+🤖 Find aribitrage oppoturnity => 3 times 
+👉 If FlashLoan Tokens  => 4000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 2.032825545736328548
+Require to return flashloan to source DEX ETH X      => 1.976368893673584262
+Profit =  Y - X  =>  0.056456652062744084
+⏰ Time: Mon Apr 05 2021 13:43:51 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit - GasCost              =>  0.018816852062744083
+
+🤖 Find aribitrage oppoturnity => 4 times 
+👉 If FlashLoan Tokens  => 5000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 2.534500394968966127
+Require to return flashloan to source DEX ETH X      => 2.470475116106618506
+Profit =  Y - X  =>  0.06402527886234743
+⏰ Time: Mon Apr 05 2021 13:43:52 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.026383078862347434
+
+🤖 Find aribitrage oppoturnity => 5 times 
+👉 If FlashLoan Tokens  => 6000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.033602819231481183
+Require to return flashloan to source DEX ETH X      => 2.964586938335892094
+Profit =  Y - X  =>  0.06901588089558874
+⏰ Time: Mon Apr 05 2021 13:43:54 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.03137368089558874
+
+🤖 Find aribitrage oppoturnity => 6 times 
+👉 If FlashLoan Tokens  => 7000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.530152553760049786
+Require to return flashloan to source DEX ETH X      => 3.458704360456600839
+Profit =  Y - X  =>  0.07144819330344898
+⏰ Time: Mon Apr 05 2021 13:43:55 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.03380599330344898
+
+🤖 Find aribitrage oppoturnity => 7 times 
+👉 If FlashLoan Tokens  => 8000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 4.024169132431646166
+Require to return flashloan to source DEX ETH X      => 3.952827382563942712
+Profit =  Y - X  =>  0.07134174986770292
+⏰ Time: Mon Apr 05 2021 13:43:57 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit - GasCost              =>  0.03370194986770292
+
+😋 FlashLoan Tokens     => 7000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.530152553760049786
+Require to return flashloan to source DEX ETH X      => 3.458704360456600839
+Profit =  Y - X  =>  0.07144819330344898
+⏰ Time: Mon Apr 05 2021 13:43:58 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.03380599330344898
+💰 Before Flashswap, the WETH       => 1.289492597521475 💰
+ 👿 👿 👿 ARBITRAGE Transactionを実行して行きます。
+🎉🎉🎉 ARBITRAGE EXECUTED! PENDING TX TO BE MINED 🎉🎉🎉
+🎉🎉🎉 Tx Hash:  0x95492ce5a5bf52640769df8ee95482e22c475cbb89711eb1af200c11012f80c7
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12177585 , Mon Apr 05 2021 13:44:00 GMT+0900 (GMT+09:00)
+🎆🎆🎆 SUCCESS　🎉　 TX MINED 🎆🎆🎆
+
+💰 After Flashswap, the WETH       => 1.360940790824924 💰
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+Uniswap V1 ETH Reserves           => 193.67446366706753
+Uniswap V1 TOKEN Reserves         => 389888.2920350808
+Uniswap ETH Reserves              => 28242.132709783964
+Uniswap TOKEN Reserves            => 54768925.93930013
+Sushiswap ETH Reserves            => 86936.76414351398
+Sushiswap TOKEN Reserves          => 176471929.12602583
+
+
+Uniswap V1 TOKEN/ETH              => 2013.1115101746764
+Uniswap V2 TOEKN/ETH              => 1939.2631038918123
+Sushiswap TOKEN/ETH               => 2029.8884006622154
+
+
+Need to start flashswap from Uniswap V2, borrow ETH
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan ETHs  => 2.0 ETH
+Require to return flashloan source DEX tokens           => 3890.472306571703289526
+To get the tokens, need to send Uniswap V1 WETH X       => 1.957918817008144139
+Profit = (FlashLoan ETHs) - X                           =>  0.042081182991855925
+⏰ Time: Mon Apr 05 2021 13:44:00 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.004718582991855923
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan ETHs  => 3.0 ETH
+Require to return flashloan source DEX tokens           => 5835.915113104304104699
+To get the tokens, need to send Uniswap V1 WETH X       => 2.951859704215701137
+Profit = (FlashLoan ETHs) - X                           =>  0.0481402957842989
+⏰ Time: Mon Apr 05 2021 13:44:01 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.0107776957842989
+
+🤖 Find aribitrage oppoturnity => 3 times 
+👉 If FlashLoan ETHs  => 4.0 ETH
+Require to return flashloan source DEX tokens           => 7781.495707983360175579
+To get the tokens, need to send Uniswap V1 WETH X       => 3.955993083167181954
+Profit = (FlashLoan ETHs) - X                           =>  0.0440069168328181
+⏰ Time: Mon Apr 05 2021 13:44:03 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.0066443168328180965
+
+😋 FlashLoan ETHs     => 3.0 ETH
+Require to return flashloan source DEX tokens           => 5835.915113104304104699
+To get the tokens, need to send Uniswap V1 WETH X       => 2.951859704215701137
+Profit = (FlashLoan ETHs) - X                           =>  0.0481402957842989
+⏰ Time: Mon Apr 05 2021 13:44:04 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.0107776957842989
+💰 Before Flashswap, the WETH       => 1.360940790824924 💰
+ 👿 👿 👿 ARBITRAGE Transactionを実行して行きます。
+🎉🎉🎉 ARBITRAGE EXECUTED! PENDING TX TO BE MINED 🎉🎉🎉
+🎉🎉🎉 Tx Hash:  0xae7bc3d61459a05a04070e2ce92f6f8a2db1c27103047968df760f83e68045bc
+
+🎆🎆🎆 SUCCESS　🎉　 TX MINED 🎆🎆🎆
+
+💰 After Flashswap, the WETH       => 1.4090810866092227 💰
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12177586 , Mon Apr 05 2021 13:44:08 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 196.6263233712832
+Uniswap V1 TOKEN Reserves         => 384052.3769219765
+Uniswap ETH Reserves              => 28239.132709783964
+Uniswap TOKEN Reserves            => 54774761.85441323
+Sushiswap ETH Reserves            => 86936.76414351398
+Sushiswap TOKEN Reserves          => 176471929.12602583
+
+
+Uniswap V1 TOKEN/ETH              => 1953.209368599049
+Uniswap V2 TOEKN/ETH              => 1939.675783153054
+Sushiswap TOKEN/ETH               => 2029.8884006622154
+
+
+Need to start flashswap from Sushiswap, borrow TOKEN
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan Tokens  => 2000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.015610849474648116
+Require to return flashloan to source DEX ETH X      => 0.988251762246755191
+Profit =  Y - X  =>  0.02735908722789293
+⏰ Time: Mon Apr 05 2021 13:44:08 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit < GasCost, will return. =>  -0.01028071277210707
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan Tokens  => 3000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.51949204732694394
+Require to return flashloan to source DEX ETH X      => 1.482386043589087543
+Profit =  Y - X  =>  0.03710600373785655
+⏰ Time: Mon Apr 05 2021 13:44:09 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit < GasCost, will return. =>  -0.0005337962621434489
+
+🤖 Find aribitrage oppoturnity => 3 times 
+👉 If FlashLoan Tokens  => 4000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 2.020783980844205111
+Require to return flashloan to source DEX ETH X      => 1.976525925204328288
+Profit =  Y - X  =>  0.04425805563987684
+⏰ Time: Mon Apr 05 2021 13:44:11 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit - GasCost              =>  0.0066182556398768355
+
+🤖 Find aribitrage oppoturnity => 4 times 
+👉 If FlashLoan Tokens  => 5000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 2.519506556827385722
+Require to return flashloan to source DEX ETH X      => 2.470671407187684039
+Profit =  Y - X  =>  0.048835149639701925
+⏰ Time: Mon Apr 05 2021 13:44:12 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.011192949639701924
+
+🤖 Find aribitrage oppoturnity => 5 times 
+👉 If FlashLoan Tokens  => 6000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.015679478535580733
+Require to return flashloan to source DEX ETH X      => 2.964822489634363568
+Profit =  Y - X  =>  0.05085698890121737
+⏰ Time: Mon Apr 05 2021 13:44:13 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.01321478890121737
+
+🤖 Find aribitrage oppoturnity => 6 times 
+👉 If FlashLoan Tokens  => 7000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.509322248280846304
+Require to return flashloan to source DEX ETH X      => 3.458979172639577805
+Profit =  Y - X  =>  0.050343075641268165
+⏰ Time: Mon Apr 05 2021 13:44:15 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.012700875641268164
+
+😋 FlashLoan Tokens     => 6000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.015679478535580733
+Require to return flashloan to source DEX ETH X      => 2.964822489634363568
+Profit =  Y - X  =>  0.05085698890121737
+⏰ Time: Mon Apr 05 2021 13:44:16 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.01321478890121737
+💰 Before Flashswap, the WETH       => 1.4090810866092227 💰
+ 👿 👿 👿 ARBITRAGE Transactionを実行して行きます。
+🎉🎉🎉 ARBITRAGE EXECUTED! PENDING TX TO BE MINED 🎉🎉🎉
+🎉🎉🎉 Tx Hash:  0xbb784aae6a4dede579a60561173d8a7a0c5b0a64f10fa781f3f78f74de5b676e
+🎆🎆🎆 SUCCESS　🎉　 TX MINED 🎆🎆🎆
+
+💰 After Flashswap, the WETH       => 1.45993807551044 💰
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12177587 , Mon Apr 05 2021 13:44:20 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 193.61064389274765
+Uniswap V1 TOKEN Reserves         => 390052.3769219765
+Uniswap ETH Reserves              => 28239.132709783964
+Uniswap TOKEN Reserves            => 54774761.85441323
+Sushiswap ETH Reserves            => 86939.7289660036
+Sushiswap TOKEN Reserves          => 176465929.12602583
+
+
+Uniswap V1 TOKEN/ETH              => 2014.6225903677564
+Uniswap V2 TOEKN/ETH              => 1939.675783153054
+Sushiswap TOKEN/ETH               => 2029.7501639903894
+
+
+Need to start flashswap from Uniswap V2, borrow ETH
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan ETHs  => 2.0 ETH
+Require to return flashloan source DEX tokens           => 3891.300236526187004555
+To get the tokens, need to send Uniswap V1 WETH X       => 1.956862517761517742
+Profit = (FlashLoan ETHs) - X                           =>  0.04313748223848224
+⏰ Time: Mon Apr 05 2021 13:44:20 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.005774882238482236
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan ETHs  => 3.0 ETH
+Require to return flashloan source DEX tokens           => 5837.157073974757586958
+To get the tokens, need to send Uniswap V1 WETH X       => 2.950264044953030331
+Profit = (FlashLoan ETHs) - X                           =>  0.04973595504696959
+⏰ Time: Mon Apr 05 2021 13:44:21 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.01237335504696959
+
+🤖 Find aribitrage oppoturnity => 3 times 
+👉 If FlashLoan ETHs  => 4.0 ETH
+Require to return flashloan source DEX tokens           => 7783.151743737236458329
+To get the tokens, need to send Uniswap V1 WETH X       => 3.953850394038378937
+Profit = (FlashLoan ETHs) - X                           =>  0.0461496059616211
+⏰ Time: Mon Apr 05 2021 13:44:23 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.008787005961621096
+
+😋 FlashLoan ETHs     => 3.0 ETH
+Require to return flashloan source DEX tokens           => 5837.157073974757586958
+To get the tokens, need to send Uniswap V1 WETH X       => 2.950264044953030331
+Profit = (FlashLoan ETHs) - X                           =>  0.04973595504696959
+⏰ Time: Mon Apr 05 2021 13:44:24 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.01237335504696959
+💰 Before Flashswap, the WETH       => 1.45993807551044 💰
+ 👿 👿 👿 ARBITRAGE Transactionを実行して行きます。
+🎉🎉🎉 ARBITRAGE EXECUTED! PENDING TX TO BE MINED 🎉🎉🎉
+🎉🎉🎉 Tx Hash:  0x901ca620da6276abe5c17270db1d611755fdc52b46ab2e870d834eb381309c31
+
+🎆🎆🎆 SUCCESS　🎉　 TX MINED 🎆🎆🎆
+
+💰 After Flashswap, the WETH       => 1.5096740305574097 💰
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12177588 , Mon Apr 05 2021 13:44:28 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 196.56090793770068
+Uniswap V1 TOKEN Reserves         => 384215.2198480017
+Uniswap ETH Reserves              => 28236.132709783964
+Uniswap TOKEN Reserves            => 54780599.01148721
+Sushiswap ETH Reserves            => 86939.7289660036
+Sushiswap TOKEN Reserves          => 176465929.12602583
+
+
+Uniswap V1 TOKEN/ETH              => 1954.6878567012798
+Uniswap V2 TOEKN/ETH              => 1940.088594090842
+Sushiswap TOKEN/ETH               => 2029.7501639903894
+
+
+Need to start flashswap from Sushiswap, borrow TOKEN
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan Tokens  => 2000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.014844882734880834
+Require to return flashloan to source DEX ETH X      => 0.9883190677752782
+Profit =  Y - X  =>  0.0265258149596026
+⏰ Time: Mon Apr 05 2021 13:44:28 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit < GasCost, will return. =>  -0.0111139850403974
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan Tokens  => 3000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.518347705965180299
+Require to return flashloan to source DEX ETH X      => 1.482487002739613721
+Profit =  Y - X  =>  0.03586070322556645
+⏰ Time: Mon Apr 05 2021 13:44:29 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit < GasCost, will return. =>  -0.0017790967744335529
+
+🤖 Find aribitrage oppoturnity => 3 times 
+👉 If FlashLoan Tokens  => 4000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 2.019264294516863961
+Require to return flashloan to source DEX ETH X      => 1.97666053854870269
+Profit =  Y - X  =>  0.04260375596816135
+⏰ Time: Mon Apr 05 2021 13:44:31 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit - GasCost              =>  0.004963955968161349
+
+🤖 Find aribitrage oppoturnity => 4 times 
+👉 If FlashLoan Tokens  => 5000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 2.517614523578920049
+Require to return flashloan to source DEX ETH X      => 2.470839675297764678
+Profit =  Y - X  =>  0.046774848281155634
+⏰ Time: Mon Apr 05 2021 13:44:32 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.009132648281155634
+
+🤖 Find aribitrage oppoturnity => 5 times 
+👉 If FlashLoan Tokens  => 6000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.013418065206512016
+Require to return flashloan to source DEX ETH X      => 2.965024413082021417
+Profit =  Y - X  =>  0.048393652124490316
+⏰ Time: Mon Apr 05 2021 13:44:34 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.010751452124490316
+
+🤖 Find aribitrage oppoturnity => 6 times 
+👉 If FlashLoan Tokens  => 7000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.50669439090951913
+Require to return flashloan to source DEX ETH X      => 3.459214751996696796
+Profit =  Y - X  =>  0.04747963891282225
+⏰ Time: Mon Apr 05 2021 13:44:35 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.009837438912822252
+
+😋 FlashLoan Tokens     => 6000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.013418065206512016
+Require to return flashloan to source DEX ETH X      => 2.965024413082021417
+Profit =  Y - X  =>  0.048393652124490316
+⏰ Time: Mon Apr 05 2021 13:44:36 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.010751452124490316
+💰 Before Flashswap, the WETH       => 1.5096740305574097 💰
+ 👿 👿 👿 ARBITRAGE Transactionを実行して行きます。
+🎉🎉🎉 ARBITRAGE EXECUTED! PENDING TX TO BE MINED 🎉🎉🎉
+🎉🎉🎉 Tx Hash:  0x9cb63bab003a8b4bb36a23e6322ad174fc06348ebca3f9fe1ac08798199ef206
+🎆🎆🎆 SUCCESS　🎉　 TX MINED 🎆🎆🎆
+
+💰 After Flashswap, the WETH       => 1.5580676826819002 💰
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12177589 , Mon Apr 05 2021 13:44:40 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 193.54748987249417
+Uniswap V1 TOKEN Reserves         => 390215.2198480017
+Uniswap ETH Reserves              => 28236.132709783964
+Uniswap TOKEN Reserves            => 54780599.01148721
+Sushiswap ETH Reserves            => 86942.6939904167
+Sushiswap TOKEN Reserves          => 176459929.12602583
+
+
+Uniswap V1 TOKEN/ETH              => 2016.1213152651526
+Uniswap V2 TOEKN/ETH              => 1940.088594090842
+Sushiswap TOKEN/ETH               => 2029.6119320327964
+
+
+Need to start flashswap from Uniswap V2, borrow ETH
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan ETHs  => 2.0 ETH
+Require to return flashloan source DEX tokens           => 3892.128430663591876237
+To get the tokens, need to send Uniswap V1 WETH X       => 1.955819986100515905
+Profit = (FlashLoan ETHs) - X                           =>  0.044180013899484116
+⏰ Time: Mon Apr 05 2021 13:44:40 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.0068174138994841135
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan ETHs  => 3.0 ETH
+Require to return flashloan source DEX tokens           => 5838.3994311476416487
+To get the tokens, need to send Uniswap V1 WETH X       => 2.948689197430709994
+Profit = (FlashLoan ETHs) - X                           =>  0.051310802569290104
+⏰ Time: Mon Apr 05 2021 13:44:41 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.013948202569290101
+
+🤖 Find aribitrage oppoturnity => 3 times 
+👉 If FlashLoan ETHs  => 4.0 ETH
+Require to return flashloan source DEX tokens           => 7784.808307931756386593
+To get the tokens, need to send Uniswap V1 WETH X       => 3.951735670678715705
+Profit = (FlashLoan ETHs) - X                           =>  0.048264329321284105
+⏰ Time: Mon Apr 05 2021 13:44:43 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.010901729321284102
+
+😋 FlashLoan ETHs     => 3.0 ETH
+Require to return flashloan source DEX tokens           => 5838.3994311476416487
+To get the tokens, need to send Uniswap V1 WETH X       => 2.948689197430709994
+Profit = (FlashLoan ETHs) - X                           =>  0.051310802569290104
+⏰ Time: Mon Apr 05 2021 13:44:44 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.013948202569290101
+💰 Before Flashswap, the WETH       => 1.5580676826819002 💰
+ 👿 👿 👿 ARBITRAGE Transactionを実行して行きます。
+🎉🎉🎉 ARBITRAGE EXECUTED! PENDING TX TO BE MINED 🎉🎉🎉
+🎉🎉🎉 Tx Hash:  0x6ae734d03f763b38699ca8c13bd7f53a3f3099dd185b4abcf5701f769af12af4
+
+🎆🎆🎆 SUCCESS　🎉　 TX MINED 🎆🎆🎆
+
+💰 After Flashswap, the WETH       => 1.6093784852511903 💰
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12177590 , Mon Apr 05 2021 13:44:48 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 196.49617906992486
+Uniswap V1 TOKEN Reserves         => 384376.8204168541
+Uniswap ETH Reserves              => 28233.132709783964
+Uniswap TOKEN Reserves            => 54786437.410918355
+Sushiswap ETH Reserves            => 86942.6939904167
+Sushiswap TOKEN Reserves          => 176459929.12602583
+
+
+Uniswap V1 TOKEN/ETH              => 1956.1541717310965
+Uniswap V2 TOEKN/ETH              => 1940.5015367611884
+Sushiswap TOKEN/ETH               => 2029.6119320327964
+
+
+Need to start flashswap from Sushiswap, borrow TOKEN
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan Tokens  => 2000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.014086365638854742
+Require to return flashloan to source DEX ETH X      => 0.988386380176421952
+Profit =  Y - X  =>  0.025699985462432795
+⏰ Time: Mon Apr 05 2021 13:44:48 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit < GasCost, will return. =>  -0.011939814537567206
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan Tokens  => 3000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.51721449387739075
+Require to return flashloan to source DEX ETH X      => 1.482587972199187766
+Profit =  Y - X  =>  0.034626521678203126
+⏰ Time: Mon Apr 05 2021 13:44:49 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit < GasCost, will return. =>  -0.003013278321796875
+
+🤖 Find aribitrage oppoturnity => 3 times 
+👉 If FlashLoan Tokens  => 4000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 2.017759387397007551
+Require to return flashloan to source DEX ETH X      => 1.976795165638629919
+Profit =  Y - X  =>  0.04096422175837766
+⏰ Time: Mon Apr 05 2021 13:44:51 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit - GasCost              =>  0.0033244217583776603
+
+🤖 Find aribitrage oppoturnity => 4 times 
+👉 If FlashLoan Tokens  => 5000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 2.515740890092609927
+Require to return flashloan to source DEX ETH X      => 2.471007960589980946
+Profit =  Y - X  =>  0.04473292950262886
+⏰ Time: Mon Apr 05 2021 13:44:52 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.007090729502628859
+
+🤖 Find aribitrage oppoturnity => 5 times 
+👉 If FlashLoan Tokens  => 6000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.011178643129079051
+Require to return flashloan to source DEX ETH X      => 2.96522635714847554
+Profit =  Y - X  =>  0.04595228598060341
+⏰ Time: Mon Apr 05 2021 13:44:54 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.008310085980603413
+
+🤖 Find aribitrage oppoturnity => 6 times 
+👉 If FlashLoan Tokens  => 7000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.504092087523600673
+Require to return flashloan to source DEX ETH X      => 3.459450355409350552
+Profit =  Y - X  =>  0.04464173211425004
+⏰ Time: Mon Apr 05 2021 13:44:55 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.006999532114250043
+
+😋 FlashLoan Tokens     => 6000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.011178643129079051
+Require to return flashloan to source DEX ETH X      => 2.96522635714847554
+Profit =  Y - X  =>  0.04595228598060341
+⏰ Time: Mon Apr 05 2021 13:44:57 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.008310085980603413
+💰 Before Flashswap, the WETH       => 1.6093784852511903 💰
+ 👿 👿 👿 ARBITRAGE Transactionを実行して行きます。
+🎉🎉🎉 ARBITRAGE EXECUTED! PENDING TX TO BE MINED 🎉🎉🎉
+🎉🎉🎉 Tx Hash:  0x09f498b6d147cfc3b2f05783d15349e3a6bb0b066abeea5f3503babe6b43db20
+🎆🎆🎆 SUCCESS　🎉　 TX MINED 🎆🎆🎆
+
+💰 After Flashswap, the WETH       => 1.6553307712317937 💰
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12177591 , Mon Apr 05 2021 13:45:00 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 193.48500042679578
+Uniswap V1 TOKEN Reserves         => 390376.8204168541
+Uniswap ETH Reserves              => 28233.132709783964
+Uniswap TOKEN Reserves            => 54786437.410918355
+Sushiswap ETH Reserves            => 86945.65921677384
+Sushiswap TOKEN Reserves          => 176453929.12602583
+
+
+Uniswap V1 TOKEN/ETH              => 2017.607667549152
+Uniswap V2 TOEKN/ETH              => 1940.5015367611884
+Sushiswap TOKEN/ETH               => 2029.4737047894366
+
+
+Need to start flashswap from Uniswap V2, borrow ETH
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan ETHs  => 2.0 ETH
+Require to return flashloan source DEX tokens           => 3892.956889096298663562
+To get the tokens, need to send Uniswap V1 WETH X       => 1.954791188966002079
+Profit = (FlashLoan ETHs) - X                           =>  0.045208811033997875
+⏰ Time: Mon Apr 05 2021 13:45:00 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.007846211033997873
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan ETHs  => 3.0 ETH
+Require to return flashloan source DEX tokens           => 5839.642184791542341931
+To get the tokens, need to send Uniswap V1 WETH X       => 2.947135111580378378
+Profit = (FlashLoan ETHs) - X                           =>  0.05286488841962145
+⏰ Time: Mon Apr 05 2021 13:45:01 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.015502288419621445
+
+🤖 Find aribitrage oppoturnity => 3 times 
+👉 If FlashLoan ETHs  => 4.0 ETH
+Require to return flashloan source DEX tokens           => 7786.465400791721250561
+To get the tokens, need to send Uniswap V1 WETH X       => 3.949648845680254682
+Profit = (FlashLoan ETHs) - X                           =>  0.05035115431974546
+⏰ Time: Mon Apr 05 2021 13:45:03 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.012988554319745459
+
+😋 FlashLoan ETHs     => 3.0 ETH
+Require to return flashloan source DEX tokens           => 5839.642184791542341931
+To get the tokens, need to send Uniswap V1 WETH X       => 2.947135111580378378
+Profit = (FlashLoan ETHs) - X                           =>  0.05286488841962145
+⏰ Time: Mon Apr 05 2021 13:45:04 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.015502288419621445
+💰 Before Flashswap, the WETH       => 1.6553307712317937 💰
+ 👿 👿 👿 ARBITRAGE Transactionを実行して行きます。
+🎉🎉🎉 ARBITRAGE EXECUTED! PENDING TX TO BE MINED 🎉🎉🎉
+🎉🎉🎉 Tx Hash:  0x708f42444d1fae5dd584a32bd30aabd4080854f12d822b8bdf77a6b394277d20
+
+🎆🎆🎆 SUCCESS　🎉　 TX MINED 🎆🎆🎆
+
+💰 After Flashswap, the WETH       => 1.7081956596514154 💰
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12177592 , Mon Apr 05 2021 13:45:08 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 196.43213553837617
+Uniswap V1 TOKEN Reserves         => 384537.17823206255
+Uniswap ETH Reserves              => 28230.132709783964
+Uniswap TOKEN Reserves            => 54792277.05310315
+Sushiswap ETH Reserves            => 86945.65921677384
+Sushiswap TOKEN Reserves          => 176453929.12602583
+
+
+Uniswap V1 TOKEN/ETH              => 1957.6082965148898
+Uniswap V2 TOEKN/ETH              => 1940.9146112201347
+Sushiswap TOKEN/ETH               => 2029.4737047894366
+
+
+Need to start flashswap from Sushiswap, borrow TOKEN
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan Tokens  => 2000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.013335276225414615
+Require to return flashloan to source DEX ETH X      => 0.988453699451121934
+Profit =  Y - X  =>  0.024881576774292702
+⏰ Time: Mon Apr 05 2021 13:45:08 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit < GasCost, will return. =>  -0.0127582232257073
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan Tokens  => 3000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.516092378303016835
+Require to return flashloan to source DEX ETH X      => 1.482688951969212929
+Profit =  Y - X  =>  0.03340342633380389
+⏰ Time: Mon Apr 05 2021 13:45:09 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit < GasCost, will return. =>  -0.004236373666196114
+
+🤖 Find aribitrage oppoturnity => 3 times 
+👉 If FlashLoan Tokens  => 4000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 2.016269216043299953
+Require to return flashloan to source DEX ETH X      => 1.976929806475981008
+Profit =  Y - X  =>  0.03933940956731896
+⏰ Time: Mon Apr 05 2021 13:45:11 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit - GasCost              =>  0.0016996095673189604
+
+🤖 Find aribitrage oppoturnity => 4 times 
+👉 If FlashLoan Tokens  => 5000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 2.513885602363381936
+Require to return flashloan to source DEX ETH X      => 2.471176263066671668
+Profit =  Y - X  =>  0.04270933929671017
+⏰ Time: Mon Apr 05 2021 13:45:12 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.005067139296710169
+
+🤖 Find aribitrage oppoturnity => 5 times 
+👉 If FlashLoan Tokens  => 6000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.008961147849950207
+Require to return flashloan to source DEX ETH X      => 2.965428321836532565
+Profit =  Y - X  =>  0.04353282601341757
+⏰ Time: Mon Apr 05 2021 13:45:14 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.005890626013417569
+
+🤖 Find aribitrage oppoturnity => 6 times 
+👉 If FlashLoan Tokens  => 7000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.501515263335444326
+Require to return flashloan to source DEX ETH X      => 3.459685982880813515
+Profit =  Y - X  =>  0.04182928045463097
+⏰ Time: Mon Apr 05 2021 13:45:15 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.0041870804546309676
+
+😋 FlashLoan Tokens     => 6000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.008961147849950207
+Require to return flashloan to source DEX ETH X      => 2.965428321836532565
+Profit =  Y - X  =>  0.04353282601341757
+⏰ Time: Mon Apr 05 2021 13:45:17 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.005890626013417569
+💰 Before Flashswap, the WETH       => 1.7081956596514154 💰
+ 👿 👿 👿 ARBITRAGE Transactionを実行して行きます。
+🎉🎉🎉 ARBITRAGE EXECUTED! PENDING TX TO BE MINED 🎉🎉🎉
+🎉🎉🎉 Tx Hash:  0x50e7e93203efc3e394c4f664252be7c24a1345ded44796679bc9050322b44dfb
+🎆🎆🎆 SUCCESS　🎉　 TX MINED 🎆🎆🎆
+
+💰 After Flashswap, the WETH       => 1.751728485664833 💰
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12177593 , Mon Apr 05 2021 13:45:20 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 193.4231743905262
+Uniswap V1 TOKEN Reserves         => 390537.17823206255
+Uniswap ETH Reserves              => 28230.132709783964
+Uniswap TOKEN Reserves            => 54792277.05310315
+Sushiswap ETH Reserves            => 86948.62464509568
+Sushiswap TOKEN Reserves          => 176447929.12602583
+
+
+Uniswap V1 TOKEN/ETH              => 2019.0816300199801
+Uniswap V2 TOEKN/ETH              => 1940.9146112201347
+Sushiswap TOKEN/ETH               => 2029.335482260309
+
+
+Need to start flashswap from Uniswap V2, borrow ETH
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan ETHs  => 2.0 ETH
+Require to return flashloan source DEX tokens           => 3893.785611936747879941
+To get the tokens, need to send Uniswap V1 WETH X       => 1.953776093753344481
+Profit = (FlashLoan ETHs) - X                           =>  0.04622390624665562
+⏰ Time: Mon Apr 05 2021 13:45:20 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.008861306246655619
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan ETHs  => 3.0 ETH
+Require to return flashloan source DEX tokens           => 5840.885335075135359808
+To get the tokens, need to send Uniswap V1 WETH X       => 2.945601738022580141
+Profit = (FlashLoan ETHs) - X                           =>  0.054398261977419704
+⏰ Time: Mon Apr 05 2021 13:45:21 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.0170356619774197
+
+🤖 Find aribitrage oppoturnity => 3 times 
+👉 If FlashLoan ETHs  => 4.0 ETH
+Require to return flashloan source DEX tokens           => 7788.123022542051874643
+To get the tokens, need to send Uniswap V1 WETH X       => 3.947589852563299769
+Profit = (FlashLoan ETHs) - X                           =>  0.05241014743670025
+⏰ Time: Mon Apr 05 2021 13:45:23 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.015047547436700247
+
+😋 FlashLoan ETHs     => 3.0 ETH
+Require to return flashloan source DEX tokens           => 5840.885335075135359808
+To get the tokens, need to send Uniswap V1 WETH X       => 2.945601738022580141
+Profit = (FlashLoan ETHs) - X                           =>  0.054398261977419704
+⏰ Time: Mon Apr 05 2021 13:45:24 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.0170356619774197
+💰 Before Flashswap, the WETH       => 1.751728485664833 💰
+ 👿 👿 👿 ARBITRAGE Transactionを実行して行きます。
+🎉🎉🎉 ARBITRAGE EXECUTED! PENDING TX TO BE MINED 🎉🎉🎉
+🎉🎉🎉 Tx Hash:  0x10a427a35df8452cebe80a0f5b011a7af34d41107304938107b3c713cb0d8c7d
+
+🎆🎆🎆 SUCCESS　🎉　 TX MINED 🎆🎆🎆
+
+💰 After Flashswap, the WETH       => 1.806126747642253 💰
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12177594 , Mon Apr 05 2021 13:45:28 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 196.3687761285488
+Uniswap V1 TOKEN Reserves         => 384696.2928969874
+Uniswap ETH Reserves              => 28227.132709783964
+Uniswap TOKEN Reserves            => 54798117.93843822
+Sushiswap ETH Reserves            => 86948.62464509568
+Sushiswap TOKEN Reserves          => 176447929.12602583
+
+
+Uniswap V1 TOKEN/ETH              => 1959.0502139971268
+Uniswap V2 TOEKN/ETH              => 1941.3278175237522
+Sushiswap TOKEN/ETH               => 2029.335482260309
+
+
+Need to start flashswap from Sushiswap, borrow TOKEN
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan Tokens  => 2000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.012591592788278176
+Require to return flashloan to source DEX ETH X      => 0.988521025600313797
+Profit =  Y - X  =>  0.02407056718796441
+⏰ Time: Mon Apr 05 2021 13:45:28 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit < GasCost, will return. =>  -0.013569232812035592
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan Tokens  => 3000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.514981326861676606
+Require to return flashloan to source DEX ETH X      => 1.482789942051092705
+Profit =  Y - X  =>  0.03219138481058392
+⏰ Time: Mon Apr 05 2021 13:45:29 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit < GasCost, will return. =>  -0.005448415189416078
+
+🤖 Find aribitrage oppoturnity => 3 times 
+👉 If FlashLoan Tokens  => 4000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 2.014793737518489603
+Require to return flashloan to source DEX ETH X      => 1.977064461062627305
+Profit =  Y - X  =>  0.037729276455862104
+⏰ Time: Mon Apr 05 2021 13:45:31 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit - GasCost              =>  0.00008947645586210307
+
+🤖 Find aribitrage oppoturnity => 4 times 
+👉 If FlashLoan Tokens  => 5000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 2.512048607012778425
+Require to return flashloan to source DEX ETH X      => 2.471344582730176061
+Profit =  Y - X  =>  0.04070402428260245
+⏰ Time: Mon Apr 05 2021 13:45:32 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.003061824282602446
+
+🤖 Find aribitrage oppoturnity => 5 times 
+👉 If FlashLoan Tokens  => 6000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.006765515663583542
+Require to return flashloan to source DEX ETH X      => 2.965630307148999594
+Profit =  Y - X  =>  0.041135208514583965
+⏰ Time: Mon Apr 05 2021 13:45:34 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.0034930085145839646
+
+🤖 Find aribitrage oppoturnity => 6 times 
+👉 If FlashLoan Tokens  => 7000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.498963844425028237
+Require to return flashloan to source DEX ETH X      => 3.459921634414360687
+Profit =  Y - X  =>  0.039042210010667766
+⏰ Time: Mon Apr 05 2021 13:45:35 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.0014000100106677654
+
+😋 FlashLoan Tokens     => 6000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.006765515663583542
+Require to return flashloan to source DEX ETH X      => 2.965630307148999594
+Profit =  Y - X  =>  0.041135208514583965
+⏰ Time: Mon Apr 05 2021 13:45:37 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.0034930085145839646
+💰 Before Flashswap, the WETH       => 1.806126747642253 💰
+ 👿 👿 👿 ARBITRAGE Transactionを実行して行きます。
+🎉🎉🎉 ARBITRAGE EXECUTED! PENDING TX TO BE MINED 🎉🎉🎉
+🎉🎉🎉 Tx Hash:  0x27f63dc2f9940d914d7c72f75518c99dc0ec93f6cab2239440daf1289286491e
+🎆🎆🎆 SUCCESS　🎉　 TX MINED 🎆🎆🎆
+
+💰 After Flashswap, the WETH       => 1.8472619561568369 💰
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12177595 , Mon Apr 05 2021 13:45:40 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 193.3620106128852
+Uniswap V1 TOKEN Reserves         => 390696.2928969874
+Uniswap ETH Reserves              => 28227.132709783964
+Uniswap TOKEN Reserves            => 54798117.93843822
+Sushiswap ETH Reserves            => 86951.59027540282
+Sushiswap TOKEN Reserves          => 176441929.12602583
+
+
+Uniswap V1 TOKEN/ETH              => 2020.5431855959007
+Uniswap V2 TOEKN/ETH              => 1941.3278175237522
+Sushiswap TOKEN/ETH               => 2029.1972644454136
+
+
+Need to start flashswap from Uniswap V2, borrow ETH
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan ETHs  => 2.0 ETH
+Require to return flashloan source DEX tokens           => 3894.614599297439831336
+To get the tokens, need to send Uniswap V1 WETH X       => 1.952774668310116555
+Profit = (FlashLoan ETHs) - X                           =>  0.04722533168988341
+⏰ Time: Mon Apr 05 2021 13:45:40 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.009862731689883407
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan ETHs  => 3.0 ETH
+Require to return flashloan source DEX tokens           => 5842.128882167186093836
+To get the tokens, need to send Uniswap V1 WETH X       => 2.944089028063274562
+Profit = (FlashLoan ETHs) - X                           =>  0.05591097193672523
+⏰ Time: Mon Apr 05 2021 13:45:41 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.018548371936725226
+
+🤖 Find aribitrage oppoturnity => 3 times 
+👉 If FlashLoan ETHs  => 4.0 ETH
+Require to return flashloan source DEX tokens           => 7789.781173407788693749
+To get the tokens, need to send Uniswap V1 WETH X       => 3.945558625771682856
+Profit = (FlashLoan ETHs) - X                           =>  0.05444137422831696
+⏰ Time: Mon Apr 05 2021 13:45:43 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.01707877422831696
+
+😋 FlashLoan ETHs     => 3.0 ETH
+Require to return flashloan source DEX tokens           => 5842.128882167186093836
+To get the tokens, need to send Uniswap V1 WETH X       => 2.944089028063274562
+Profit = (FlashLoan ETHs) - X                           =>  0.05591097193672523
+⏰ Time: Mon Apr 05 2021 13:45:44 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.018548371936725226
+💰 Before Flashswap, the WETH       => 1.8472619561568369 💰
+ 👿 👿 👿 ARBITRAGE Transactionを実行して行きます。
+🎉🎉🎉 ARBITRAGE EXECUTED! PENDING TX TO BE MINED 🎉🎉🎉
+🎉🎉🎉 Tx Hash:  0x0e608447b28a66e69d85376297bd3b02e43b6b6edba8973d90d71b010cb7f7d0
+
+🎆🎆🎆 SUCCESS　🎉　 TX MINED 🎆🎆🎆
+
+💰 After Flashswap, the WETH       => 1.9031729280935623 💰
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12177596 , Mon Apr 05 2021 13:45:48 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 196.30609964094847
+Uniswap V1 TOKEN Reserves         => 384854.16401482024
+Uniswap ETH Reserves              => 28224.132709783964
+Uniswap TOKEN Reserves            => 54803960.06732039
+Sushiswap ETH Reserves            => 86951.59027540282
+Sushiswap TOKEN Reserves          => 176441929.12602583
+
+
+Uniswap V1 TOKEN/ETH              => 1960.479907240445
+Uniswap V2 TOEKN/ETH              => 1941.7411557281428
+Sushiswap TOKEN/ETH               => 2029.1972644454136
+
+
+Need to start flashswap from Sushiswap, borrow TOKEN
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan Tokens  => 2000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.011855293874563546
+Require to return flashloan to source DEX ETH X      => 0.988588358624933346
+Profit =  Y - X  =>  0.023266935249630194
+⏰ Time: Mon Apr 05 2021 13:45:48 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit < GasCost, will return. =>  -0.014372864750369807
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan Tokens  => 3000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.513881307550971177
+Require to return flashloan to source DEX ETH X      => 1.482890942446230823
+Profit =  Y - X  =>  0.03099036510474029
+⏰ Time: Mon Apr 05 2021 13:45:49 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit < GasCost, will return. =>  -0.006649434895259709
+
+🤖 Find aribitrage oppoturnity => 3 times 
+👉 If FlashLoan Tokens  => 4000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 2.013332909386504978
+Require to return flashloan to source DEX ETH X      => 1.977199129400440479
+Profit =  Y - X  =>  0.036133779986064374
+⏰ Time: Mon Apr 05 2021 13:45:51 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit < GasCost, will return. =>  -0.0015060200139356272
+
+🤖 Find aribitrage oppoturnity => 4 times 
+👉 If FlashLoan Tokens  => 5000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 2.510229851285352188
+Require to return flashloan to source DEX ETH X      => 2.471512919582833744
+Profit =  Y - X  =>  0.038716931702518664
+⏰ Time: Mon Apr 05 2021 13:45:52 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.0010747317025186637
+
+🤖 Find aribitrage oppoturnity => 5 times 
+👉 If FlashLoan Tokens  => 6000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.004591683607930169
+Require to return flashloan to source DEX ETH X      => 2.965832313088684209
+Profit =  Y - X  =>  0.03875937051924616
+⏰ Time: Mon Apr 05 2021 13:45:54 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.0011171705192461606
+
+🤖 Find aribitrage oppoturnity => 6 times 
+👉 If FlashLoan Tokens  => 7000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.496437757734976912
+Require to return flashloan to source DEX ETH X      => 3.460157310013267625
+Profit =  Y - X  =>  0.03628044772170913
+⏰ Time: Mon Apr 05 2021 13:45:55 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit < GasCost, will return. =>  -0.0013617522782908703
+
+😋 FlashLoan Tokens     => 6000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.004591683607930169
+Require to return flashloan to source DEX ETH X      => 2.965832313088684209
+Profit =  Y - X  =>  0.03875937051924616
+⏰ Time: Mon Apr 05 2021 13:45:57 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit - GasCost              =>  0.0011171705192461606
+💰 Before Flashswap, the WETH       => 1.9031729280935623 💰
+ 👿 👿 👿 ARBITRAGE Transactionを実行して行きます。
+🎉🎉🎉 ARBITRAGE EXECUTED! PENDING TX TO BE MINED 🎉🎉🎉
+🎉🎉🎉 Tx Hash:  0xa16903e595634d834579529aff48d8b898af2df22089f46f3bd6bf730b941e5d
+🎆🎆🎆 SUCCESS　🎉　 TX MINED 🎆🎆🎆
+
+💰 After Flashswap, the WETH       => 1.9419322986128082 💰
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12177597 , Mon Apr 05 2021 13:46:00 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 193.30150795734056
+Uniswap V1 TOKEN Reserves         => 390854.16401482024
+Uniswap ETH Reserves              => 28224.132709783964
+Uniswap TOKEN Reserves            => 54803960.06732039
+Sushiswap ETH Reserves            => 86954.5561077159
+Sushiswap TOKEN Reserves          => 176435929.12602583
+
+
+Uniswap V1 TOKEN/ETH              => 2021.9923173133097
+Uniswap V2 TOEKN/ETH              => 1941.7411557281428
+Sushiswap TOKEN/ETH               => 2029.0590513447494
+
+
+Need to start flashswap from Uniswap V2, borrow ETH
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan ETHs  => 2.0 ETH
+Require to return flashloan source DEX tokens           => 3895.443851290934654415
+To get the tokens, need to send Uniswap V1 WETH X       => 1.951786880933831863
+Profit = (FlashLoan ETHs) - X                           =>  0.0482131190661681
+⏰ Time: Mon Apr 05 2021 13:46:00 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.010850519066168095
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan ETHs  => 3.0 ETH
+Require to return flashloan source DEX tokens           => 5843.372826236549691104
+To get the tokens, need to send Uniswap V1 WETH X       => 2.942596933690396088
+Profit = (FlashLoan ETHs) - X                           =>  0.0574030663096039
+⏰ Time: Mon Apr 05 2021 13:46:01 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.020040466309603898
+
+🤖 Find aribitrage oppoturnity => 3 times 
+👉 If FlashLoan ETHs  => 4.0 ETH
+Require to return flashloan source DEX tokens           => 7791.439853614091829607
+To get the tokens, need to send Uniswap V1 WETH X       => 3.943555100668121063
+Profit = (FlashLoan ETHs) - X                           =>  0.05644489933187913
+⏰ Time: Mon Apr 05 2021 13:46:03 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.019082299331879125
+
+😋 FlashLoan ETHs     => 3.0 ETH
+Require to return flashloan source DEX tokens           => 5843.372826236549691104
+To get the tokens, need to send Uniswap V1 WETH X       => 2.942596933690396088
+Profit = (FlashLoan ETHs) - X                           =>  0.0574030663096039
+⏰ Time: Mon Apr 05 2021 13:46:04 GMT+0900 (GMT+09:00)
+GasLimit is                       =>  186813
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                  =>  200
+Gas cost is                       =>  0.0373626
+Profit - GasCost                  =>  0.020040466309603898
+💰 Before Flashswap, the WETH       => 1.9419322986128082 💰
+ 👿 👿 👿 ARBITRAGE Transactionを実行して行きます。
+🎉🎉🎉 ARBITRAGE EXECUTED! PENDING TX TO BE MINED 🎉🎉🎉
+🎉🎉🎉 Tx Hash:  0x62c2ee39cbaf600256cfa0d881b5e969aa172261222f33fdb694025be434cdaf
+
+🎆🎆🎆 SUCCESS　🎉　 TX MINED 🎆🎆🎆
+
+💰 After Flashswap, the WETH       => 1.9993353649224122 💰
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12177598 , Mon Apr 05 2021 13:46:08 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 196.24410489103096
+Uniswap V1 TOKEN Reserves         => 385010.7911885837
+Uniswap ETH Reserves              => 28221.132709783964
+Uniswap TOKEN Reserves            => 54809803.440146625
+Sushiswap ETH Reserves            => 86954.5561077159
+Sushiswap TOKEN Reserves          => 176435929.12602583
+
+
+Uniswap V1 TOKEN/ETH              => 1961.897359425751
+Uniswap V2 TOEKN/ETH              => 1942.1546258894368
+Sushiswap TOKEN/ETH               => 2029.0590513447494
+
+
+Need to start flashswap from Sushiswap, borrow TOKEN
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan Tokens  => 2000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.011126358283336574
+Require to return flashloan to source DEX ETH X      => 0.988655698525916549
+Profit =  Y - X  =>  0.02247065975742002
+⏰ Time: Mon Apr 05 2021 13:46:08 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit < GasCost, will return. =>  -0.015169140242579982
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan Tokens  => 3000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.512792288744320878
+Require to return flashloan to source DEX ETH X      => 1.482991953156031254
+Profit =  Y - X  =>  0.02980033558828965
+⏰ Time: Mon Apr 05 2021 13:46:09 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit < GasCost, will return. =>  -0.00783946441171035
+
+🤖 Find aribitrage oppoturnity => 3 times 
+👉 If FlashLoan Tokens  => 4000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 2.011886689709589464
+Require to return flashloan to source DEX ETH X      => 1.977333811491292515
+Profit =  Y - X  =>  0.03455287821829689
+⏰ Time: Mon Apr 05 2021 13:46:11 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188199
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376398
+Profit < GasCost, will return. =>  -0.0030869217817031114
+
+🤖 Find aribitrage oppoturnity => 4 times 
+👉 If FlashLoan Tokens  => 5000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 2.508429283045109768
+Require to return flashloan to source DEX ETH X      => 2.471681273626984733
+Profit =  Y - X  =>  0.03674800941812473
+⏰ Time: Mon Apr 05 2021 13:46:12 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit < GasCost, will return. =>  -0.0008941905818752732
+
+🤖 Find aribitrage oppoturnity => 5 times 
+👉 If FlashLoan Tokens  => 6000.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 3.002439589460195573
+Require to return flashloan to source DEX ETH X      => 2.966034339658394469
+Profit =  Y - X  =>  0.036405249801801265
+⏰ Time: Mon Apr 05 2021 13:46:14 GMT+0900 (GMT+09:00)
+GasLimit is                     =>  188211
+GasPrice is 20g. But I make it 10 times. 
+GasPrice * N is                =>  200
+Gas cost is                     =>  0.0376422
+Profit < GasCost, will return. =>  -0.0012369501981987358
+
+👌👌👌 OK, to NEXT block 👌👌👌
+

@@ -1,0 +1,1158 @@
+🌟 Bot started! 🌟
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152741 , Thu Apr 01 2021 18:17:26 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 63.66196397363225
+Uniswap V1 TOKEN Reserves         => 7118.593241957829
+Uniswap ETH Reserves              => 239.21350536353484
+Uniswap TOKEN Reserves            => 28010.627565834362
+Sushiswap ETH Reserves            => 4153.400476030955
+Sushiswap TOKEN Reserves          => 489229.44518001395
+
+
+Uniswap V1 TOKEN/ETH              => 111.8186244600659
+Uniswap V2 TOEKN/ETH              => 117.09467458062775
+Sushiswap TOKEN/ETH               => 117.79009705501072
+
+
+Need to start flashswap from Sushiswap, borrow TOKEN
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan Tokens  => 110.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 0.965903890779878947
+Require to return flashloan to source DEX ETH X      => 0.936885260390806523
+Profit =  Y - X  =>  0.029018630389072375
+⏰ Time: Thu Apr 01 2021 18:17:30 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152742 , Thu Apr 01 2021 18:17:30 GMT+0900 (GMT+09:00)
+GasPrice is 190.000000001g.
+Gas cost estimated 0.03610000000019 ETH. Profit - GasCost = -0.007081369611117626
+Make gasPrice 10 times. Gas cost estimated 0.3610000000019 ETH. Profit - GasCost = -0.33198136961282765
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan Tokens  => 120.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.052261942272699289
+Require to return flashloan to source DEX ETH X      => 1.022077543976117258
+Profit =  Y - X  =>  0.03018439829658215
+⏰ Time: Thu Apr 01 2021 18:17:32 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+GasPrice is 190.000000001g.
+Gas cost estimated 0.03610000000019 ETH. Profit - GasCost = -0.005915601703607852
+Make gasPrice 10 times. Gas cost estimated 0.3610000000019 ETH. Profit - GasCost = -0.3308156017053179
+
+🤖 Find aribitrage oppoturnity => 3 times 
+👉 If FlashLoan Tokens  => 130.0
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.138382420467795474
+Require to return flashloan to source DEX ETH X      => 1.107273311199956921
+Profit =  Y - X  =>  0.03110910926783861
+⏰ Time: Thu Apr 01 2021 18:17:33 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+GasPrice is 190.000000001g.
+Gas cost estimated 0.03610000000019 ETH. Profit - GasCost = -0.004990890732351393
+Make gasPrice 10 times. Gas cost estimated 0.3610000000019 ETH. Profit - GasCost = -0.3298908907340614
+
+🤖 Find aribitrage oppoturnity => 4 times 
+👉 If FlashLoan Tokens  => 140.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.224266304374223647
+Require to return flashloan to source DEX ETH X      => 1.19247256227600658
+Profit =  Y - X  =>  0.03179374209821706
+⏰ Time: Thu Apr 01 2021 18:17:35 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+GasPrice is 190.000000001g.
+Gas cost estimated 0.03610000000019 ETH. Profit - GasCost = -0.004306257901972942
+Make gasPrice 10 times. Gas cost estimated 0.3610000000019 ETH. Profit - GasCost = -0.32920625790368296
+
+🤖 Find aribitrage oppoturnity => 5 times 
+👉 If FlashLoan Tokens  => 150.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.309914567629257933
+Require to return flashloan to source DEX ETH X      => 1.277675297417964784
+Profit =  Y - X  =>  0.032239270211293025
+⏰ Time: Thu Apr 01 2021 18:17:37 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+GasPrice is 190.000000001g.
+Gas cost estimated 0.03610000000019 ETH. Profit - GasCost = -0.0038607297888969758
+Make gasPrice 10 times. Gas cost estimated 0.3610000000019 ETH. Profit - GasCost = -0.328760729790607
+
+🤖 Find aribitrage oppoturnity => 6 times 
+👉 If FlashLoan Tokens  => 160.0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152743 , Thu Apr 01 2021 18:17:38 GMT+0900 (GMT+09:00)
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.395328178535183404
+Require to return flashloan to source DEX ETH X      => 1.362881516839547554
+Profit =  Y - X  =>  0.032446661695635814
+⏰ Time: Thu Apr 01 2021 18:17:38 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+GasPrice is 190.000000001g.
+Gas cost estimated 0.03610000000019 ETH. Profit - GasCost = -0.0036533383045541865
+Make gasPrice 10 times. Gas cost estimated 0.3610000000019 ETH. Profit - GasCost = -0.3285533383062642
+
+🤖 Find aribitrage oppoturnity => 7 times 
+👉 If FlashLoan Tokens  => 170.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.48050810009578704
+Require to return flashloan to source DEX ETH X      => 1.448091220754488396
+Profit =  Y - X  =>  0.032416879341298666
+⏰ Time: Thu Apr 01 2021 18:17:41 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+GasPrice is 190.000000001g.
+Gas cost estimated 0.03610000000019 ETH. Profit - GasCost = -0.0036831206588913354
+Make gasPrice 10 times. Gas cost estimated 0.3610000000019 ETH. Profit - GasCost = -0.32858312066060136
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152744 , Thu Apr 01 2021 18:17:42 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152745 , Thu Apr 01 2021 18:17:50 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152746 , Thu Apr 01 2021 18:17:54 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152747 , Thu Apr 01 2021 18:17:58 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152748 , Thu Apr 01 2021 18:18:06 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152749 , Thu Apr 01 2021 18:18:10 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152750 , Thu Apr 01 2021 18:18:34 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152751 , Thu Apr 01 2021 18:18:42 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152752 , Thu Apr 01 2021 18:18:50 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152753 , Thu Apr 01 2021 18:18:58 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152754 , Thu Apr 01 2021 18:19:02 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152755 , Thu Apr 01 2021 18:19:10 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152756 , Thu Apr 01 2021 18:19:14 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152757 , Thu Apr 01 2021 18:19:22 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152758 , Thu Apr 01 2021 18:19:34 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152759 , Thu Apr 01 2021 18:19:42 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152760 , Thu Apr 01 2021 18:19:54 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152761 , Thu Apr 01 2021 18:20:02 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152762 , Thu Apr 01 2021 18:20:34 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152763 , Thu Apr 01 2021 18:20:38 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152764 , Thu Apr 01 2021 18:20:50 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152765 , Thu Apr 01 2021 18:20:54 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152766 , Thu Apr 01 2021 18:20:58 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152767 , Thu Apr 01 2021 18:21:14 GMT+0900 (GMT+09:00)
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152768 , Thu Apr 01 2021 18:21:14 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152769 , Thu Apr 01 2021 18:21:50 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152770 , Thu Apr 01 2021 18:22:18 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152771 , Thu Apr 01 2021 18:22:22 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152772 , Thu Apr 01 2021 18:22:30 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152773 , Thu Apr 01 2021 18:23:31 GMT+0900 (GMT+09:00)
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152774 , Thu Apr 01 2021 18:23:31 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152775 , Thu Apr 01 2021 18:23:38 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152776 , Thu Apr 01 2021 18:24:02 GMT+0900 (GMT+09:00)
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152777 , Thu Apr 01 2021 18:24:02 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152778 , Thu Apr 01 2021 18:24:06 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152779 , Thu Apr 01 2021 18:24:26 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152780 , Thu Apr 01 2021 18:24:30 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152781 , Thu Apr 01 2021 18:24:34 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152782 , Thu Apr 01 2021 18:24:50 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0.48723848017112914
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152783 , Thu Apr 01 2021 18:24:54 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152784 , Thu Apr 01 2021 18:25:22 GMT+0900 (GMT+09:00)
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152785 , Thu Apr 01 2021 18:25:22 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+🌟 Bot started! 🌟
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152785 , Thu Apr 01 2021 18:26:00 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 63.66196397363225
+Uniswap V1 TOKEN Reserves         => 7118.593241957829
+Uniswap ETH Reserves              => 239.71350536353484
+Uniswap TOKEN Reserves            => 27952.377259094854
+Sushiswap ETH Reserves            => 4153.400476030955
+Sushiswap TOKEN Reserves          => 489229.44518001395
+
+
+Uniswap V1 TOKEN/ETH              => 111.8186244600659
+Uniswap V2 TOEKN/ETH              => 116.60743610045662
+Sushiswap TOKEN/ETH               => 117.79009705501072
+
+
+Need to start flashswap from Sushiswap, borrow TOKEN
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan Tokens  => 110.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 0.965903890779878947
+Require to return flashloan to source DEX ETH X      => 0.936885260390806523
+Profit =  Y - X  =>  0.029018630389072375
+⏰ Time: Thu Apr 01 2021 18:26:03 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+GasPrice is 163.000001347g.
+Gas cost estimated 0.03097000025593 ETH. Profit - GasCost = -0.0019513698668576253
+Make gasPrice 10 times. Gas cost estimated 0.3097000025593 ETH. Profit - GasCost = -0.28068137217022765
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan Tokens  => 120.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.052261942272699289
+Require to return flashloan to source DEX ETH X      => 1.022077543976117258
+Profit =  Y - X  =>  0.03018439829658215
+⏰ Time: Thu Apr 01 2021 18:26:05 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+GasPrice is 163.000001347g.
+Gas cost estimated 0.03097000025593 ETH. Profit - GasCost = -0.0007856019593478515
+Make gasPrice 10 times. Gas cost estimated 0.3097000025593 ETH. Profit - GasCost = -0.2795156042627179
+
+🤖 Find aribitrage oppoturnity => 3 times 
+👉 If FlashLoan Tokens  => 130.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.138382420467795474
+Require to return flashloan to source DEX ETH X      => 1.107273311199956921
+Profit =  Y - X  =>  0.03110910926783861
+⏰ Time: Thu Apr 01 2021 18:26:07 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+GasPrice is 163.000001347g.
+Gas cost estimated 0.03097000025593 ETH. Profit - GasCost = 0.0001391090119086079
+Make gasPrice 10 times. Gas cost estimated 0.3097000025593 ETH. Profit - GasCost = -0.2785908932914614
+
+🤖 Find aribitrage oppoturnity => 4 times 
+👉 If FlashLoan Tokens  => 140.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.224266304374223647
+Require to return flashloan to source DEX ETH X      => 1.19247256227600658
+Profit =  Y - X  =>  0.03179374209821706
+⏰ Time: Thu Apr 01 2021 18:26:08 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+GasPrice is 163.000001347g.
+Gas cost estimated 0.03097000025593 ETH. Profit - GasCost = 0.0008237418422870589
+Make gasPrice 10 times. Gas cost estimated 0.3097000025593 ETH. Profit - GasCost = -0.27790626046108297
+
+🤖 Find aribitrage oppoturnity => 5 times 
+👉 If FlashLoan Tokens  => 150.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.309914567629257933
+Require to return flashloan to source DEX ETH X      => 1.277675297417964784
+Profit =  Y - X  =>  0.032239270211293025
+⏰ Time: Thu Apr 01 2021 18:26:10 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+GasPrice is 163.000001347g.
+Gas cost estimated 0.03097000025593 ETH. Profit - GasCost = 0.0012692699553630248
+Make gasPrice 10 times. Gas cost estimated 0.3097000025593 ETH. Profit - GasCost = -0.277460732348007
+
+🤖 Find aribitrage oppoturnity => 6 times 
+👉 If FlashLoan Tokens  => 160.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.395328178535183404
+Require to return flashloan to source DEX ETH X      => 1.362881516839547554
+Profit =  Y - X  =>  0.032446661695635814
+⏰ Time: Thu Apr 01 2021 18:26:12 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152786 , Thu Apr 01 2021 18:26:12 GMT+0900 (GMT+09:00)
+GasPrice is 163.000001347g.
+Gas cost estimated 0.03097000025593 ETH. Profit - GasCost = 0.001476661439705814
+Make gasPrice 10 times. Gas cost estimated 0.3097000025593 ETH. Profit - GasCost = -0.2772533408636642
+
+🤖 Find aribitrage oppoturnity => 7 times 
+👉 If FlashLoan Tokens  => 170.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.48050810009578704
+Require to return flashloan to source DEX ETH X      => 1.448091220754488396
+Profit =  Y - X  =>  0.032416879341298666
+⏰ Time: Thu Apr 01 2021 18:26:13 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+GasPrice is 163.000001347g.
+Gas cost estimated 0.03097000025593 ETH. Profit - GasCost = 0.0014468790853686651
+Make gasPrice 10 times. Gas cost estimated 0.3097000025593 ETH. Profit - GasCost = -0.27728312321800136
+
+😋 FlashLoan Tokens     => 160.0
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.395328178535183404
+Require to return flashloan to source DEX ETH X      => 1.362881516839547554
+Profit =  Y - X  =>  0.032446661695635814
+⏰ Time: Thu Apr 01 2021 18:26:15 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+GasPrice is 163.000001347g.
+Gas cost estimated 0.03097000025593 ETH. Profit - GasCost = 0.001476661439705814
+Make gasPrice 10 times. Gas cost estimated 0.3097000025593 ETH. Profit - GasCost = -0.2772533408636642
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152787 , Thu Apr 01 2021 18:26:16 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+🌟 Bot started! 🌟
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152790 , Thu Apr 01 2021 18:26:59 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 63.66196397363225
+Uniswap V1 TOKEN Reserves         => 7118.593241957829
+Uniswap ETH Reserves              => 239.71350536353484
+Uniswap TOKEN Reserves            => 27952.377259094854
+Sushiswap ETH Reserves            => 4153.400476030955
+Sushiswap TOKEN Reserves          => 489229.44518001395
+
+
+Uniswap V1 TOKEN/ETH              => 111.8186244600659
+Uniswap V2 TOEKN/ETH              => 116.60743610045662
+Sushiswap TOKEN/ETH               => 117.79009705501072
+
+
+Need to start flashswap from Sushiswap, borrow TOKEN
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan Tokens  => 160.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.395328178535183404
+Require to return flashloan to source DEX ETH X      => 1.362881516839547554
+Profit =  Y - X  =>  0.032446661695635814
+⏰ Time: Thu Apr 01 2021 18:27:03 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+GasPrice is 163.000001347g.
+Gas cost estimated 0.03097000025593 ETH. Profit - GasCost = 0.001476661439705814
+Make gasPrice 10 times. Gas cost estimated 0.3097000025593 ETH. Profit - GasCost = -0.2772533408636642
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan Tokens  => 170.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.48050810009578704
+Require to return flashloan to source DEX ETH X      => 1.448091220754488396
+Profit =  Y - X  =>  0.032416879341298666
+⏰ Time: Thu Apr 01 2021 18:27:05 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+GasPrice is 163.000001347g.
+Gas cost estimated 0.03097000025593 ETH. Profit - GasCost = 0.0014468790853686651
+Make gasPrice 10 times. Gas cost estimated 0.3097000025593 ETH. Profit - GasCost = -0.27728312321800136
+
+😋 FlashLoan Tokens     => 160.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.395328178535183404
+Require to return flashloan to source DEX ETH X      => 1.362881516839547554
+Profit =  Y - X  =>  0.032446661695635814
+⏰ Time: Thu Apr 01 2021 18:27:06 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+GasPrice is 163.000001347g.
+Gas cost estimated 0.03097000025593 ETH. Profit - GasCost = 0.001476661439705814
+Make gasPrice 10 times. Gas cost estimated 0.3097000025593 ETH. Profit - GasCost = -0.2772533408636642
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152791 , Thu Apr 01 2021 18:27:11 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152792 , Thu Apr 01 2021 18:27:27 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152793 , Thu Apr 01 2021 18:27:35 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152794 , Thu Apr 01 2021 18:27:39 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152795 , Thu Apr 01 2021 18:27:55 GMT+0900 (GMT+09:00)
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152796 , Thu Apr 01 2021 18:27:55 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+🌟 Bot started! 🌟
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152797 , Thu Apr 01 2021 18:28:13 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 63.66196397363225
+Uniswap V1 TOKEN Reserves         => 7118.593241957829
+Uniswap ETH Reserves              => 239.71350536353484
+Uniswap TOKEN Reserves            => 27952.377259094854
+Sushiswap ETH Reserves            => 4153.400476030955
+Sushiswap TOKEN Reserves          => 489229.44518001395
+
+
+Uniswap V1 TOKEN/ETH              => 111.8186244600659
+Uniswap V2 TOEKN/ETH              => 116.60743610045662
+Sushiswap TOKEN/ETH               => 117.79009705501072
+
+
+Need to start flashswap from Sushiswap, borrow TOKEN
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan Tokens  => 160.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.395328178535183404
+Require to return flashloan to source DEX ETH X      => 1.362881516839547554
+Profit =  Y - X  =>  0.032446661695635814
+⏰ Time: Thu Apr 01 2021 18:28:16 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+GasPrice is 163.000001347g.
+Gas cost estimated 0.03097000025593 ETH. Profit - GasCost = 0.001476661439705814
+Make gasPrice 10 times. Gas cost estimated 0.3097000025593 ETH. Profit - GasCost = -0.2772533408636642
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan Tokens  => 170.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.48050810009578704
+Require to return flashloan to source DEX ETH X      => 1.448091220754488396
+Profit =  Y - X  =>  0.032416879341298666
+⏰ Time: Thu Apr 01 2021 18:28:18 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+GasPrice is 163.000001347g.
+Gas cost estimated 0.03097000025593 ETH. Profit - GasCost = 0.0014468790853686651
+Make gasPrice 10 times. Gas cost estimated 0.3097000025593 ETH. Profit - GasCost = -0.27728312321800136
+
+😋 FlashLoan Tokens     => 160.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.395328178535183404
+Require to return flashloan to source DEX ETH X      => 1.362881516839547554
+Profit =  Y - X  =>  0.032446661695635814
+⏰ Time: Thu Apr 01 2021 18:28:20 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+GasPrice is 163.000001347g.
+Gas cost estimated 0.03097000025593 ETH. Profit - GasCost = 0.001476661439705814
+Make gasPrice 10 times. Gas cost estimated 0.3097000025593 ETH. Profit - GasCost = -0.2772533408636642
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152798 , Thu Apr 01 2021 18:28:45 GMT+0900 (GMT+09:00)
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152799 , Thu Apr 01 2021 18:28:45 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152800 , Thu Apr 01 2021 18:29:00 GMT+0900 (GMT+09:00)
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152801 , Thu Apr 01 2021 18:29:00 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152802 , Thu Apr 01 2021 18:29:04 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152803 , Thu Apr 01 2021 18:29:09 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152804 , Thu Apr 01 2021 18:29:12 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152805 , Thu Apr 01 2021 18:29:16 GMT+0900 (GMT+09:00)
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152806 , Thu Apr 01 2021 18:29:16 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152807 , Thu Apr 01 2021 18:29:24 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152808 , Thu Apr 01 2021 18:29:37 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152809 , Thu Apr 01 2021 18:29:45 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152810 , Thu Apr 01 2021 18:29:53 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152811 , Thu Apr 01 2021 18:30:01 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152812 , Thu Apr 01 2021 18:30:17 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152813 , Thu Apr 01 2021 18:30:37 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+🌟 Bot started! 🌟
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152913 , Thu Apr 01 2021 18:51:42 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 63.66196397363225
+Uniswap V1 TOKEN Reserves         => 7118.593241957829
+Uniswap ETH Reserves              => 239.71350536353484
+Uniswap TOKEN Reserves            => 27952.377259094854
+Sushiswap ETH Reserves            => 4153.400476030955
+Sushiswap TOKEN Reserves          => 489229.44518001395
+
+
+Uniswap V1 TOKEN/ETH              => 111.8186244600659
+Uniswap V2 TOEKN/ETH              => 116.60743610045662
+Sushiswap TOKEN/ETH               => 117.79009705501072
+
+
+Need to start flashswap from Sushiswap, borrow TOKEN
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan Tokens  => 160.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.395328178535183404
+Require to return flashloan to source DEX ETH X      => 1.362881516839547554
+Profit =  Y - X  =>  0.032446661695635814
+⏰ Time: Thu Apr 01 2021 18:51:46 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+GasPrice is 155g.
+Gas cost estimated 0.02945 ETH. Profit - GasCost = 0.002996661695635814
+Make gasPrice 10 times. Gas cost estimated 0.2945 ETH. Profit - GasCost = -0.26205333830436417
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan Tokens  => 170.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.48050810009578704
+Require to return flashloan to source DEX ETH X      => 1.448091220754488396
+Profit =  Y - X  =>  0.032416879341298666
+⏰ Time: Thu Apr 01 2021 18:51:48 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+GasPrice is 155g.
+Gas cost estimated 0.02945 ETH. Profit - GasCost = 0.002966879341298665
+Make gasPrice 10 times. Gas cost estimated 0.2945 ETH. Profit - GasCost = -0.2620831206587013
+
+😋 FlashLoan Tokens     => 160.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.395328178535183404
+Require to return flashloan to source DEX ETH X      => 1.362881516839547554
+Profit =  Y - X  =>  0.032446661695635814
+⏰ Time: Thu Apr 01 2021 18:51:49 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+GasPrice is 155g.
+Gas cost estimated 0.02945 ETH. Profit - GasCost = 0.002996661695635814
+Make gasPrice 10 times. Gas cost estimated 0.2945 ETH. Profit - GasCost = -0.26205333830436417
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152914 , Thu Apr 01 2021 18:51:54 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152915 , Thu Apr 01 2021 18:52:10 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+🌟 Bot started! 🌟
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152977 , Thu Apr 01 2021 19:04:33 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 63.66196397363225
+Uniswap V1 TOKEN Reserves         => 7118.593241957829
+Uniswap ETH Reserves              => 237.8463053635348
+Uniswap TOKEN Reserves            => 28173.871531113426
+Sushiswap ETH Reserves            => 4153.400476030955
+Sushiswap TOKEN Reserves          => 489229.44518001395
+
+
+Uniswap V1 TOKEN/ETH              => 111.8186244600659
+Uniswap V2 TOEKN/ETH              => 118.45410626854697
+Sushiswap TOKEN/ETH               => 117.79009705501072
+
+
+Need to start flashswap from Uniswap V2, borrow TOKEN
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan Tokens  => 160.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.395328178535183404
+Require to return flashloan to source DEX ETH X      => 1.362536362445098735
+Profit =  Y - X  =>  0.032791816090084636
+⏰ Time: Thu Apr 01 2021 19:04:37 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+GasPrice is 150g.
+Gas cost estimated 0.0285 ETH. Profit - GasCost = 0.004291816090084635
+Make gasPrice 10 times. Gas cost estimated 0.285 ETH. Profit - GasCost = -0.25220818390991534
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan Tokens  => 170.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.48050810009578704
+Require to return flashloan to source DEX ETH X      => 1.448211847505593598
+Profit =  Y - X  =>  0.03229625259019353
+⏰ Time: Thu Apr 01 2021 19:04:39 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+GasPrice is 150g.
+Gas cost estimated 0.0285 ETH. Profit - GasCost = 0.0037962525901935294
+Make gasPrice 10 times. Gas cost estimated 0.285 ETH. Profit - GasCost = -0.25270374740980645
+
+😋 FlashLoan Tokens     => 160.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.395328178535183404
+Require to return flashloan to source DEX ETH X      => 1.362536362445098735
+Profit =  Y - X  =>  0.032791816090084636
+⏰ Time: Thu Apr 01 2021 19:04:41 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+GasPrice is 150g.
+Gas cost estimated 0.0285 ETH. Profit - GasCost = 0.004291816090084635
+Make gasPrice 10 times. Gas cost estimated 0.285 ETH. Profit - GasCost = -0.25220818390991534
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152978 , Thu Apr 01 2021 19:04:45 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+🌟 Bot started! 🌟
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152983 , Thu Apr 01 2021 19:06:39 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 63.66196397363225
+Uniswap V1 TOKEN Reserves         => 7118.593241957829
+Uniswap ETH Reserves              => 237.8463053635348
+Uniswap TOKEN Reserves            => 28173.871531113426
+Sushiswap ETH Reserves            => 4153.400476030955
+Sushiswap TOKEN Reserves          => 489229.44518001395
+
+
+Uniswap V1 TOKEN/ETH              => 111.8186244600659
+Uniswap V2 TOEKN/ETH              => 118.45410626854697
+Sushiswap TOKEN/ETH               => 117.79009705501072
+
+
+Need to start flashswap from Uniswap V2, borrow TOKEN
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan Tokens  => 160.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.395328178535183404
+Require to return flashloan to source DEX ETH X      => 1.362536362445098735
+Profit =  Y - X  =>  0.032791816090084636
+⏰ Time: Thu Apr 01 2021 19:06:42 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+GasPrice is 158g.
+Gas cost estimated 0.03002 ETH. Profit - GasCost = 0.002771816090084634
+Make gasPrice 10 times. Gas cost estimated 0.3002 ETH. Profit - GasCost = -0.2674081839099154
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan Tokens  => 170.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.48050810009578704
+Require to return flashloan to source DEX ETH X      => 1.448211847505593598
+Profit =  Y - X  =>  0.03229625259019353
+⏰ Time: Thu Apr 01 2021 19:06:44 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+GasPrice is 158g.
+Gas cost estimated 0.03002 ETH. Profit - GasCost = 0.002276252590193529
+Make gasPrice 10 times. Gas cost estimated 0.3002 ETH. Profit - GasCost = -0.2679037474098065
+
+😋 FlashLoan Tokens     => 160.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.395328178535183404
+Require to return flashloan to source DEX ETH X      => 1.362536362445098735
+Profit =  Y - X  =>  0.032791816090084636
+⏰ Time: Thu Apr 01 2021 19:06:45 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+GasPrice is 158g.
+Gas cost estimated 0.03002 ETH. Profit - GasCost = 0.002771816090084634
+Make gasPrice 10 times. Gas cost estimated 0.3002 ETH. Profit - GasCost = -0.2674081839099154
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12152984 , Thu Apr 01 2021 19:07:19 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+🌟 Bot started! 🌟
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12157070 , Fri Apr 02 2021 10:09:26 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 62.018251551949
+Uniswap V1 TOKEN Reserves         => 7307.829930006874
+Uniswap ETH Reserves              => 256.2225258639454
+Uniswap TOKEN Reserves            => 30563.170842777676
+Sushiswap ETH Reserves            => 4155.806134686682
+Sushiswap TOKEN Reserves          => 488826.9354355222
+
+
+Uniswap V1 TOKEN/ETH              => 117.83353685625174
+Uniswap V2 TOEKN/ETH              => 119.28369974389672
+Sushiswap TOKEN/ETH               => 117.62505747212298
+
+
+Need to start flashswap from Uniswap V2, borrow TOKEN
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan Tokens  => 160.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.324854410238921055
+Require to return flashloan to source DEX ETH X      => 1.35245633535829124
+Profit =  Y - X  =>  -0.027601925119370208
+⏰ Time: Fri Apr 02 2021 10:09:30 GMT+0900 (GMT+09:00)
+There is no profit, just need to wait for opportunity. return.
+
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan Tokens  => 170.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.405780888598433119
+Require to return flashloan to source DEX ETH X      => 1.437457654916182536
+Profit =  Y - X  =>  -0.031676766317749516
+⏰ Time: Fri Apr 02 2021 10:09:32 GMT+0900 (GMT+09:00)
+There is no profit, just need to wait for opportunity. return.
+
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+🌟 Bot started! 🌟
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12157103 , Fri Apr 02 2021 10:17:42 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 62.018251551949
+Uniswap V1 TOKEN Reserves         => 7307.829930006874
+Uniswap ETH Reserves              => 256.2225258639454
+Uniswap TOKEN Reserves            => 30563.170842777676
+Sushiswap ETH Reserves            => 4155.806134686682
+Sushiswap TOKEN Reserves          => 488826.9354355222
+
+
+Uniswap V1 TOKEN/ETH              => 117.83353685625174
+Uniswap V2 TOEKN/ETH              => 119.28369974389672
+Sushiswap TOKEN/ETH               => 117.62505747212298
+
+
+Need to start flashswap from Uniswap V2, borrow TOKEN
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan Tokens  => 160.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.324854410238921055
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12157104 , Fri Apr 02 2021 10:17:46 GMT+0900 (GMT+09:00)
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12157105 , Fri Apr 02 2021 10:17:46 GMT+0900 (GMT+09:00)
+Require to return flashloan to source DEX ETH X      => 1.35245633535829124
+Profit =  Y - X  =>  -0.027601925119370208
+⏰ Time: Fri Apr 02 2021 10:17:46 GMT+0900 (GMT+09:00)
+There is no profit, just need to wait for opportunity. return.
+
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan Tokens  => 170.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 1.405780888598433119
+Require to return flashloan to source DEX ETH X      => 1.437457654916182536
+Profit =  Y - X  =>  -0.031676766317749516
+⏰ Time: Fri Apr 02 2021 10:17:47 GMT+0900 (GMT+09:00)
+There is no profit, just need to wait for opportunity. return.
+
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12157106 , Fri Apr 02 2021 10:17:50 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0

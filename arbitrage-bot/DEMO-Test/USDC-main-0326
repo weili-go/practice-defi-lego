@@ -1,0 +1,1096 @@
+🌟 Bot started! 🌟
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114741 , Fri Mar 26 2021 21:58:53 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 265.630852166416
+Uniswap V1 TOKEN Reserves         => 4.29761762961e-7
+Uniswap ETH Reserves              => 74564.77139935225
+Uniswap TOKEN Reserves            => 0.000121840682330675
+Sushiswap ETH Reserves            => 113007.82960024099
+Sushiswap TOKEN Reserves          => 0.000184018711060341
+
+
+Uniswap V1 TOKEN/ETH              => 1.6178909921644082e-9
+Uniswap V2 TOEKN/ETH              => 1.6340247551772612e-9
+Sushiswap TOKEN/ETH               => 1.6283713412716368e-9
+
+
+Need to start flashswap from Uniswap V2, borrow TOKEN
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan Tokens  => 0.6
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114742 , Fri Mar 26 2021 21:58:57 GMT+0900 (GMT+09:00)
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114743 , Fri Mar 26 2021 21:58:57 GMT+0900 (GMT+09:00)
+With the flashloan tokens, Uniswap V1 will get ETH  Y => 265.630661330740131071
+Uniswap V1 ETH Reserves           => 265.630852166416
+Uniswap V1 TOKEN Reserves         => 4.29761762961e-7
+Uniswap ETH Reserves              => 74567.77139935225
+Uniswap TOKEN Reserves            => 0.000121835795158671
+Sushiswap ETH Reserves            => 113007.82960024099
+Sushiswap TOKEN Reserves          => 0.000184018711060341
+
+
+Uniswap V1 TOKEN/ETH              => 1.6178909921644082e-9
+Uniswap V2 TOEKN/ETH              => 1.6338934753215564e-9
+Sushiswap TOKEN/ETH               => 1.6283713412716368e-9
+
+
+Need to start flashswap from Uniswap V2, borrow TOKEN
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan Tokens  => 0.6
+Uniswap V1 ETH Reserves           => 265.630852166416
+Uniswap V1 TOKEN Reserves         => 4.29761762961e-7
+Uniswap ETH Reserves              => 74567.77139935225
+Uniswap TOKEN Reserves            => 0.000121835795158671
+Sushiswap ETH Reserves            => 113007.82960024099
+Sushiswap TOKEN Reserves          => 0.000184018711060341
+
+
+Uniswap V1 TOKEN/ETH              => 1.6178909921644082e-9
+Uniswap V2 TOEKN/ETH              => 1.6338934753215564e-9
+Sushiswap TOKEN/ETH               => 1.6283713412716368e-9
+
+
+Need to start flashswap from Uniswap V2, borrow TOKEN
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan Tokens  => 0.6
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114744 , Fri Mar 26 2021 21:59:01 GMT+0900 (GMT+09:00)
+With the flashloan tokens, Uniswap V1 will get ETH  Y => 265.630661330740131071
+With the flashloan tokens, Uniswap V1 will get ETH  Y => 265.630661330740131071
+🌟 Bot started! 🌟
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114744 , Fri Mar 26 2021 21:59:14 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 265.630852166416
+Uniswap V1 TOKEN Reserves         => 429761.762961
+Uniswap ETH Reserves              => 74550.78201512272
+Uniswap TOKEN Reserves            => 121863655.686158
+Sushiswap ETH Reserves            => 112962.88664446032
+Sushiswap TOKEN Reserves          => 184092144.297857
+
+
+Uniswap V1 TOKEN/ETH              => 1617.890992164408
+Uniswap V2 TOEKN/ETH              => 1634.6395355240916
+Sushiswap TOKEN/ETH               => 1629.6692636517787
+
+
+Need to start flashswap from Uniswap V2, borrow TOKEN
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan Tokens  => 0.6
+With the flashloan tokens, Uniswap V1 will get ETH  Y => 0.000369740093889752
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114745 , Fri Mar 26 2021 21:59:18 GMT+0900 (GMT+09:00)
+Require to return flashloan to source DEX ETH X       => 0.000368157875870052
+Profit =  Y - X     =>  0.0000015822180197000305
+⏰ Time: Fri Mar 26 2021 21:59:19 GMT+0900 (GMT+09:00)
+
+
+Swap costs gas is 190000 (188199)
+GasPrice is 128g.
+Gas cost estimated 0.02432 ETH. Profit is -0.024318417781980302
+Make gasPrice 10 times. Gas cost estimated 0.2432 ETH. Profit is -0.2431984177819803
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+Uniswap V1 ETH Reserves           => 265.630852166416
+Uniswap V1 TOKEN Reserves         => 429761.762961
+Uniswap ETH Reserves              => 74550.78201512272
+Uniswap TOKEN Reserves            => 121863655.686158
+Sushiswap ETH Reserves            => 112962.88664446032
+Sushiswap TOKEN Reserves          => 184092144.297857
+
+
+Uniswap V1 TOKEN/ETH              => 1617.890992164408
+Uniswap V2 TOEKN/ETH              => 1634.6395355240916
+Sushiswap TOKEN/ETH               => 1629.6692636517787
+
+
+Need to start flashswap from Uniswap V2, borrow TOKEN
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan Tokens  => 0.6
+With the flashloan tokens, Uniswap V1 will get ETH  Y => 0.000369740093889752
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114746 , Fri Mar 26 2021 21:59:23 GMT+0900 (GMT+09:00)
+Require to return flashloan to source DEX ETH X       => 0.000368157875870052
+Profit =  Y - X     =>  0.0000015822180197000305
+⏰ Time: Fri Mar 26 2021 21:59:23 GMT+0900 (GMT+09:00)
+
+
+Swap costs gas is 190000 (188199)
+GasPrice is 126.5g.
+Gas cost estimated 0.024035 ETH. Profit is -0.0240334177819803
+Make gasPrice 10 times. Gas cost estimated 0.24035 ETH. Profit is -0.2403484177819803
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+🌟 Bot started! 🌟
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114748 , Fri Mar 26 2021 21:59:49 GMT+0900 (GMT+09:00)
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114749 , Fri Mar 26 2021 21:59:52 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 265.630852166416
+Uniswap V1 TOKEN Reserves         => 429761.762961
+Uniswap ETH Reserves              => 74561.54233710919
+Uniswap TOKEN Reserves            => 121846135.642558
+Sushiswap ETH Reserves            => 112962.88664446032
+Sushiswap TOKEN Reserves          => 184092144.297857
+
+
+Uniswap V1 TOKEN/ETH              => 1617.890992164408
+Uniswap V2 TOEKN/ETH              => 1634.1686588464697
+Sushiswap TOKEN/ETH               => 1629.6692636517787
+
+
+Need to start flashswap from Uniswap V2, borrow TOKEN
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan Tokens  => 1100.0
+With the flashloan tokens, Uniswap V1 will get ETH  Y => 0.676132374350686943
+Require to return flashloan to source DEX ETH X       => 0.675156682478819167
+Profit =  Y - X     =>  0.0009756918718677454
+⏰ Time: Fri Mar 26 2021 21:59:54 GMT+0900 (GMT+09:00)
+
+
+Swap costs gas is 190000 (188199)
+GasPrice is 126.5g.
+Gas cost estimated 0.024035 ETH. Profit is -0.023059308128132255
+Make gasPrice 10 times. Gas cost estimated 0.24035 ETH. Profit is -0.23937430812813226
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+Uniswap V1 ETH Reserves           => 265.630852166416
+Uniswap V1 TOKEN Reserves         => 429761.762961
+Uniswap ETH Reserves              => 74563.99346270484
+Uniswap TOKEN Reserves            => 121842202.139643
+Sushiswap ETH Reserves            => 112962.88664446032
+Sushiswap TOKEN Reserves          => 184092144.297857
+
+
+Uniswap V1 TOKEN/ETH              => 1617.890992164408
+Uniswap V2 TOEKN/ETH              => 1634.0621857999815
+Sushiswap TOKEN/ETH               => 1629.6692636517787
+
+
+Need to start flashswap from Uniswap V2, borrow TOKEN
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan Tokens  => 1100.0
+With the flashloan tokens, Uniswap V1 will get ETH  Y => 0.676132374350686943
+Require to return flashloan to source DEX ETH X       => 0.67520067487459795
+Profit =  Y - X     =>  0.0009316994760890651
+⏰ Time: Fri Mar 26 2021 21:59:57 GMT+0900 (GMT+09:00)
+
+
+Swap costs gas is 190000 (188199)
+GasPrice is 126.5g.
+Gas cost estimated 0.024035 ETH. Profit is -0.023103300523910936
+Make gasPrice 10 times. Gas cost estimated 0.24035 ETH. Profit is -0.23941830052391094
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114750 , Fri Mar 26 2021 22:00:08 GMT+0900 (GMT+09:00)
+🌟 Bot started! 🌟
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114853 , Fri Mar 26 2021 22:25:11 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 263.51186630103774
+Uniswap V1 TOKEN Reserves         => 433228.017866
+Uniswap ETH Reserves              => 74645.78976025367
+Uniswap TOKEN Reserves            => 121709600.956126
+Sushiswap ETH Reserves            => 112813.0637203756
+Sushiswap TOKEN Reserves          => 184341174.629467
+
+
+Uniswap V1 TOKEN/ETH              => 1644.0550626706024
+Uniswap V2 TOEKN/ETH              => 1630.4951872976526
+Sushiswap TOKEN/ETH               => 1634.0410281417828
+
+
+Need to start flashswap from Uniswap V2, borrow ETH
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan ETHs  => 1.0 ETH
+Require to return flashloan source DEX tokens           => 1635.423301
+To get the tokens, need to send Uniswap V1 WETH X       => 1.001523664382759424
+Profit = (FlashLoan ETHs) - X                           =>  -0.0015236643827594154
+⏰ Time: Fri Mar 26 2021 22:25:17 GMT+0900 (GMT+09:00)
+There is no profit, just need to wait for opportunity. return.
+
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114854 , Fri Mar 26 2021 22:25:31 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1644.0550626706024
+Before Uniswap V2 Price => 1630.4951872976526
+Before Sushiswap  Price => 1634.0410281417828
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114855 , Fri Mar 26 2021 22:25:40 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1644.0550626706024
+Before Uniswap V2 Price => 1630.4951872976526
+Before Sushiswap  Price => 1634.0410281417828
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114856 , Fri Mar 26 2021 22:25:53 GMT+0900 (GMT+09:00)
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114857 , Fri Mar 26 2021 22:25:53 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1644.0550626706024
+Before Uniswap V2 Price => 1630.4951872976526
+Before Sushiswap  Price => 1634.0410281417828
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1644.0550626706024
+Before Uniswap V2 Price => 1630.4951872976526
+Before Sushiswap  Price => 1634.0410281417828
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114858 , Fri Mar 26 2021 22:25:59 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1644.0550626706024
+Before Uniswap V2 Price => 1630.4951872976526
+Before Sushiswap  Price => 1634.0410281417828
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114859 , Fri Mar 26 2021 22:26:19 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1644.0550626706024
+Before Uniswap V2 Price => 1630.4951872976526
+Before Sushiswap  Price => 1634.0410281417828
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114860 , Fri Mar 26 2021 22:26:31 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 263.3174942713343
+Uniswap V1 TOKEN Reserves         => 433548.774342
+Uniswap ETH Reserves              => 74646.3628107759
+Uniswap TOKEN Reserves            => 121708763.221119
+Sushiswap ETH Reserves            => 112822.54015010386
+Sushiswap TOKEN Reserves          => 184325764.457424
+
+
+Uniswap V1 TOKEN/ETH              => 1646.4867841072942
+Uniswap V2 TOEKN/ETH              => 1630.4714474788743
+Sushiswap TOKEN/ETH               => 1633.7671906002936
+
+
+Need to start flashswap from Uniswap V2, borrow ETH
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan ETHs  => 1.0 ETH
+Require to return flashloan source DEX tokens           => 1635.399489
+To get the tokens, need to send Uniswap V1 WETH X       => 1.000027079354673548
+Profit = (FlashLoan ETHs) - X                           =>  -0.0000270793546734982
+⏰ Time: Fri Mar 26 2021 22:26:36 GMT+0900 (GMT+09:00)
+There is no profit, just need to wait for opportunity. return.
+
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+🌟 Bot started! 🌟
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114872 , Fri Mar 26 2021 22:28:01 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 266.1666732213343
+Uniswap V1 TOKEN Reserves         => 428921.665715
+Uniswap ETH Reserves              => 74651.07765241449
+Uniswap TOKEN Reserves            => 121701295.056928
+Sushiswap ETH Reserves            => 112848.50840532492
+Sushiswap TOKEN Reserves          => 184283475.36053
+
+
+Uniswap V1 TOKEN/ETH              => 1611.4777275602974
+Uniswap V2 TOEKN/ETH              => 1630.2684285896805
+Sushiswap TOKEN/ETH               => 1633.0164923281725
+
+
+Need to start flashswap from Sushiswap, borrow TOKEN
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan Tokens  => 1100.0
+With the flashloan tokens, Uniswap V1 will get ETH  Y => 0.678819822117320787
+Require to return flashloan to source DEX ETH X       => 0.675630969277060363
+Profit =  Y - X     =>  0.003188852840260492
+⏰ Time: Fri Mar 26 2021 22:28:07 GMT+0900 (GMT+09:00)
+
+
+Swap costs gas is 190000 (188199)
+GasPrice is 123g.
+Gas cost estimated 0.02337 ETH. Profit is -0.020181147159739506
+Make gasPrice 10 times. Gas cost estimated 0.2337 ETH. Profit is -0.2305111471597395
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114873 , Fri Mar 26 2021 22:28:13 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1611.4777275602974
+Before Uniswap V2 Price => 1630.2684285896805
+Before Sushiswap  Price => 1633.0164923281725
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114874 , Fri Mar 26 2021 22:28:29 GMT+0900 (GMT+09:00)
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114875 , Fri Mar 26 2021 22:28:29 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1611.4777275602974
+Before Uniswap V2 Price => 1630.2352724638793
+Before Sushiswap  Price => 1633.0164923281725
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1611.4777275602974
+Before Uniswap V2 Price => 1629.8762639968022
+Before Sushiswap  Price => 1633.0164923281725
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114876 , Fri Mar 26 2021 22:28:58 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1611.4777275602974
+Before Uniswap V2 Price => 1629.8762639968022
+Before Sushiswap  Price => 1633.0164923281725
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114877 , Fri Mar 26 2021 22:29:13 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1611.4777275602974
+Before Uniswap V2 Price => 1630.1556311640757
+Before Sushiswap  Price => 1633.0164923281725
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114878 , Fri Mar 26 2021 22:29:21 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1611.4777275602974
+Before Uniswap V2 Price => 1630.1556311640757
+Before Sushiswap  Price => 1633.0164923281725
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114879 , Fri Mar 26 2021 22:29:25 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1611.4777275602974
+Before Uniswap V2 Price => 1630.0562073041824
+Before Sushiswap  Price => 1633.0164923281725
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114880 , Fri Mar 26 2021 22:29:37 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1611.4777275602974
+Before Uniswap V2 Price => 1630.0562073041824
+Before Sushiswap  Price => 1633.0164923281725
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114881 , Fri Mar 26 2021 22:30:09 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1611.4777275602974
+Before Uniswap V2 Price => 1630.0562073041824
+Before Sushiswap  Price => 1633.016474401147
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114882 , Fri Mar 26 2021 22:30:17 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1611.4777275602974
+Before Uniswap V2 Price => 1630.0562073041824
+Before Sushiswap  Price => 1633.016474401147
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114883 , Fri Mar 26 2021 22:30:21 GMT+0900 (GMT+09:00)
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114884 , Fri Mar 26 2021 22:30:21 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1611.4777275602974
+Before Uniswap V2 Price => 1630.0562073041824
+Before Sushiswap  Price => 1633.016474401147
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1611.4777275602974
+Before Uniswap V2 Price => 1630.0562073041824
+Before Sushiswap  Price => 1633.016474401147
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114885 , Fri Mar 26 2021 22:30:45 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1611.4777275602974
+Before Uniswap V2 Price => 1630.0562073041824
+Before Sushiswap  Price => 1633.016474401147
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114886 , Fri Mar 26 2021 22:31:09 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1611.4777275602974
+Before Uniswap V2 Price => 1630.0562073041824
+Before Sushiswap  Price => 1633.016474401147
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114887 , Fri Mar 26 2021 22:31:21 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1611.4777275602974
+Before Uniswap V2 Price => 1630.0562073041824
+Before Sushiswap  Price => 1633.016474401147
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114888 , Fri Mar 26 2021 22:31:29 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1611.4777275602974
+Before Uniswap V2 Price => 1630.1642277548708
+Before Sushiswap  Price => 1633.016474401147
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114889 , Fri Mar 26 2021 22:32:01 GMT+0900 (GMT+09:00)
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114890 , Fri Mar 26 2021 22:32:01 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 266.1666732213343
+Uniswap V1 TOKEN Reserves         => 431333.198464
+Uniswap ETH Reserves              => 74665.0078598012
+Uniswap TOKEN Reserves            => 121678764.577964
+Sushiswap ETH Reserves            => 112848.5090256733
+Sushiswap TOKEN Reserves          => 184283474.350531
+
+
+Uniswap V1 TOKEN/ETH              => 1620.537963087961
+Uniswap V2 TOEKN/ETH              => 1629.6625161607258
+Sushiswap TOKEN/ETH               => 1633.016474401147
+
+
+Need to start flashswap from Sushiswap, borrow TOKEN
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan Tokens  => 1100.0
+Uniswap V1 ETH Reserves           => 264.6830063572238
+Uniswap V1 TOKEN Reserves         => 431333.198464
+Uniswap ETH Reserves              => 74665.0078598012
+Uniswap TOKEN Reserves            => 121678764.577964
+Sushiswap ETH Reserves            => 112848.5090256733
+Sushiswap TOKEN Reserves          => 184283474.350531
+
+
+Uniswap V1 TOKEN/ETH              => 1629.6218045893747
+Uniswap V2 TOEKN/ETH              => 1629.6625161607258
+Sushiswap TOKEN/ETH               => 1633.016474401147
+
+
+Need to start flashswap from Sushiswap, borrow TOKEN
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan Tokens  => 1100.0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114891 , Fri Mar 26 2021 22:32:05 GMT+0900 (GMT+09:00)
+With the flashloan tokens, Uniswap V1 will get ETH  Y => 0.671271468746819561
+With the flashloan tokens, Uniswap V1 will get ETH  Y => 0.671271468746819561
+Require to return flashloan to source DEX ETH X       => 0.675630976694064442
+Profit =  Y - X     =>  -0.004359507947244934
+⏰ Time: Fri Mar 26 2021 22:32:07 GMT+0900 (GMT+09:00)
+
+
+There is no profit, just need to wait for opportunity. return.
+
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+Require to return flashloan to source DEX ETH X       => 0.675630976694064442
+Profit =  Y - X     =>  -0.004359507947244934
+⏰ Time: Fri Mar 26 2021 22:32:07 GMT+0900 (GMT+09:00)
+
+
+There is no profit, just need to wait for opportunity. return.
+
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1629.6218045893747
+Before Uniswap V2 Price => 1629.6625161607258
+Before Sushiswap  Price => 1633.016474401147
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114892 , Fri Mar 26 2021 22:32:56 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1629.6218045893747
+Before Uniswap V2 Price => 1629.6625161607258
+Before Sushiswap  Price => 1633.016474401147
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114893 , Fri Mar 26 2021 22:33:25 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1629.6218045893747
+Before Uniswap V2 Price => 1629.6926804390503
+Before Sushiswap  Price => 1633.016474401147
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114894 , Fri Mar 26 2021 22:33:41 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1629.6218045893747
+Before Uniswap V2 Price => 1629.6926804390503
+Before Sushiswap  Price => 1633.016474401147
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114895 , Fri Mar 26 2021 22:33:45 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1629.6218045893747
+Before Uniswap V2 Price => 1629.8616395547126
+Before Sushiswap  Price => 1633.016474401147
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114896 , Fri Mar 26 2021 22:33:49 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1629.6218045893747
+Before Uniswap V2 Price => 1629.8616395547126
+Before Sushiswap  Price => 1633.016474401147
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114897 , Fri Mar 26 2021 22:34:02 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1629.6218045893747
+Before Uniswap V2 Price => 1629.7946380914343
+Before Sushiswap  Price => 1632.9165401775429
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114898 , Fri Mar 26 2021 22:34:41 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 264.6830063572238
+Uniswap V1 TOKEN Reserves         => 431333.198464
+Uniswap ETH Reserves              => 74428.03529119941
+Uniswap TOKEN Reserves            => 122068924.211439
+Sushiswap ETH Reserves            => 112797.56607325518
+Sushiswap TOKEN Reserves          => 184366986.981084
+
+
+Uniswap V1 TOKEN/ETH              => 1629.6218045893747
+Uniswap V2 TOEKN/ETH              => 1640.0933295342916
+Sushiswap TOKEN/ETH               => 1634.4943725235066
+
+
+Need to start flashswap from Uniswap V2, borrow TOKEN
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan Tokens  => 1100.0
+With the flashloan tokens, Uniswap V1 will get ETH  Y => 0.671271468746819561
+Require to return flashloan to source DEX ETH X       => 0.672717736405746652
+Profit =  Y - X     =>  -0.0014462676589270806
+⏰ Time: Fri Mar 26 2021 22:34:46 GMT+0900 (GMT+09:00)
+
+
+There is no profit, just need to wait for opportunity. return.
+
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114899 , Fri Mar 26 2021 22:35:01 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1629.6218045893747
+Before Uniswap V2 Price => 1640.0933295342916
+Before Sushiswap  Price => 1634.4943725235066
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114900 , Fri Mar 26 2021 22:35:05 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1629.6218045893747
+Before Uniswap V2 Price => 1639.7293772864462
+Before Sushiswap  Price => 1634.4943725235066
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114901 , Fri Mar 26 2021 22:35:17 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1629.6218045893747
+Before Uniswap V2 Price => 1639.7293772864527
+Before Sushiswap  Price => 1634.4943725235066
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114902 , Fri Mar 26 2021 22:35:21 GMT+0900 (GMT+09:00)
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114903 , Fri Mar 26 2021 22:35:21 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1629.6218045893747
+Before Uniswap V2 Price => 1639.3342279890342
+Before Sushiswap  Price => 1634.4943725235066
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1629.6218045893747
+Before Uniswap V2 Price => 1639.3342279890342
+Before Sushiswap  Price => 1634.4943725235066
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114904 , Fri Mar 26 2021 22:35:38 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1629.6218045893747
+Before Uniswap V2 Price => 1639.3342279890342
+Before Sushiswap  Price => 1634.4943725235066
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114905 , Fri Mar 26 2021 22:36:01 GMT+0900 (GMT+09:00)
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114906 , Fri Mar 26 2021 22:36:01 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1629.6218045893747
+Before Uniswap V2 Price => 1639.2556694089028
+Before Sushiswap  Price => 1636.408031203729
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1629.6218045893747
+Before Uniswap V2 Price => 1639.2556694089028
+Before Sushiswap  Price => 1636.408031203729
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114907 , Fri Mar 26 2021 22:36:58 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1629.6218045893747
+Before Uniswap V2 Price => 1639.2556694089028
+Before Sushiswap  Price => 1636.408031203729
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114908 , Fri Mar 26 2021 22:37:06 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1629.6218045893747
+Before Uniswap V2 Price => 1637.5623724240363
+Before Sushiswap  Price => 1636.408031203729
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114909 , Fri Mar 26 2021 22:37:09 GMT+0900 (GMT+09:00)
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114910 , Fri Mar 26 2021 22:37:09 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1629.6218045893747
+Before Uniswap V2 Price => 1635.8366663391942
+Before Sushiswap  Price => 1636.408031203729
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1629.6218045893747
+Before Uniswap V2 Price => 1635.8366663391942
+Before Sushiswap  Price => 1636.408031203729
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114911 , Fri Mar 26 2021 22:37:26 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1629.6218045893747
+Before Uniswap V2 Price => 1635.8366663391942
+Before Sushiswap  Price => 1636.408031203729
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114912 , Fri Mar 26 2021 22:37:56 GMT+0900 (GMT+09:00)
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114913 , Fri Mar 26 2021 22:37:56 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1629.6218045893747
+Before Uniswap V2 Price => 1635.5679066912303
+Before Sushiswap  Price => 1636.408031203729
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1629.6218045893747
+Before Uniswap V2 Price => 1635.6926626969075
+Before Sushiswap  Price => 1636.3887547630038
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114914 , Fri Mar 26 2021 22:38:06 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1629.6218045893747
+Before Uniswap V2 Price => 1635.6926626969075
+Before Sushiswap  Price => 1636.3887547630038
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114915 , Fri Mar 26 2021 22:38:18 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1629.6218045893747
+Before Uniswap V2 Price => 1635.828859398411
+Before Sushiswap  Price => 1636.3887547630038
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114916 , Fri Mar 26 2021 22:38:34 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1629.6218045893747
+Before Uniswap V2 Price => 1635.828859398411
+Before Sushiswap  Price => 1636.3887547630038
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114917 , Fri Mar 26 2021 22:38:46 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1629.6218045893747
+Before Uniswap V2 Price => 1635.7502147007938
+Before Sushiswap  Price => 1636.3887547630038
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114918 , Fri Mar 26 2021 22:38:58 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1629.6218045893747
+Before Uniswap V2 Price => 1635.7502147007938
+Before Sushiswap  Price => 1636.3887547630038
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114919 , Fri Mar 26 2021 22:39:02 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1629.6218045893747
+Before Uniswap V2 Price => 1636.2146127939302
+Before Sushiswap  Price => 1636.3887547630038
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114920 , Fri Mar 26 2021 22:39:10 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1629.6218045893747
+Before Uniswap V2 Price => 1636.2146127939302
+Before Sushiswap  Price => 1636.3887547630038
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12114921 , Fri Mar 26 2021 22:39:14 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1629.6218045893747
+Before Uniswap V2 Price => 1636.2146127939302
+Before Sushiswap  Price => 1636.3887547630038
+🌟 Bot started! 🌟
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12117253 , Sat Mar 27 2021 07:03:36 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 260.2194438885836
+Uniswap V1 TOKEN Reserves         => 438897.56357
+Uniswap ETH Reserves              => 74579.94885189972
+Uniswap TOKEN Reserves            => 126095222.259389
+Sushiswap ETH Reserves            => 110875.83445131908
+Sushiswap TOKEN Reserves          => 187234583.329202
+
+
+Uniswap V1 TOKEN/ETH              => 1686.643999431187
+Uniswap V2 TOEKN/ETH              => 1690.7389211246027
+Sushiswap TOKEN/ETH               => 1688.687027752732
+
+
+Need to start flashswap from Uniswap V2, borrow TOKEN
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan Tokens  => 1100.0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12117254 , Sat Mar 27 2021 07:03:40 GMT+0900 (GMT+09:00)
+With the flashloan tokens, Uniswap V1 will get ETH  Y => 0.648605419982270376
+Require to return flashloan to source DEX ETH X       => 0.65256648491684321
+Profit =  Y - X     =>  -0.003961064934572822
+⏰ Time: Sat Mar 27 2021 07:03:41 GMT+0900 (GMT+09:00)
+
+
+There is no profit, just need to wait for opportunity. return.
+
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1686.643999431187
+Before Uniswap V2 Price => 1690.7389211246027
+Before Sushiswap  Price => 1688.687027752732
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12117255 , Sat Mar 27 2021 07:03:59 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1686.643999431187
+Before Uniswap V2 Price => 1690.7389211246027
+Before Sushiswap  Price => 1688.687027752732
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12117256 , Sat Mar 27 2021 07:04:08 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1686.643999431187
+Before Uniswap V2 Price => 1690.7389211246027
+Before Sushiswap  Price => 1688.687027752732
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12117257 , Sat Mar 27 2021 07:04:27 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1686.643999431187
+Before Uniswap V2 Price => 1690.9084096720821
+Before Sushiswap  Price => 1688.8035479051498
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12117258 , Sat Mar 27 2021 07:04:43 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1686.643999431187
+Before Uniswap V2 Price => 1691.175579155394
+Before Sushiswap  Price => 1688.8035479051498
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12117259 , Sat Mar 27 2021 07:05:15 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1686.643999431187
+Before Uniswap V2 Price => 1691.1724088718865
+Before Sushiswap  Price => 1688.8035479051498
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12117260 , Sat Mar 27 2021 07:05:19 GMT+0900 (GMT+09:00)
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12117261 , Sat Mar 27 2021 07:05:19 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1686.643999431187
+Before Uniswap V2 Price => 1691.3810531572365
+Before Sushiswap  Price => 1688.8035479051498
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1686.643999431187
+Before Uniswap V2 Price => 1691.3737483702625
+Before Sushiswap  Price => 1688.8035479051498
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12117262 , Sat Mar 27 2021 07:05:51 GMT+0900 (GMT+09:00)
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12117263 , Sat Mar 27 2021 07:05:51 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1686.643999431187
+Before Uniswap V2 Price => 1691.3737483702625
+Before Sushiswap  Price => 1688.8035479051498
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1686.643999431187
+Before Uniswap V2 Price => 1690.7132844156977
+Before Sushiswap  Price => 1689.4067680821433
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12117264 , Sat Mar 27 2021 07:05:55 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1686.643999431187
+Before Uniswap V2 Price => 1690.7132844156977
+Before Sushiswap  Price => 1689.4067680821433
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12117265 , Sat Mar 27 2021 07:05:59 GMT+0900 (GMT+09:00)
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12117266 , Sat Mar 27 2021 07:05:59 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1686.643999431187
+Before Uniswap V2 Price => 1690.6476427631221
+Before Sushiswap  Price => 1689.4067680821433
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1686.643999431187
+Before Uniswap V2 Price => 1690.616076293734
+Before Sushiswap  Price => 1689.4067680821433
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12117267 , Sat Mar 27 2021 07:06:43 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1686.643999431187
+Before Uniswap V2 Price => 1690.616076293734
+Before Sushiswap  Price => 1689.4067680821433
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12117268 , Sat Mar 27 2021 07:07:03 GMT+0900 (GMT+09:00)
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12117269 , Sat Mar 27 2021 07:07:03 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1686.643999431187
+Before Uniswap V2 Price => 1690.7954785478425
+Before Sushiswap  Price => 1689.4067680821433
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1686.643999431187
+Before Uniswap V2 Price => 1690.7964536396755
+Before Sushiswap  Price => 1689.6589870824234
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12117270 , Sat Mar 27 2021 07:07:16 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1686.643999431187
+Before Uniswap V2 Price => 1690.7964536396755
+Before Sushiswap  Price => 1689.6589870824234
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12117271 , Sat Mar 27 2021 07:07:36 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1686.643999431187
+Before Uniswap V2 Price => 1690.7964536396755
+Before Sushiswap  Price => 1689.6589870824234
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+
+BlockNumber => 12117272 , Sat Mar 27 2021 07:07:56 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Before Uniswap V1 Price => 1686.643999431187
+Before Uniswap V2 Price => 1690.7654108309114
+Before Sushiswap  Price => 1689.6589870824234

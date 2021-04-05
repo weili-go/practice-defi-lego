@@ -1,0 +1,324 @@
+{
+  "contractName": "IUniswapV1FactoryV1",
+  "abi": [
+    {
+      "inputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "name": "getExchange",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ],
+  "metadata": "{\"compiler\":{\"version\":\"0.6.6+commit.6c089d02\"},\"language\":\"Solidity\",\"output\":{\"abi\":[{\"inputs\":[{\"internalType\":\"address\",\"name\":\"\",\"type\":\"address\"}],\"name\":\"getExchange\",\"outputs\":[{\"internalType\":\"address\",\"name\":\"\",\"type\":\"address\"}],\"stateMutability\":\"view\",\"type\":\"function\"}],\"devdoc\":{\"methods\":{}},\"userdoc\":{\"methods\":{}}},\"settings\":{\"compilationTarget\":{\"/Users/usr0102794/opengsn/uni-sushi-flashswap/flashloaner-contract/contracts/interfaces/V1/IUniswapV1FactoryV1.sol\":\"IUniswapV1FactoryV1\"},\"evmVersion\":\"istanbul\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"/Users/usr0102794/opengsn/uni-sushi-flashswap/flashloaner-contract/contracts/interfaces/V1/IUniswapV1FactoryV1.sol\":{\"keccak256\":\"0xb9fe597acb104174ba76737400ee6407e3ed469e72cf5db8322ccc7d44c11e0b\",\"urls\":[\"bzz-raw://f4e76886d58af825e657201ebf8448a13267b2e5ae839e8877f7d6cbe7774ee4\",\"dweb:/ipfs/QmaH6AnZqo3ehcdcGPw57To1NT5am16bP8Eq4SU7M8krtD\"]}},\"version\":1}",
+  "bytecode": "0x",
+  "deployedBytecode": "0x",
+  "immutableReferences": {},
+  "sourceMap": "",
+  "deployedSourceMap": "",
+  "source": "pragma solidity >=0.5.0;\n\ninterface IUniswapV1FactoryV1 {\n    function getExchange(address) external view returns (address);\n}\n",
+  "sourcePath": "/Users/usr0102794/opengsn/uni-sushi-flashswap/flashloaner-contract/contracts/interfaces/V1/IUniswapV1FactoryV1.sol",
+  "ast": {
+    "absolutePath": "/Users/usr0102794/opengsn/uni-sushi-flashswap/flashloaner-contract/contracts/interfaces/V1/IUniswapV1FactoryV1.sol",
+    "exportedSymbols": {
+      "IUniswapV1FactoryV1": [
+        5989
+      ]
+    },
+    "id": 5990,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 5981,
+        "literals": [
+          "solidity",
+          ">=",
+          "0.5",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:24:19"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "interface",
+        "documentation": null,
+        "fullyImplemented": false,
+        "id": 5989,
+        "linearizedBaseContracts": [
+          5989
+        ],
+        "name": "IUniswapV1FactoryV1",
+        "nodeType": "ContractDefinition",
+        "nodes": [
+          {
+            "body": null,
+            "documentation": null,
+            "functionSelector": "06f2bf62",
+            "id": 5988,
+            "implemented": false,
+            "kind": "function",
+            "modifiers": [],
+            "name": "getExchange",
+            "nodeType": "FunctionDefinition",
+            "overrides": null,
+            "parameters": {
+              "id": 5984,
+              "nodeType": "ParameterList",
+              "parameters": [
+                {
+                  "constant": false,
+                  "id": 5983,
+                  "mutability": "mutable",
+                  "name": "",
+                  "nodeType": "VariableDeclaration",
+                  "overrides": null,
+                  "scope": 5988,
+                  "src": "83:7:19",
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_address",
+                    "typeString": "address"
+                  },
+                  "typeName": {
+                    "id": 5982,
+                    "name": "address",
+                    "nodeType": "ElementaryTypeName",
+                    "src": "83:7:19",
+                    "stateMutability": "nonpayable",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_address",
+                      "typeString": "address"
+                    }
+                  },
+                  "value": null,
+                  "visibility": "internal"
+                }
+              ],
+              "src": "82:9:19"
+            },
+            "returnParameters": {
+              "id": 5987,
+              "nodeType": "ParameterList",
+              "parameters": [
+                {
+                  "constant": false,
+                  "id": 5986,
+                  "mutability": "mutable",
+                  "name": "",
+                  "nodeType": "VariableDeclaration",
+                  "overrides": null,
+                  "scope": 5988,
+                  "src": "115:7:19",
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_address",
+                    "typeString": "address"
+                  },
+                  "typeName": {
+                    "id": 5985,
+                    "name": "address",
+                    "nodeType": "ElementaryTypeName",
+                    "src": "115:7:19",
+                    "stateMutability": "nonpayable",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_address",
+                      "typeString": "address"
+                    }
+                  },
+                  "value": null,
+                  "visibility": "internal"
+                }
+              ],
+              "src": "114:9:19"
+            },
+            "scope": 5989,
+            "src": "62:62:19",
+            "stateMutability": "view",
+            "virtual": false,
+            "visibility": "external"
+          }
+        ],
+        "scope": 5990,
+        "src": "26:100:19"
+      }
+    ],
+    "src": "0:127:19"
+  },
+  "legacyAST": {
+    "attributes": {
+      "absolutePath": "/Users/usr0102794/opengsn/uni-sushi-flashswap/flashloaner-contract/contracts/interfaces/V1/IUniswapV1FactoryV1.sol",
+      "exportedSymbols": {
+        "IUniswapV1FactoryV1": [
+          5989
+        ]
+      }
+    },
+    "children": [
+      {
+        "attributes": {
+          "literals": [
+            "solidity",
+            ">=",
+            "0.5",
+            ".0"
+          ]
+        },
+        "id": 5981,
+        "name": "PragmaDirective",
+        "src": "0:24:19"
+      },
+      {
+        "attributes": {
+          "abstract": false,
+          "baseContracts": [
+            null
+          ],
+          "contractDependencies": [
+            null
+          ],
+          "contractKind": "interface",
+          "documentation": null,
+          "fullyImplemented": false,
+          "linearizedBaseContracts": [
+            5989
+          ],
+          "name": "IUniswapV1FactoryV1",
+          "scope": 5990
+        },
+        "children": [
+          {
+            "attributes": {
+              "body": null,
+              "documentation": null,
+              "functionSelector": "06f2bf62",
+              "implemented": false,
+              "isConstructor": false,
+              "kind": "function",
+              "modifiers": [
+                null
+              ],
+              "name": "getExchange",
+              "overrides": null,
+              "scope": 5989,
+              "stateMutability": "view",
+              "virtual": false,
+              "visibility": "external"
+            },
+            "children": [
+              {
+                "children": [
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "mutability": "mutable",
+                      "name": "",
+                      "overrides": null,
+                      "scope": 5988,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "address",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "address",
+                          "stateMutability": "nonpayable",
+                          "type": "address"
+                        },
+                        "id": 5982,
+                        "name": "ElementaryTypeName",
+                        "src": "83:7:19"
+                      }
+                    ],
+                    "id": 5983,
+                    "name": "VariableDeclaration",
+                    "src": "83:7:19"
+                  }
+                ],
+                "id": 5984,
+                "name": "ParameterList",
+                "src": "82:9:19"
+              },
+              {
+                "children": [
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "mutability": "mutable",
+                      "name": "",
+                      "overrides": null,
+                      "scope": 5988,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "address",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "address",
+                          "stateMutability": "nonpayable",
+                          "type": "address"
+                        },
+                        "id": 5985,
+                        "name": "ElementaryTypeName",
+                        "src": "115:7:19"
+                      }
+                    ],
+                    "id": 5986,
+                    "name": "VariableDeclaration",
+                    "src": "115:7:19"
+                  }
+                ],
+                "id": 5987,
+                "name": "ParameterList",
+                "src": "114:9:19"
+              }
+            ],
+            "id": 5988,
+            "name": "FunctionDefinition",
+            "src": "62:62:19"
+          }
+        ],
+        "id": 5989,
+        "name": "ContractDefinition",
+        "src": "26:100:19"
+      }
+    ],
+    "id": 5990,
+    "name": "SourceUnit",
+    "src": "0:127:19"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.6.6+commit.6c089d02.Emscripten.clang"
+  },
+  "networks": {},
+  "schemaVersion": "3.3.3",
+  "updatedAt": "2021-03-05T22:58:27.119Z",
+  "devdoc": {
+    "methods": {}
+  },
+  "userdoc": {
+    "methods": {}
+  }
+}

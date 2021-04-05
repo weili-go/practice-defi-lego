@@ -1,0 +1,504 @@
+🌟 Bot started! 🌟
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12176774 , Mon Apr 05 2021 10:46:33 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 8.338706600403416
+Uniswap V1 TOKEN Reserves         => 9058.264662497446
+Uniswap ETH Reserves              => 468.3076011946314
+Uniswap TOKEN Reserves            => 531898.2571825478
+Sushiswap ETH Reserves            => 504.50334455513587
+Sushiswap TOKEN Reserves          => 568312.9700623021
+
+
+Uniswap V1 TOKEN/ETH              => 1086.2913274894715
+Uniswap V2 TOEKN/ETH              => 1135.7882208738436
+Sushiswap TOKEN/ETH               => 1126.4800842171476
+
+
+Need to start flashswap from Uniswap V2, borrow TOKEN
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan Tokens  => 110.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 0.099750487599692517
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12176775 , Mon Apr 05 2021 10:46:37 GMT+0900 (GMT+09:00)
+Require to return flashloan to source DEX ETH X      => 0.09716055584441229
+Profit =  Y - X  =>  0.002589931755280231
+⏰ Time: Mon Apr 05 2021 10:46:38 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+GasPrice is 84g.
+Gas cost estimated 0.01596 ETH. Profit - GasCost = -0.013370068244719768
+Make gasPrice 10 times. Gas cost estimated 0.1596 ETH. Profit - GasCost = -0.15701006824471975
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan Tokens  => 120.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 0.108700503476442858
+Require to return flashloan to source DEX ETH X      => 0.105995326835125173
+Profit =  Y - X  =>  0.002705176641317683
+⏰ Time: Mon Apr 05 2021 10:46:40 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+GasPrice is 84g.
+Gas cost estimated 0.01596 ETH. Profit - GasCost = -0.013254823358682315
+Make gasPrice 10 times. Gas cost estimated 0.1596 ETH. Profit - GasCost = -0.15689482335868232
+
+🤖 Find aribitrage oppoturnity => 3 times 
+👉 If FlashLoan Tokens  => 130.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 0.117631095566611648
+Require to return flashloan to source DEX ETH X      => 0.114830430104828814
+Profit =  Y - X  =>  0.002800665461782842
+⏰ Time: Mon Apr 05 2021 10:46:44 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+GasPrice is 84g.
+Gas cost estimated 0.01596 ETH. Profit - GasCost = -0.013159334538217157
+Make gasPrice 10 times. Gas cost estimated 0.1596 ETH. Profit - GasCost = -0.15679933453821715
+
+🤖 Find aribitrage oppoturnity => 4 times 
+👉 If FlashLoan Tokens  => 140.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 0.126542327033415701
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12176776 , Mon Apr 05 2021 10:46:45 GMT+0900 (GMT+09:00)
+Require to return flashloan to source DEX ETH X      => 0.12366586567226927
+Profit =  Y - X  =>  0.002876461361146429
+⏰ Time: Mon Apr 05 2021 10:46:47 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+GasPrice is 84g.
+Gas cost estimated 0.01596 ETH. Profit - GasCost = -0.01308353863885357
+Make gasPrice 10 times. Gas cost estimated 0.1596 ETH. Profit - GasCost = -0.15672353863885358
+
+🤖 Find aribitrage oppoturnity => 5 times 
+👉 If FlashLoan Tokens  => 150.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 0.135434260766505392
+Require to return flashloan to source DEX ETH X      => 0.132501633556194005
+Profit =  Y - X  =>  0.0029326272103113726
+⏰ Time: Mon Apr 05 2021 10:46:54 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+GasPrice is 84g.
+Gas cost estimated 0.01596 ETH. Profit - GasCost = -0.013027372789688626
+Make gasPrice 10 times. Gas cost estimated 0.1596 ETH. Profit - GasCost = -0.15666737278968862
+
+🤖 Find aribitrage oppoturnity => 6 times 
+👉 If FlashLoan Tokens  => 160.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 0.144306959383444108
+Require to return flashloan to source DEX ETH X      => 0.141337733775351896
+Profit =  Y - X  =>  0.0029692256080922075
+⏰ Time: Mon Apr 05 2021 10:46:56 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+GasPrice is 84.000001459g.
+Gas cost estimated 0.01596000027721 ETH. Profit - GasCost = -0.012990774669117792
+Make gasPrice 10 times. Gas cost estimated 0.1596000027721 ETH. Profit - GasCost = -0.1566307771640078
+
+🤖 Find aribitrage oppoturnity => 7 times 
+👉 If FlashLoan Tokens  => 170.0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12176777 , Mon Apr 05 2021 10:46:58 GMT+0900 (GMT+09:00)
+With the flashloan tokens, Uniswap V1 will get ETH Y => 0.153160485231178114
+Require to return flashloan to source DEX ETH X      => 0.150174166348493229
+Profit =  Y - X  =>  0.002986318882684885
+⏰ Time: Mon Apr 05 2021 10:46:59 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+GasPrice is 84.000001459g.
+Gas cost estimated 0.01596000027721 ETH. Profit - GasCost = -0.012973681394525115
+Make gasPrice 10 times. Gas cost estimated 0.1596000027721 ETH. Profit - GasCost = -0.15661368388941513
+
+🤖 Find aribitrage oppoturnity => 8 times 
+👉 If FlashLoan Tokens  => 180.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 0.161994900387496893
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+Require to return flashloan to source DEX ETH X      => 0.1590109312943697
+Profit =  Y - X  =>  0.0029839690931272034
+⏰ Time: Mon Apr 05 2021 10:47:01 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12176778 , Mon Apr 05 2021 10:47:02 GMT+0900 (GMT+09:00)
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12176779 , Mon Apr 05 2021 10:47:02 GMT+0900 (GMT+09:00)
+GasPrice is 84.000001459g.
+Gas cost estimated 0.01596000027721 ETH. Profit - GasCost = -0.012976031184082797
+Make gasPrice 10 times. Gas cost estimated 0.1596000027721 ETH. Profit - GasCost = -0.1566160336789728
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12176780 , Mon Apr 05 2021 10:47:14 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12176781 , Mon Apr 05 2021 10:47:30 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12176782 , Mon Apr 05 2021 10:47:38 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+🌟 Bot started! 🌟
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12176784 , Mon Apr 05 2021 10:47:59 GMT+0900 (GMT+09:00)
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12176785 , Mon Apr 05 2021 10:48:03 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 8.338706600403416
+Uniswap V1 TOKEN Reserves         => 9058.264662497446
+Uniswap ETH Reserves              => 468.3076011946314
+Uniswap TOKEN Reserves            => 531898.2571825478
+Sushiswap ETH Reserves            => 504.50334455513587
+Sushiswap TOKEN Reserves          => 568312.9700623021
+
+
+Uniswap V1 TOKEN/ETH              => 1086.2913274894715
+Uniswap V2 TOEKN/ETH              => 1135.7882208738436
+Sushiswap TOKEN/ETH               => 1126.4800842171476
+
+
+Need to start flashswap from Uniswap V2, borrow TOKEN
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan Tokens  => 200.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 0.179606645599958829
+Require to return flashloan to source DEX ETH X      => 0.176685458379341899
+Profit =  Y - X  =>  0.002921187220616933
+⏰ Time: Mon Apr 05 2021 10:48:04 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+GasPrice is 84g.
+Gas cost estimated 0.01596 ETH. Profit - GasCost = -0.013038812779383065
+Make gasPrice 10 times. Gas cost estimated 0.1596 ETH. Profit - GasCost = -0.15667881277938306
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan Tokens  => 210.0
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 0.188384098478908339
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12176786 , Mon Apr 05 2021 10:48:07 GMT+0900 (GMT+09:00)
+Require to return flashloan to source DEX ETH X      => 0.185523220555948073
+Profit =  Y - X  =>  0.0028608779229602477
+⏰ Time: Mon Apr 05 2021 10:48:07 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+GasPrice is 84g.
+Gas cost estimated 0.01596 ETH. Profit - GasCost = -0.01309912207703975
+Make gasPrice 10 times. Gas cost estimated 0.1596 ETH. Profit - GasCost = -0.15673912207703974
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12176787 , Mon Apr 05 2021 10:48:10 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12176788 , Mon Apr 05 2021 10:48:14 GMT+0900 (GMT+09:00)
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12176789 , Mon Apr 05 2021 10:48:14 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+🌟 Bot started! 🌟
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12176789 , Mon Apr 05 2021 10:48:32 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 8.338706600403416
+Uniswap V1 TOKEN Reserves         => 9058.264662497446
+Uniswap ETH Reserves              => 468.3076011946314
+Uniswap TOKEN Reserves            => 531898.2571825478
+Sushiswap ETH Reserves            => 504.50334455513587
+Sushiswap TOKEN Reserves          => 568312.9700623021
+
+
+Uniswap V1 TOKEN/ETH              => 1086.2913274894715
+Uniswap V2 TOEKN/ETH              => 1135.7882208738436
+Sushiswap TOKEN/ETH               => 1126.4800842171476
+
+
+Need to start flashswap from Uniswap V2, borrow TOKEN
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan Tokens  => 200.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 0.179606645599958829
+Require to return flashloan to source DEX ETH X      => 0.176685458379341899
+Profit =  Y - X  =>  0.002921187220616933
+⏰ Time: Mon Apr 05 2021 10:48:36 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+GasPrice is 84.000001459g.
+Gas cost estimated 0.01596000027721 ETH. Profit - GasCost = -0.013038813056593067
+Make gasPrice 10 times. Gas cost estimated 0.1596000027721 ETH. Profit - GasCost = -0.15667881555148308
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan Tokens  => 210.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 0.188384098478908339
+Require to return flashloan to source DEX ETH X      => 0.185523220555948073
+Profit =  Y - X  =>  0.0028608779229602477
+⏰ Time: Mon Apr 05 2021 10:48:39 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+GasPrice is 84.000001459g.
+Gas cost estimated 0.01596000027721 ETH. Profit - GasCost = -0.013099122354249752
+Make gasPrice 10 times. Gas cost estimated 0.1596000027721 ETH. Profit - GasCost = -0.15673912484913977
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12176790 , Mon Apr 05 2021 10:48:40 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12176791 , Mon Apr 05 2021 10:49:00 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+🌟 Bot started! 🌟
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12176798 , Mon Apr 05 2021 10:50:58 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 8.338706600403416
+Uniswap V1 TOKEN Reserves         => 9058.264662497446
+Uniswap ETH Reserves              => 468.3076011946314
+Uniswap TOKEN Reserves            => 531898.2571825478
+Sushiswap ETH Reserves            => 504.50334455513587
+Sushiswap TOKEN Reserves          => 568312.9700623021
+
+
+Uniswap V1 TOKEN/ETH              => 1086.2913274894715
+Uniswap V2 TOEKN/ETH              => 1135.7882208738436
+Sushiswap TOKEN/ETH               => 1126.4800842171476
+
+
+Need to start flashswap from Uniswap V2, borrow TOKEN
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan Tokens  => 200.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 0.179606645599958829
+Require to return flashloan to source DEX ETH X      => 0.176685458379341899
+Profit =  Y - X  =>  0.002921187220616933
+⏰ Time: Mon Apr 05 2021 10:51:03 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+GasPrice is 84g.
+Gas cost estimated 0.01596 ETH. Profit - GasCost = -0.013038812779383065
+Make gasPrice 10 times. Gas cost estimated 0.1596 ETH. Profit - GasCost = -0.15667881277938306
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan Tokens  => 210.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 0.188384098478908339
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12176799 , Mon Apr 05 2021 10:51:06 GMT+0900 (GMT+09:00)
+Require to return flashloan to source DEX ETH X      => 0.185523220555948073
+Profit =  Y - X  =>  0.0028608779229602477
+⏰ Time: Mon Apr 05 2021 10:51:06 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+GasPrice is 84g.
+Gas cost estimated 0.01596 ETH. Profit - GasCost = -0.01309912207703975
+Make gasPrice 10 times. Gas cost estimated 0.1596 ETH. Profit - GasCost = -0.15673912207703974
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+🌟 Bot started! 🌟
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12176801 , Mon Apr 05 2021 10:51:28 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 8.338706600403416
+Uniswap V1 TOKEN Reserves         => 9058.264662497446
+Uniswap ETH Reserves              => 468.3076011946314
+Uniswap TOKEN Reserves            => 531898.2571825478
+Sushiswap ETH Reserves            => 504.50334455513587
+Sushiswap TOKEN Reserves          => 568312.9700623021
+
+
+Uniswap V1 TOKEN/ETH              => 1086.2913274894715
+Uniswap V2 TOEKN/ETH              => 1135.7882208738436
+Sushiswap TOKEN/ETH               => 1126.4800842171476
+
+
+Need to start flashswap from Uniswap V2, borrow TOKEN
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan Tokens  => 110.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 0.099750487599692517
+Require to return flashloan to source DEX ETH X      => 0.09716055584441229
+Profit =  Y - X  =>  0.002589931755280231
+⏰ Time: Mon Apr 05 2021 10:51:33 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+GasPrice is 84g.
+Gas cost estimated 0.01596 ETH. Profit - GasCost = -0.013370068244719768
+Make gasPrice 10 times. Gas cost estimated 0.1596 ETH. Profit - GasCost = -0.15701006824471975
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan Tokens  => 120.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 0.108700503476442858
+Require to return flashloan to source DEX ETH X      => 0.105995326835125173
+Profit =  Y - X  =>  0.002705176641317683
+⏰ Time: Mon Apr 05 2021 10:51:35 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+GasPrice is 84g.
+Gas cost estimated 0.01596 ETH. Profit - GasCost = -0.013254823358682315
+Make gasPrice 10 times. Gas cost estimated 0.1596 ETH. Profit - GasCost = -0.15689482335868232
+
+🤖 Find aribitrage oppoturnity => 3 times 
+👉 If FlashLoan Tokens  => 130.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 0.117631095566611648
+Require to return flashloan to source DEX ETH X      => 0.114830430104828814
+Profit =  Y - X  =>  0.002800665461782842
+⏰ Time: Mon Apr 05 2021 10:51:38 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+GasPrice is 84g.
+Gas cost estimated 0.01596 ETH. Profit - GasCost = -0.013159334538217157
+Make gasPrice 10 times. Gas cost estimated 0.1596 ETH. Profit - GasCost = -0.15679933453821715
+
+🤖 Find aribitrage oppoturnity => 4 times 
+👉 If FlashLoan Tokens  => 140.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 0.126542327033415701
+Require to return flashloan to source DEX ETH X      => 0.12366586567226927
+Profit =  Y - X  =>  0.002876461361146429
+⏰ Time: Mon Apr 05 2021 10:51:40 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+GasPrice is 84g.
+Gas cost estimated 0.01596 ETH. Profit - GasCost = -0.01308353863885357
+Make gasPrice 10 times. Gas cost estimated 0.1596 ETH. Profit - GasCost = -0.15672353863885358
+
+🤖 Find aribitrage oppoturnity => 5 times 
+👉 If FlashLoan Tokens  => 150.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 0.135434260766505392
+Require to return flashloan to source DEX ETH X      => 0.132501633556194005
+Profit =  Y - X  =>  0.0029326272103113726
+⏰ Time: Mon Apr 05 2021 10:51:42 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+GasPrice is 84g.
+Gas cost estimated 0.01596 ETH. Profit - GasCost = -0.013027372789688626
+Make gasPrice 10 times. Gas cost estimated 0.1596 ETH. Profit - GasCost = -0.15666737278968862
+
+🤖 Find aribitrage oppoturnity => 6 times 
+👉 If FlashLoan Tokens  => 160.0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12176802 , Mon Apr 05 2021 10:51:43 GMT+0900 (GMT+09:00)
+With the flashloan tokens, Uniswap V1 will get ETH Y => 0.144306959383444108
+Require to return flashloan to source DEX ETH X      => 0.141337733775351896
+Profit =  Y - X  =>  0.0029692256080922075
+⏰ Time: Mon Apr 05 2021 10:51:45 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+GasPrice is 84g.
+Gas cost estimated 0.01596 ETH. Profit - GasCost = -0.012990774391907791
+Make gasPrice 10 times. Gas cost estimated 0.1596 ETH. Profit - GasCost = -0.15663077439190778
+
+🤖 Find aribitrage oppoturnity => 7 times 
+👉 If FlashLoan Tokens  => 170.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 0.153160485231178114
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+Require to return flashloan to source DEX ETH X      => 0.150174166348493229
+Profit =  Y - X  =>  0.002986318882684885
+⏰ Time: Mon Apr 05 2021 10:51:47 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12176803 , Mon Apr 05 2021 10:51:47 GMT+0900 (GMT+09:00)
+GasPrice is 84g.
+Gas cost estimated 0.01596 ETH. Profit - GasCost = -0.012973681117315113
+Make gasPrice 10 times. Gas cost estimated 0.1596 ETH. Profit - GasCost = -0.1566136811173151
+
+🤖 Find aribitrage oppoturnity => 8 times 
+👉 If FlashLoan Tokens  => 180.0
+With the flashloan tokens, Uniswap V1 will get ETH Y => 0.161994900387496893
+Require to return flashloan to source DEX ETH X      => 0.1590109312943697
+Profit =  Y - X  =>  0.0029839690931272034
+⏰ Time: Mon Apr 05 2021 10:51:49 GMT+0900 (GMT+09:00)
+Swap costs gas is 190000 (188199)
+GasPrice is 84g.
+Gas cost estimated 0.01596 ETH. Profit - GasCost = -0.012976030906872795
+Make gasPrice 10 times. Gas cost estimated 0.1596 ETH. Profit - GasCost = -0.1566160309068728
+
+👌👌👌 OK, to NEXT block 👌👌👌
+
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12176804 , Mon Apr 05 2021 10:52:12 GMT+0900 (GMT+09:00)
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0

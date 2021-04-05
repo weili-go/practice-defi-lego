@@ -1,0 +1,126 @@
+🌟 Bot started! 🌟
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12176795 , Mon Apr 05 2021 10:50:07 GMT+0900 (GMT+09:00)
+Uniswap V1 ETH Reserves           => 191.39250312511683
+Uniswap V1 TOKEN Reserves         => 173.27004349212285
+Uniswap ETH Reserves              => 8655.754922829366
+Uniswap TOKEN Reserves            => 7715.648689110496
+Sushiswap ETH Reserves            => 7581.352419136325
+Sushiswap TOKEN Reserves          => 6736.476483395421
+
+
+Uniswap V1 TOKEN/ETH              => 0.9053125940823973
+Uniswap V2 TOEKN/ETH              => 0.8913894579848419
+Sushiswap TOKEN/ETH               => 0.8885586780521736
+
+
+Need to start flashswap from Sushiswap, borrow ETH
+
+🤖 Find aribitrage oppoturnity => 1 times 
+👉 If FlashLoan ETHs  => 0.6 ETH
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12176796 , Mon Apr 05 2021 10:50:11 GMT+0900 (GMT+09:00)
+Require to return flashloan source DEX tokens           => 0.534781748564418886
+To get the tokens, need to send Uniswap V1 WETH X       => 0.594326833157210164
+Profit = (FlashLoan ETHs) - X                           =>  0.005673166842789845
+⏰ Time: Mon Apr 05 2021 10:50:12 GMT+0900 (GMT+09:00)
+Swap costs gas is 240000 (232309)
+GasPrice is 84g.
+Gas cost estimated 0.02016 ETH. Profit - GasCost = -0.014486833157210156
+Make gasPrice 10 times. Gas cost estimated 0.2016 ETH. Profit - GasCost = -0.19592683315721016
+
+🤖 Find aribitrage oppoturnity => 2 times 
+👉 If FlashLoan ETHs  => 0.7 ETH
+Require to return flashloan source DEX tokens           => 0.623920270312980366
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+To get the tokens, need to send Uniswap V1 WETH X       => 0.693748454898745379
+Profit = (FlashLoan ETHs) - X                           =>  0.006251545101254585
+⏰ Time: Mon Apr 05 2021 10:50:15 GMT+0900 (GMT+09:00)
+Swap costs gas is 240000 (232309)
+GasPrice is 84g.
+Gas cost estimated 0.02016 ETH. Profit - GasCost = -0.013908454898745416
+Make gasPrice 10 times. Gas cost estimated 0.2016 ETH. Profit - GasCost = -0.19534845489874542
+
+🤖 Find aribitrage oppoturnity => 3 times 
+👉 If FlashLoan ETHs  => 0.8 ETH
+Require to return flashloan source DEX tokens           => 0.713061143830036277
+To get the tokens, need to send Uniswap V1 WETH X       => 0.793275421107618117
+Profit = (FlashLoan ETHs) - X                           =>  0.006724578892381983
+⏰ Time: Mon Apr 05 2021 10:50:17 GMT+0900 (GMT+09:00)
+Swap costs gas is 240000 (232309)
+GasPrice is 84g.
+Gas cost estimated 0.02016 ETH. Profit - GasCost = -0.013435421107618018
+Make gasPrice 10 times. Gas cost estimated 0.2016 ETH. Profit - GasCost = -0.19487542110761802
+
+🤖 Find aribitrage oppoturnity => 4 times 
+👉 If FlashLoan ETHs  => 0.9 ETH
+
+👌👌👌 OK Start aribitrage block by block 👌👌👌
+
+BlockNumber => 12176797 , Mon Apr 05 2021 10:50:18 GMT+0900 (GMT+09:00)
+Require to return flashloan source DEX tokens           => 0.802204369208658974
+To get the tokens, need to send Uniswap V1 WETH X       => 0.892907899302809714
+Profit = (FlashLoan ETHs) - X                           =>  0.007092100697190351
+⏰ Time: Mon Apr 05 2021 10:50:19 GMT+0900 (GMT+09:00)
+Swap costs gas is 240000 (232309)
+GasPrice is 84g.
+Gas cost estimated 0.02016 ETH. Profit - GasCost = -0.01306789930280965
+Make gasPrice 10 times. Gas cost estimated 0.2016 ETH. Profit - GasCost = -0.19450789930280965
+
+🤖 Find aribitrage oppoturnity => 5 times 
+👉 If FlashLoan ETHs  => 1.0 ETH
+Require to return flashloan source DEX tokens           => 0.891349946541925721
+TOKEN/ETH not changed too much, will wait for next block. 
+Uniswap V1 Price Spread: Old - New => 0
+Uniswap V2 Price Spread: Old - New => 0
+ushiswap  Price  Spread: Old - New => 0
+To get the tokens, need to send Uniswap V1 WETH X       => 0.992646057358675232
+Profit = (FlashLoan ETHs) - X                           =>  0.007353942641324718
+⏰ Time: Mon Apr 05 2021 10:50:22 GMT+0900 (GMT+09:00)
+Swap costs gas is 240000 (232309)
+GasPrice is 84g.
+Gas cost estimated 0.02016 ETH. Profit - GasCost = -0.012806057358675283
+Make gasPrice 10 times. Gas cost estimated 0.2016 ETH. Profit - GasCost = -0.19424605735867528
+
+🤖 Find aribitrage oppoturnity => 6 times 
+👉 If FlashLoan ETHs  => 1.1 ETH
+Require to return flashloan source DEX tokens           => 0.980497875922918695
+To get the tokens, need to send Uniswap V1 WETH X       => 1.092490063505886325
+Profit = (FlashLoan ETHs) - X                           =>  0.0075099364941138
+⏰ Time: Mon Apr 05 2021 10:50:24 GMT+0900 (GMT+09:00)
+Swap costs gas is 240000 (232309)
+GasPrice is 84g.
+Gas cost estimated 0.02016 ETH. Profit - GasCost = -0.0126500635058862
+Make gasPrice 10 times. Gas cost estimated 0.2016 ETH. Profit - GasCost = -0.1940900635058862
+
+🤖 Find aribitrage oppoturnity => 7 times 
+👉 If FlashLoan ETHs  => 1.2 ETH
+Require to return flashloan source DEX tokens           => 1.069648157444724984
+To get the tokens, need to send Uniswap V1 WETH X       => 1.192440086332377093
+Profit = (FlashLoan ETHs) - X                           =>  0.007559913667622764
+⏰ Time: Mon Apr 05 2021 10:50:26 GMT+0900 (GMT+09:00)
+Swap costs gas is 240000 (232309)
+GasPrice is 84g.
+Gas cost estimated 0.02016 ETH. Profit - GasCost = -0.012600086332377237
+Make gasPrice 10 times. Gas cost estimated 0.2016 ETH. Profit - GasCost = -0.19404008633237724
+
+🤖 Find aribitrage oppoturnity => 8 times 
+👉 If FlashLoan ETHs  => 1.3 ETH
+Require to return flashloan source DEX tokens           => 1.158800791200436588
+To get the tokens, need to send Uniswap V1 WETH X       => 1.292496294784292966
+Profit = (FlashLoan ETHs) - X                           =>  0.0075037052157069795
+⏰ Time: Mon Apr 05 2021 10:50:28 GMT+0900 (GMT+09:00)
+Swap costs gas is 240000 (232309)
+GasPrice is 84g.
+Gas cost estimated 0.02016 ETH. Profit - GasCost = -0.012656294784293021
+Make gasPrice 10 times. Gas cost estimated 0.2016 ETH. Profit - GasCost = -0.19409629478429302
+
+👌👌👌 OK, to NEXT block 👌👌👌
+

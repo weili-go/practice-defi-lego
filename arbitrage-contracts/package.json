@@ -1,0 +1,29 @@
+{
+  "name": "practice-defi-lego",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.1.0"
+  },
+  "devDependencies": {
+    "@openzeppelin/contracts": "^3.4.0",
+    "ganache-cli": "^6.12.2",
+    "truffle": "^5.1.65",
+    "truffle-plugin-verify": "^0.5.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "defi"
+  ],
+  "author": "Pedro Bergamini",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  }
+}
